@@ -1,0 +1,995 @@
+model,item,clue,category,macro_category,n_of_words,answer_length,solution,concatenation,concatenation_type,surprisal_type,surprisal
+gpt2_small_ita,146,"calare, chinare",inf_VP,infinitive,2,9,abbassare,"abbassare, calare, chinare",concatenation_topic_art,surprisal_diff,4.154307186603546
+gpt2_small_ita,62,ne è rivestito il riccio,pass:other,verb_pred,5,6,aculei,"gli aculei, ne è rivestito il riccio",concatenation_topic_art,surprisal_diff,19.249077796936035
+gpt2_small_ita,158,le hanno cani e gatti,metalinguistic,metalinguistic,5,2,ai,"ai, le hanno cani e gatti",concatenation_topic_art,surprisal_diff,11.464395523071287
+gpt2_small_ita,72,con le sue foglie si intessevano le corone dei vincitori,imp_refl:missSubj,verb_pred,10,6,alloro,"l'alloro, con le sue foglie si intessevano le corone dei vincitori",concatenation_topic_art,surprisal_diff,15.119579896330832
+gpt2_small_ita,102,le montagne etiopiche,def_DP,nominal,3,4,ambe,"le ambe, le montagne etiopiche",concatenation_topic_art,surprisal_diff,22.09515488147736
+gpt2_small_ita,2,è insidioso sott'acqua,cop:missSubj,copular,3,3,amo,"l'amo, è insidioso sott'acqua",concatenation_topic_art,surprisal_diff,19.355055764317516
+gpt2_small_ita,128,tra la coscia e il bacino,PP,prepositional,6,4,anca,"l'anca, tra la coscia e il bacino",concatenation_topic_art,surprisal_diff,12.3814464956522
+gpt2_small_ita,21,quello nuziale è la fede,cop:pron,copular,5,6,anello,"l'anello, quello nuziale è la fede",concatenation_topic_art,surprisal_diff,15.191061720252035
+gpt2_small_ita,114,una malattia mediterranea,ind_DP,nominal,3,6,anemia,"l'anemia, una malattia mediterranea",concatenation_topic_art,surprisal_diff,16.256383523344994
+gpt2_small_ita,11,lo è una donna di medina,cop:clitic,copular,6,5,araba,"araba, lo è una donna di medina",concatenation_topic_art,surprisal_diff,14.045185327529907
+gpt2_small_ita,92,piante che forniscono frutti per spremute,bare_NP:rel,nominal,6,6,aranci,"gli aranci, piante che forniscono frutti per spremute",concatenation_topic_art,surprisal_diff,18.59019947052002
+gpt2_small_ita,151,mettere sottosopra i campi,inf_VP,infinitive,4,5,arare,"arare, mettere sottosopra i campi",concatenation_topic_art,surprisal_diff,15.014417558908464
+gpt2_small_ita,141,famosa quella di verona,adjP:pron,adjectival,4,5,arena,"l'arena, famosa quella di verona",concatenation_topic_art,surprisal_diff,16.37951086461544
+gpt2_small_ita,99,i mobili con le grucce,def_DP,nominal,5,6,armadi,"gli armadi, i mobili con le grucce",concatenation_topic_art,surprisal_diff,14.729346871376038
+gpt2_small_ita,17,quella amatoria è di ovidio,cop:pron,copular,5,3,ars,"l'ars, quella amatoria è di ovidio",concatenation_topic_art,surprisal_diff,18.63073919713497
+gpt2_small_ita,20,è poetica quella di orazio,cop:pron,copular,5,3,ars,"l'ars, è poetica quella di orazio",concatenation_topic_art,surprisal_diff,22.479512080550197
+gpt2_small_ita,85,antico sacerdote indovino,bare_NP,nominal,3,8,aruspice,"l'aruspice, antico sacerdote indovino",concatenation_topic_art,surprisal_diff,32.37916551530361
+gpt2_small_ita,64,garibaldi vi fu ferito e fatto prigioniero,pass:other,verb_pred,7,10,aspromonte,"aspromonte, garibaldi vi fu ferito e fatto prigioniero",concatenation_topic_art,surprisal_diff,22.73794174194336
+gpt2_small_ita,135,non distratta,adjP,adjectival,2,7,attenta,"attenta, non distratta",concatenation_topic_art,surprisal_diff,6.90347146987915
+gpt2_small_ita,90,complice che organizza il colpo,bare_NP:rel,nominal,5,7,basista,"il basista, complice che organizza il colpo",concatenation_topic_art,surprisal_diff,17.930900812149048
+gpt2_small_ita,121,in modo buono e corretto,PP,prepositional,5,4,bene,"bene, in modo buono e corretto",concatenation_topic_art,surprisal_diff,9.787134170532228
+gpt2_small_ita,81,formaggi,bare_NP,nominal,1,4,caci,"i caci, formaggi",concatenation_topic_art,surprisal_diff,22.61943006515503
+gpt2_small_ita,8,è oscura per il fotografo,cop:missSubj,copular,5,6,camera,"la camera, è oscura per il fotografo",concatenation_topic_art,surprisal_diff,15.434026002883911
+gpt2_small_ita,23,quello di lungo corso è un esperto navigante,cop:pron,copular,8,8,capitano,"il capitano, quello di lungo corso è un esperto navigante",concatenation_topic_art,surprisal_diff,11.34040081501007
+gpt2_small_ita,98,il piatto di carne cruda con grana,def_DP,nominal,7,9,carpaccio,"il carpaccio, il piatto di carne cruda con grana",concatenation_topic_art,surprisal_diff,16.33139955997467
+gpt2_small_ita,43,quello rosso costa l'espulsione,act:pron,verb_pred,4,10,cartellino,"il cartellino, quello rosso costa l'espulsione",concatenation_topic_art,surprisal_diff,13.486748151481152
+gpt2_small_ita,7,"possono essere di uva, di riso e di caffè",cop:missSubj,copular,9,7,chicchi,"i chicchi, possono essere di uva, di riso e di caffè",concatenation_topic_art,surprisal_diff,19.020866319537163
+gpt2_small_ita,31,ha preceduto bush,act:missSubj,verb_pred,3,7,clinton,"clinton, ha preceduto bush",concatenation_topic_art,surprisal_diff,26.5531747341156
+gpt2_small_ita,156,centimetro... corto,metalinguistic,metalinguistic,2,2,cm,"cm, centimetro... corto",concatenation_topic_art,surprisal_diff,7.858784273266792
+gpt2_small_ita,107,il doyle che creò sherlock holmes,def_DP:rel,nominal,6,5,conan,"conan, il doyle che creò sherlock holmes",concatenation_topic_art,surprisal_diff,18.116952180862427
+gpt2_small_ita,42,quella d'oro circonda palermo,act:pron,verb_pred,4,5,conca,"la conca, quella d'oro circonda palermo",concatenation_topic_art,surprisal_diff,13.645315870642662
+gpt2_small_ita,83,organismo sportivo,bare_NP,nominal,2,4,coni,"il coni, organismo sportivo",concatenation_topic_art,surprisal_diff,21.43508815765381
+gpt2_small_ita,134,uniti in un gruppo commerciale,adjP,adjectival,5,10,consociati,"consociati, uniti in un gruppo commerciale",concatenation_topic_art,surprisal_diff,16.38184952735901
+gpt2_small_ita,29,segnano il consumo di acqua e luce,act:missSubj,verb_pred,7,9,contatori,"i contatori, segnano il consumo di acqua e luce",concatenation_topic_art,surprisal_diff,19.85748279094696
+gpt2_small_ita,75,quelle ippiche si fanno all'ippodromo,imp_refl:other,verb_pred,5,5,corse,"le corse, quelle ippiche si fanno all'ippodromo",concatenation_topic_art,surprisal_diff,8.572268087416887
+gpt2_small_ita,123,con la farina nel pane integrale,PP,prepositional,6,6,crusca,"la crusca, con la farina nel pane integrale",concatenation_topic_art,surprisal_diff,18.68963861465454
+gpt2_small_ita,60,gli sono dedicati luoghi particolari,pass:other,verb_pred,5,5,culto,"il culto, gli sono dedicati luoghi particolari",concatenation_topic_art,surprisal_diff,16.81367778778076
+gpt2_small_ita,84,ex pedine,bare_NP,nominal,2,4,dame,"le dame, ex pedine",concatenation_topic_art,surprisal_diff,20.319854497909542
+gpt2_small_ita,59,le sono affidati poteri o incarichi,pass:other,verb_pred,6,8,delegata,"delegata, le sono affidati poteri o incarichi",concatenation_topic_art,surprisal_diff,16.13755965232849
+gpt2_small_ita,70,si effettuano fuorviando,imp_refl:missSubj,verb_pred,3,10,depistaggi,"i depistaggi, si effettuano fuorviando",concatenation_topic_art,surprisal_diff,26.98571515083313
+gpt2_small_ita,105,il fisico che ottenne il nobel nel 1933,def_DP:rel,nominal,8,5,dirac,"dirac, il fisico che ottenne il nobel nel 1933",concatenation_topic_art,surprisal_diff,24.50457799434662
+gpt2_small_ita,145,dare il tempo all'orchestra,inf_VP,infinitive,4,8,dirigere,"dirigere, dare il tempo all'orchestra",concatenation_topic_art,surprisal_diff,11.85323916003108
+gpt2_small_ita,35,"le chiudono i giovani, e non i giovanardi",act:clitic,verb_pred,8,10,discoteche,"le discoteche, le chiudono i giovani, e non i giovanardi",concatenation_topic_art,surprisal_diff,17.96455019712448
+gpt2_small_ita,1,è dolce in aprile,cop:missSubj,copular,4,7,dormire,"dormire, è dolce in aprile",concatenation_topic_art,surprisal_diff,14.581085205078123
+gpt2_small_ita,63,vi fu commesso il peccato originale,pass:other,verb_pred,6,4,eden,"l'eden, vi fu commesso il peccato originale",concatenation_topic_art,surprisal_diff,24.15018890798092
+gpt2_small_ita,93,casa che pubblica opere a stampa,bare_NP:rel,nominal,6,8,editrice,"editrice, casa che pubblica opere a stampa",concatenation_topic_art,surprisal_diff,8.847549676895142
+gpt2_small_ita,136,relativi al vento,adjP,adjectival,3,6,eolici,"eolici, relativi al vento",concatenation_topic_art,surprisal_diff,19.133602380752563
+gpt2_small_ita,49,fu seppellita dal vesuvio,pass:missSubj,verb_pred,4,8,ercolano,"ercolano, fu seppellita dal vesuvio",concatenation_topic_art,surprisal_diff,15.93228793144226
+gpt2_small_ita,65,si dividono i beni,imp_refl:missSubj,verb_pred,4,5,eredi,"gli eredi, si dividono i beni",concatenation_topic_art,surprisal_diff,12.175005674362184
+gpt2_small_ita,147,avere un lascito,inf_VP,infinitive,3,9,ereditare,"ereditare, avere un lascito",concatenation_topic_art,surprisal_diff,14.1717331642285
+gpt2_small_ita,71,può strozzarsi da sola,imp_refl:missSubj,verb_pred,4,5,ernia,"l'ernia, può strozzarsi da sola",concatenation_topic_art,surprisal_diff,23.25780175626278
+gpt2_small_ita,130,proprio di un popolo,adjP,adjectival,4,6,etnico,"etnico, proprio di un popolo",concatenation_topic_art,surprisal_diff,11.5247220993042
+gpt2_small_ita,38,li teme il gallerista,act:clitic,verb_pred,4,5,falsi,"i falsi, li teme il gallerista",concatenation_topic_art,surprisal_diff,12.139171183109283
+gpt2_small_ita,4,è tifoso per una diva,cop:missSubj,copular,5,3,fan,"il fan, è tifoso per una diva",concatenation_topic_art,surprisal_diff,17.13891713693738
+gpt2_small_ita,30,tiene il termometro sul comodino,act:missSubj,verb_pred,5,13,febbricitante,"il febbricitante, tiene il termometro sul comodino",concatenation_topic_art,surprisal_diff,22.16832511126995
+gpt2_small_ita,115,un'insulsa poesiola,ind_DP,nominal,2,11,filastrocca,"la filastrocca, un'insulsa poesiola",concatenation_topic_art,surprisal_diff,17.436214312911034
+gpt2_small_ita,137,famosi quelli di san francesco,adjP:pron,adjectival,5,8,fioretti,"i fioretti, famosi quelli di san francesco",concatenation_topic_art,surprisal_diff,19.08067539334297
+gpt2_small_ita,111,la pietra che produce scintille,def_DP:rel,nominal,5,6,focaia,"focaia, la pietra che produce scintille",concatenation_topic_art,surprisal_diff,21.77782505750656
+gpt2_small_ita,144,profonda quella delle marianne,adjP:pron,adjectival,4,5,fossa,"la fossa, profonda quella delle marianne",concatenation_topic_art,surprisal_diff,14.878825426101685
+gpt2_small_ita,54,fu amata da polifemo,pass:missSubj,verb_pred,4,7,galatea,"galatea, fu amata da polifemo",concatenation_topic_art,surprisal_diff,21.05741584300995
+gpt2_small_ita,69,quello liquido si conserva in bombole,imp_refl:missSubj,verb_pred,6,3,gas,"il gas, quello liquido si conserva in bombole",concatenation_topic_art,surprisal_diff,9.230412483215332
+gpt2_small_ita,45,quelli d'azzardo affollano il casinò,act:pron,verb_pred,5,9,giocatori,"i giocatori, quelli d'azzardo affollano il casinò",concatenation_topic_art,surprisal_diff,7.216365899425
+gpt2_small_ita,91,giudice che indaga,bare_NP:rel,nominal,3,3,gip,"il gip, giudice che indaga",concatenation_topic_art,surprisal_diff,16.177886832505465
+gpt2_small_ita,16,lo è il sasso d'abruzzo,cop:clitic,copular,5,4,gran,"gran, lo è il sasso d'abruzzo",concatenation_topic_art,surprisal_diff,14.693655464798212
+gpt2_small_ita,152,alzare il volume della voce,inf_VP,infinitive,5,7,gridare,"gridare, alzare il volume della voce",concatenation_topic_art,surprisal_diff,12.342307806015016
+gpt2_small_ita,67,si applicano per abbellire,imp_refl:missSubj,verb_pred,4,11,guarnizioni,"le guarnizioni, si applicano per abbellire",concatenation_topic_art,surprisal_diff,21.72208172082901
+gpt2_small_ita,119,una sigla informatica,ind_DP,nominal,3,3,ibm,"ibm, una sigla informatica",concatenation_topic_art,surprisal_diff,16.819765090942383
+gpt2_small_ita,36,lo adorano i pagani,act:clitic,verb_pred,4,5,idolo,"l'idolo, lo adorano i pagani",concatenation_topic_art,surprisal_diff,14.717023089528084
+gpt2_small_ita,12,lo è l'opera di un genio,cop:clitic,copular,6,9,immortale,"immortale, lo è l'opera di un genio",concatenation_topic_art,surprisal_diff,11.985172498971224
+gpt2_small_ita,15,lo è il vulcano spento,cop:clitic,copular,5,8,inattivo,"inattivo, lo è il vulcano spento",concatenation_topic_art,surprisal_diff,17.45077872276306
+gpt2_small_ita,13,lo è il carburatore troppo pieno di benzina,cop:clitic,copular,8,9,ingolfato,"ingolfato, lo è il carburatore troppo pieno di benzina",concatenation_topic_art,surprisal_diff,19.081362006720155
+gpt2_small_ita,19,non è promettente quello della fine,cop:pron,copular,6,6,inizio,"l'inizio, non è promettente quello della fine",concatenation_topic_art,surprisal_diff,12.697730764746666
+gpt2_small_ita,139,grandi quelli di einstein e dante,adjP:pron,adjectival,6,10,intelletti,"gli intelletti, grandi quelli di einstein e dante",concatenation_topic_art,surprisal_diff,20.39698910713196
+gpt2_small_ita,133,passivo e attivo in banca,adjP,adjectival,5,9,interesse,"l'interesse, passivo e attivo in banca",concatenation_topic_art,surprisal_diff,13.292893871665
+gpt2_small_ita,118,una forma di elettroterapia,ind_DP,nominal,4,10,ionoforesi,"la ionoforesi, una forma di elettroterapia",concatenation_topic_art,surprisal_diff,36.61315256357193
+gpt2_small_ita,100,la pista dei purosangue,def_DP,nominal,4,9,ippodromo,"l'ippodromo, la pista dei purosangue",concatenation_topic_art,surprisal_diff,14.217599853873253
+gpt2_small_ita,124,come il poeta sotto l'influsso della musa,PP,prepositional,7,8,ispirato,"ispirato, come il poeta sotto l'influsso della musa",concatenation_topic_art,surprisal_diff,11.97232485935092
+gpt2_small_ita,56,viene cardata,pass:missSubj,verb_pred,2,4,lana,"la lana, viene cardata",concatenation_topic_art,surprisal_diff,16.490158557891846
+gpt2_small_ita,103,il coniglio come pelliccia,def_DP,nominal,4,5,lapin,"il lapin, il coniglio come pelliccia",concatenation_topic_art,surprisal_diff,24.373335108160973
+gpt2_small_ita,96,quotidiano che si legge a verona,bare_NP:rel,nominal,6,6,larena,"l'arena, quotidiano che si legge a verona",concatenation_topic_art,surprisal_diff,19.319448694586757
+gpt2_small_ita,79,quella di soia si prende per il colesterolo,imp_refl:other,verb_pred,8,8,lecitina,"la lecitina, quella di soia si prende per il colesterolo",concatenation_topic_art,surprisal_diff,22.060091674880823
+gpt2_small_ita,24,quelli marini sono le otarie,cop:pron,copular,5,5,leoni,"i leoni, quelli marini sono le otarie",concatenation_topic_art,surprisal_diff,15.268646478652954
+gpt2_small_ita,160,cambiano la sagra in lagna,metalinguistic,metalinguistic,5,2,ln,"ln, cambiano la sagra in lagna",concatenation_topic_art,surprisal_diff,19.41919779777527
+gpt2_small_ita,157,i confini del labrador,metalinguistic,metalinguistic,4,2,lr,"lr, i confini del labrador",concatenation_topic_art,surprisal_diff,22.39719700813293
+gpt2_small_ita,82,cattiveria raffinata,bare_NP,nominal,2,9,malvagita,"la malvagita, cattiveria raffinata",concatenation_topic_art,surprisal_diff,19.593155451584607
+gpt2_small_ita,113,una riproduzione modellistica,ind_DP,nominal,3,8,maquette,"la maquette, una riproduzione modellistica",concatenation_topic_art,surprisal_diff,24.475461333990097
+gpt2_small_ita,116,un rimedio contro i crampi,ind_DP,nominal,5,9,massaggio,"il massaggio, un rimedio contro i crampi",concatenation_topic_art,surprisal_diff,19.105894446372982
+gpt2_small_ita,3,è sana in corpore sano,cop:missSubj,copular,5,4,mens,"la mens, è sana in corpore sano",concatenation_topic_art,surprisal_diff,21.524635791778564
+gpt2_small_ita,153,in mezzo al tamigi,metalinguistic,metalinguistic,4,2,mi,"mi, in mezzo al tamigi",concatenation_topic_art,surprisal_diff,9.38535737991333
+gpt2_small_ita,148,preparare il salto in aria!,inf_VP,infinitive,5,6,minare,"minare, preparare il salto in aria!",concatenation_topic_art,surprisal_diff,21.319984912872314
+gpt2_small_ita,132,"docile, mansueto",adjP,adjectival,2,4,mite,"mite, docile, mansueto",concatenation_topic_art,surprisal_diff,13.171407550573347
+gpt2_small_ita,37,lo può diventare un attore o un cantante,act:clitic,verb_pred,8,4,mito,"il mito, lo può diventare un attore o un cantante",concatenation_topic_art,surprisal_diff,17.248413264751434
+gpt2_small_ita,89,donna che ha preso il velo,bare_NP:rel,nominal,6,6,monaca,"la monaca, donna che ha preso il velo",concatenation_topic_art,surprisal_diff,17.528419256210327
+gpt2_small_ita,27,vestono il saio,act:missSubj,verb_pred,3,6,monaci,"i monaci, vestono il saio",concatenation_topic_art,surprisal_diff,15.441949486732485
+gpt2_small_ita,34,lo fugge l'eremita,act:clitic,verb_pred,3,5,mondo,"il mondo, lo fugge l'eremita",concatenation_topic_art,surprisal_diff,12.2489881683141
+gpt2_small_ita,86,"demi, nota attrice",bare_NP,nominal,3,5,moore,"moore, demi, nota attrice",concatenation_topic_art,surprisal_diff,21.827009677886963
+gpt2_small_ita,108,l'elsa che fu celebre scrittrice,def_DP:rel,nominal,5,7,morante,"morante, l'elsa che fu celebre scrittrice",concatenation_topic_art,surprisal_diff,18.31321392953396
+gpt2_small_ita,44,quelle eterne non si sciolgono,act:pron,verb_pred,5,4,nevi,"le nevi, quelle eterne non si sciolgono",concatenation_topic_art,surprisal_diff,13.377168357372284
+gpt2_small_ita,110,il fiume che straripando fertilizzava,def_DP:rel,nominal,5,4,nilo,"il nilo, il fiume che straripando fertilizzava",concatenation_topic_art,surprisal_diff,16.362407565116882
+gpt2_small_ita,87,palmizi nel deserto,bare_NP,nominal,3,4,oasi,"le oasi, palmizi nel deserto",concatenation_topic_art,surprisal_diff,16.160266637802124
+gpt2_small_ita,5,è più o meno denso,cop:missSubj,copular,5,4,olio,"l'olio, è più o meno denso",concatenation_topic_art,surprisal_diff,13.634736243751831
+gpt2_small_ita,53,sono esposti in stazione,pass:missSubj,verb_pred,4,5,orari,"gli orari, sono esposti in stazione",concatenation_topic_art,surprisal_diff,16.460256457328796
+gpt2_small_ita,46,quello del corpo non ha le canne,act:pron,verb_pred,7,6,organo,"l'organo, quello del corpo non ha le canne",concatenation_topic_art,surprisal_diff,11.198357090353966
+gpt2_small_ita,22,quello lavatore è il procione,cop:pron,copular,5,7,orsetto,"l'orsetto, quello lavatore è il procione",concatenation_topic_art,surprisal_diff,19.930855497717857
+gpt2_small_ita,95,luogo recintato in cui si custodiscono le pecore,bare_NP:rel,nominal,8,5,ovile,"l'ovile, luogo recintato in cui si custodiscono le pecore",concatenation_topic_art,surprisal_diff,19.20713610947132
+gpt2_small_ita,143,celebri quelli di annibale a capua,adjP:pron,adjectival,6,3,ozi,"gli ozi, celebri quelli di annibale a capua",concatenation_topic_art,surprisal_diff,19.561167240142822
+gpt2_small_ita,106,la condicio che uguaglia,def_DP:rel,nominal,4,3,par,"par, la condicio che uguaglia",concatenation_topic_art,surprisal_diff,12.830971717834473
+gpt2_small_ita,117,un assieme di rattoppi,ind_DP,nominal,4,9,patchwork,"il patchwork, un assieme di rattoppi",concatenation_topic_art,surprisal_diff,21.518638372421265
+gpt2_small_ita,32,piace ai lupi,act:missSubj,verb_pred,3,6,pecora,"la pecora, piace ai lupi",concatenation_topic_art,surprisal_diff,18.04546058177948
+gpt2_small_ita,97,l'occhio vigile del sommergibile,def_DP,nominal,4,10,periscopio,"il periscopio, l'occhio vigile del sommergibile",concatenation_topic_art,surprisal_diff,25.55037887278013
+gpt2_small_ita,127,su un piatto della bilancia,PP,prepositional,5,4,pesi,"i pesi, su un piatto della bilancia",concatenation_topic_art,surprisal_diff,15.358646392822266
+gpt2_small_ita,150,"foggiare, modellare",inf_VP,infinitive,2,8,plasmare,"plasmare, foggiare, modellare",concatenation_topic_art,surprisal_diff,10.779513850808144
+gpt2_small_ita,25,non preoccupa l'incosciente,act:missSubj,verb_pred,3,3,poi,"il poi, non preoccupa l'incosciente",concatenation_topic_art,surprisal_diff,18.537057497538623
+gpt2_small_ita,138,pregiate quelle di limoges,adjP:pron,adjectival,4,10,porcellane,"le porcellane, pregiate quelle di limoges",concatenation_topic_art,surprisal_diff,15.618333756923676
+gpt2_small_ita,142,forti quelle dei lottatori,adjP:pron,adjectival,4,5,prese,"le prese, forti quelle dei lottatori",concatenation_topic_art,surprisal_diff,15.027661949396132
+gpt2_small_ita,122,di specchiata rettitudine,PP,prepositional,3,5,probo,"probo, di specchiata rettitudine",concatenation_topic_art,surprisal_diff,19.643432140350345
+gpt2_small_ita,125,ai lati del palcoscenico,PP,prepositional,4,6,quinte,"le quinte, ai lati del palcoscenico",concatenation_topic_art,surprisal_diff,13.404126286506653
+gpt2_small_ita,39,lo taglia il potatore,act:clitic,verb_pred,4,4,ramo,"il ramo, lo taglia il potatore",concatenation_topic_art,surprisal_diff,16.448357105255127
+gpt2_small_ita,104,la musica di jovanotti,def_DP,nominal,4,3,rap,"il rap, la musica di jovanotti",concatenation_topic_art,surprisal_diff,13.497889220714567
+gpt2_small_ita,10,lo sono le aquile,cop:clitic,copular,4,6,rapaci,"rapaci, lo sono le aquile",concatenation_topic_art,surprisal_diff,17.09808173775673
+gpt2_small_ita,50,è stato incoronato,pass:missSubj,verb_pred,3,2,re,"il re, è stato incoronato",concatenation_topic_art,surprisal_diff,15.257016343995929
+gpt2_small_ita,61,vi furono ritrovati noti bronzi,pass:other,verb_pred,5,5,riace,"riace, vi furono ritrovati noti bronzi",concatenation_topic_art,surprisal_diff,25.100701093673703
+gpt2_small_ita,140,gustosi quelli di mare,adjP:pron,adjectival,4,5,ricci,"i ricci, gustosi quelli di mare",concatenation_topic_art,surprisal_diff,16.691110610961914
+gpt2_small_ita,6,può essere gastronomica,cop:missSubj,copular,3,7,ricetta,"la ricetta, può essere gastronomica",concatenation_topic_art,surprisal_diff,13.150619179010391
+gpt2_small_ita,52,è baciata in certe poesie,pass:missSubj,verb_pred,5,4,rima,"la rima, è baciata in certe poesie",concatenation_topic_art,surprisal_diff,15.413036108016968
+gpt2_small_ita,76,vi si smorza l'onda,imp_refl:other,verb_pred,4,4,riva,"la riva, vi si smorza l'onda",concatenation_topic_art,surprisal_diff,17.037010312080383
+gpt2_small_ita,154,concludono il giro,metalinguistic,metalinguistic,3,2,ro,"ro, concludono il giro",concatenation_topic_art,surprisal_diff,17.458887815475464
+gpt2_small_ita,58,vi sono registrati numeri telefonici,pass:other,verb_pred,5,7,rubrica,"la rubrica, vi sono registrati numeri telefonici",concatenation_topic_art,surprisal_diff,19.024628162384037
+gpt2_small_ita,14,lo sono le cause che determinano un fenomeno,cop:clitic,copular,8,10,scatenanti,"scatenanti, lo sono le cause che determinano un fenomeno",concatenation_topic_art,surprisal_diff,18.414806127548218
+gpt2_small_ita,33,ce la ricorda cariddi,act:clitic,verb_pred,4,6,scilla,"scilla, ce la ricorda cariddi",concatenation_topic_art,surprisal_diff,16.802011966705322
+gpt2_small_ita,73,a lui si paragona un agile scalatore,imp_refl:other,verb_pred,7,10,scoiattolo,"lo scoiattolo, a lui si paragona un agile scalatore",concatenation_topic_art,surprisal_diff,18.051289312541485
+gpt2_small_ita,18,quella pontificia è santa,cop:pron,copular,4,4,sede,"la sede, quella pontificia è santa",concatenation_topic_art,surprisal_diff,12.48160650394857
+gpt2_small_ita,51,è soddisfatta con un bicchiere d'acqua,pass:missSubj,verb_pred,6,4,sete,"la sete, è soddisfatta con un bicchiere d'acqua",concatenation_topic_art,surprisal_diff,16.945771297439933
+gpt2_small_ita,88,verso con l'accento sulla sesta sillaba,bare_NP,nominal,6,10,settenario,"il settenario, verso con l'accento sulla sesta sillaba",concatenation_topic_art,surprisal_diff,27.80043760314584
+gpt2_small_ita,109,la stone che non fa muri,def_DP:rel,nominal,6,6,sharon,"sharon, la stone che non fa muri",concatenation_topic_art,surprisal_diff,16.800172567367554
+gpt2_small_ita,55,sono formate da varie iniziali,pass:missSubj,verb_pred,5,5,sigle,"le sigle, sono formate da varie iniziali",concatenation_topic_art,surprisal_diff,14.387319684028624
+gpt2_small_ita,94,dolcezza che delizia,bare_NP:rel,nominal,3,7,soavita,"la soavita, dolcezza che delizia",concatenation_topic_art,surprisal_diff,29.21641010046005
+gpt2_small_ita,26,sembra un gemello,act:missSubj,verb_pred,3,5,sosia,"il sosia, sembra un gemello",concatenation_topic_art,surprisal_diff,20.95071798935533
+gpt2_small_ita,78,si cita quella di damocle,imp_refl:other,verb_pred,5,5,spada,"la spada, si cita quella di damocle",concatenation_topic_art,surprisal_diff,15.401015043258669
+gpt2_small_ita,131,innamorato cotto!,adjP,adjectival,2,10,spasimante,"lo spasimante, innamorato cotto!",concatenation_topic_art,surprisal_diff,18.253128170967106
+gpt2_small_ita,126,in un secondo tempo,PP,prepositional,4,15,successivamente,"successivamente, in un secondo tempo",concatenation_topic_art,surprisal_diff,9.749841332435608
+gpt2_small_ita,159,fine della partita,metalinguistic,metalinguistic,3,2,ta,"ta, fine della partita",concatenation_topic_art,surprisal_diff,18.869728803634644
+gpt2_small_ita,74,ci si passano le ore studiando,imp_refl:other,verb_pred,6,8,tavolino,"il tavolino, ci si passano le ore studiando",concatenation_topic_art,surprisal_diff,18.835775136947632
+gpt2_small_ita,101,l'auto col tassametro,def_DP,nominal,3,4,taxi,"il taxi, l'auto col tassametro",concatenation_topic_art,surprisal_diff,6.195983842015266
+gpt2_small_ita,68,quello di salvataggio si usa negl'incendi,imp_refl:missSubj,verb_pred,6,4,telo,"il telo, quello di salvataggio si usa negl'incendi",concatenation_topic_art,surprisal_diff,18.7099686563015
+gpt2_small_ita,120,un attrezzo del terrorista,ind_DP,nominal,4,5,timer,"il timer, un attrezzo del terrorista",concatenation_topic_art,surprisal_diff,17.36519025079906
+gpt2_small_ita,80,vi si pigia l'uva,imp_refl:other,verb_pred,4,4,tino,"il tino, vi si pigia l'uva",concatenation_topic_art,surprisal_diff,19.121017165482044
+gpt2_small_ita,155,a fine agosto,metalinguistic,metalinguistic,3,2,to,"to, a fine agosto",concatenation_topic_art,surprisal_diff,17.599730968475342
+gpt2_small_ita,40,lo consumano le fotocopiatrici,act:clitic,verb_pred,4,5,toner,"il toner, lo consumano le fotocopiatrici",concatenation_topic_art,surprisal_diff,21.31997226178646
+gpt2_small_ita,66,si conserva sott'olio,imp_refl:missSubj,verb_pred,3,5,tonno,"il tonno, si conserva sott'olio",concatenation_topic_art,surprisal_diff,11.587660402059557
+gpt2_small_ita,149,confessare senza volere,inf_VP,infinitive,3,8,tradirsi,"tradirsi, confessare senza volere",concatenation_topic_art,surprisal_diff,15.019804954528809
+gpt2_small_ita,41,a roma molti turisti visitano quella dei monti,act:pron,verb_pred,8,7,trinita,"la trinita, a roma molti turisti visitano quella dei monti",concatenation_topic_art,surprisal_diff,26.7574075460434
+gpt2_small_ita,57,ecuba ne fu regina,pass:other,verb_pred,4,5,troia,"troia, ecuba ne fu regina",concatenation_topic_art,surprisal_diff,18.839634895324707
+gpt2_small_ita,129,per niente superbo,adjP,adjectival,3,5,umile,"umile, per niente superbo",concatenation_topic_art,surprisal_diff,11.456300377845764
+gpt2_small_ita,9,può esserlo una mina,cop:clitic,copular,4,7,vagante,"vagante, può esserlo una mina",concatenation_topic_art,surprisal_diff,17.283276319503784
+gpt2_small_ita,47,quella di allegria non spettina,act:pron,verb_pred,5,7,ventata,"la ventata, quella di allegria non spettina",concatenation_topic_art,surprisal_diff,13.313795506954191
+gpt2_small_ita,48,in cielo appare quella lattea,act:pron,verb_pred,5,3,via,"la via, in cielo appare quella lattea",concatenation_topic_art,surprisal_diff,13.599993228912354
+gpt2_small_ita,28,può far coppia con l'alloggio,act:missSubj,verb_pred,5,5,vitto,"il vitto, può far coppia con l'alloggio",concatenation_topic_art,surprisal_diff,18.009504918009043
+gpt2_small_ita,112,le uscite di chi è sboccato,def_DP:rel,nominal,6,9,volgarita,"le volgarità, le uscite di chi è sboccato",concatenation_topic_art,surprisal_diff,18.47671239078045
+gpt2_small_ita,146,"calare, chinare",inf_VP,infinitive,2,9,abbassare,"abbassare calare, chinare",concatenation_subj_art,surprisal_diff,5.518962800502777
+gpt2_small_ita,62,ne è rivestito il riccio,pass:other,verb_pred,5,6,aculei,gli aculei ne è rivestito il riccio,concatenation_subj_art,surprisal_diff,10.858513176441193
+gpt2_small_ita,158,le hanno cani e gatti,metalinguistic,metalinguistic,5,2,ai,ai le hanno cani e gatti,concatenation_subj_art,surprisal_diff,4.941391058266163
+gpt2_small_ita,72,con le sue foglie si intessevano le corone dei vincitori,imp_refl:missSubj,verb_pred,10,6,alloro,l'alloro con le sue foglie si intessevano le corone dei vincitori,concatenation_subj_art,surprisal_diff,11.9756378242746
+gpt2_small_ita,102,le montagne etiopiche,def_DP,nominal,3,4,ambe,le ambe sono le montagne etiopiche,concatenation_subj_art,surprisal_diff,22.63953665830195
+gpt2_small_ita,2,è insidioso sott'acqua,cop:missSubj,copular,3,3,amo,l'amo è insidioso sott'acqua,concatenation_subj_art,surprisal_diff,22.24783504009247
+gpt2_small_ita,128,tra la coscia e il bacino,PP,prepositional,6,4,anca,l'anca tra la coscia e il bacino,concatenation_subj_art,surprisal_diff,15.7451475225389
+gpt2_small_ita,21,quello nuziale è la fede,cop:pron,copular,5,6,anello,l'anello quello nuziale è la fede,concatenation_subj_art,surprisal_diff,26.3594932872802
+gpt2_small_ita,114,una malattia mediterranea,ind_DP,nominal,3,6,anemia,l'anemia è una malattia mediterranea,concatenation_subj_art,surprisal_diff,23.413937993347645
+gpt2_small_ita,11,lo è una donna di medina,cop:clitic,copular,6,5,araba,araba lo è una donna di medina,concatenation_subj_art,surprisal_diff,17.440398454666138
+gpt2_small_ita,92,piante che forniscono frutti per spremute,bare_NP:rel,nominal,6,6,aranci,gli aranci sono le piante che forniscono frutti per spremute,concatenation_subj_art,surprisal_diff,10.88684976287186
+gpt2_small_ita,151,mettere sottosopra i campi,inf_VP,infinitive,4,5,arare,arare mettere sottosopra i campi,concatenation_subj_art,surprisal_diff,25.19430817477405
+gpt2_small_ita,141,famosa quella di verona,adjP:pron,adjectival,4,5,arena,l'arena famosa quella di verona,concatenation_subj_art,surprisal_diff,19.26440525054932
+gpt2_small_ita,99,i mobili con le grucce,def_DP,nominal,5,6,armadi,gli armadi sono i mobili con le grucce,concatenation_subj_art,surprisal_diff,7.0211179736070335
+gpt2_small_ita,17,quella amatoria è di ovidio,cop:pron,copular,5,3,ars,l'ars quella amatoria è di ovidio,concatenation_subj_art,surprisal_diff,31.28165712207556
+gpt2_small_ita,20,è poetica quella di orazio,cop:pron,copular,5,3,ars,l'ars è poetica quella di orazio,concatenation_subj_art,surprisal_diff,22.140930348075926
+gpt2_small_ita,85,antico sacerdote indovino,bare_NP,nominal,3,8,aruspice,l'aruspice è l'antico sacerdote indovino,concatenation_subj_art,surprisal_diff,7.874308196653146
+gpt2_small_ita,64,garibaldi vi fu ferito e fatto prigioniero,pass:other,verb_pred,7,10,aspromonte,aspromonte garibaldi vi fu ferito e fatto prigioniero,concatenation_subj_art,surprisal_diff,24.10158359631896
+gpt2_small_ita,135,non distratta,adjP,adjectival,2,7,attenta,attenta non distratta,concatenation_subj_art,surprisal_diff,3.310248374938965
+gpt2_small_ita,90,complice che organizza il colpo,bare_NP:rel,nominal,5,7,basista,il basista è il complice che organizza il colpo,concatenation_subj_art,surprisal_diff,5.645419891923666
+gpt2_small_ita,121,in modo buono e corretto,PP,prepositional,5,4,bene,bene in modo buono e corretto,concatenation_subj_art,surprisal_diff,-8.186621384695172
+gpt2_small_ita,81,formaggi,bare_NP,nominal,1,4,caci,i caci sono i formaggi,concatenation_subj_art,surprisal_diff,31.070323705673218
+gpt2_small_ita,8,è oscura per il fotografo,cop:missSubj,copular,5,6,camera,la camera è oscura per il fotografo,concatenation_subj_art,surprisal_diff,12.167846648022532
+gpt2_small_ita,23,quello di lungo corso è un esperto navigante,cop:pron,copular,8,8,capitano,il capitano quello di lungo corso è un esperto navigante,concatenation_subj_art,surprisal_diff,18.60740620084107
+gpt2_small_ita,98,il piatto di carne cruda con grana,def_DP,nominal,7,9,carpaccio,il carpaccio è il piatto di carne cruda con grana,concatenation_subj_art,surprisal_diff,5.798767799511552
+gpt2_small_ita,43,quello rosso costa l'espulsione,act:pron,verb_pred,4,10,cartellino,il cartellino quello rosso costa l'espulsione,concatenation_subj_art,surprisal_diff,16.437992794672027
+gpt2_small_ita,7,"possono essere di uva, di riso e di caffè",cop:missSubj,copular,9,7,chicchi,"i chicchi possono essere di uva, di riso e di caffè",concatenation_subj_art,surprisal_diff,30.126399982720613
+gpt2_small_ita,31,ha preceduto bush,act:missSubj,verb_pred,3,7,clinton,clinton ha preceduto bush,concatenation_subj_art,surprisal_diff,8.957247018814087
+gpt2_small_ita,156,centimetro... corto,metalinguistic,metalinguistic,2,2,cm,cm centimetro... corto,concatenation_subj_art,surprisal_diff,7.794983863830566
+gpt2_small_ita,107,il doyle che creò sherlock holmes,def_DP:rel,nominal,6,5,conan,conan è il doyle che creò sherlock holmes,concatenation_subj_art,surprisal_diff,5.706113152205944
+gpt2_small_ita,42,quella d'oro circonda palermo,act:pron,verb_pred,4,5,conca,la conca quella d'oro circonda palermo,concatenation_subj_art,surprisal_diff,26.519442915916443
+gpt2_small_ita,83,organismo sportivo,bare_NP,nominal,2,4,coni,il coni è l'organismo sportivo,concatenation_subj_art,surprisal_diff,24.809998483397067
+gpt2_small_ita,134,uniti in un gruppo commerciale,adjP,adjectival,5,10,consociati,consociati uniti in un gruppo commerciale,concatenation_subj_art,surprisal_diff,6.493205022066832
+gpt2_small_ita,29,segnano il consumo di acqua e luce,act:missSubj,verb_pred,7,9,contatori,i contatori segnano il consumo di acqua e luce,concatenation_subj_art,surprisal_diff,25.38291935843881
+gpt2_small_ita,75,quelle ippiche si fanno all'ippodromo,imp_refl:other,verb_pred,5,5,corse,le corse quelle ippiche si fanno all'ippodromo,concatenation_subj_art,surprisal_diff,17.77475947327912
+gpt2_small_ita,123,con la farina nel pane integrale,PP,prepositional,6,6,crusca,la crusca con la farina nel pane integrale,concatenation_subj_art,surprisal_diff,15.91324523743242
+gpt2_small_ita,60,gli sono dedicati luoghi particolari,pass:other,verb_pred,5,5,culto,il culto gli sono dedicati luoghi particolari,concatenation_subj_art,surprisal_diff,12.138627423613798
+gpt2_small_ita,84,ex pedine,bare_NP,nominal,2,4,dame,le dame sono le ex pedine,concatenation_subj_art,surprisal_diff,24.150516152381897
+gpt2_small_ita,59,le sono affidati poteri o incarichi,pass:other,verb_pred,6,8,delegata,delegata le sono affidati poteri o incarichi,concatenation_subj_art,surprisal_diff,1.727522579021752
+gpt2_small_ita,70,si effettuano fuorviando,imp_refl:missSubj,verb_pred,3,10,depistaggi,i depistaggi si effettuano fuorviando,concatenation_subj_art,surprisal_diff,31.00097142532468
+gpt2_small_ita,105,il fisico che ottenne il nobel nel 1933,def_DP:rel,nominal,8,5,dirac,dirac è il fisico che ottenne il nobel nel 1933,concatenation_subj_art,surprisal_diff,7.229050373658538
+gpt2_small_ita,145,dare il tempo all'orchestra,inf_VP,infinitive,4,8,dirigere,dirigere dare il tempo all'orchestra,concatenation_subj_art,surprisal_diff,11.895057441666722
+gpt2_small_ita,35,"le chiudono i giovani, e non i giovanardi",act:clitic,verb_pred,8,10,discoteche,"le discoteche le chiudono i giovani, e non i giovanardi",concatenation_subj_art,surprisal_diff,22.10571383312345
+gpt2_small_ita,1,è dolce in aprile,cop:missSubj,copular,4,7,dormire,dormire è dolce in aprile,concatenation_subj_art,surprisal_diff,4.492294571362436
+gpt2_small_ita,63,vi fu commesso il peccato originale,pass:other,verb_pred,6,4,eden,l'eden vi fu commesso il peccato originale,concatenation_subj_art,surprisal_diff,21.825607639737427
+gpt2_small_ita,93,casa che pubblica opere a stampa,bare_NP:rel,nominal,6,8,editrice,editrice e è la casa che pubblica opere a stampa,concatenation_subj_art,surprisal_diff,21.130244452506304
+gpt2_small_ita,136,relativi al vento,adjP,adjectival,3,6,eolici,eolici relativi al vento,concatenation_subj_art,surprisal_diff,26.82319908216596
+gpt2_small_ita,49,fu seppellita dal vesuvio,pass:missSubj,verb_pred,4,8,ercolano,ercolano fu seppellita dal vesuvio,concatenation_subj_art,surprisal_diff,4.123012997210026
+gpt2_small_ita,65,si dividono i beni,imp_refl:missSubj,verb_pred,4,5,eredi,gli eredi si dividono i beni,concatenation_subj_art,surprisal_diff,2.2673967592418194
+gpt2_small_ita,147,avere un lascito,inf_VP,infinitive,3,9,ereditare,ereditare avere un lascito,concatenation_subj_art,surprisal_diff,21.67939385771752
+gpt2_small_ita,71,può strozzarsi da sola,imp_refl:missSubj,verb_pred,4,5,ernia,l'ernia può strozzarsi da sola,concatenation_subj_art,surprisal_diff,35.544290244579315
+gpt2_small_ita,130,proprio di un popolo,adjP,adjectival,4,6,etnico,etnico proprio di un popolo,concatenation_subj_art,surprisal_diff,15.46035059541464
+gpt2_small_ita,38,li teme il gallerista,act:clitic,verb_pred,4,5,falsi,i falsi li teme il gallerista,concatenation_subj_art,surprisal_diff,16.22065758705139
+gpt2_small_ita,4,è tifoso per una diva,cop:missSubj,copular,5,3,fan,il fan è tifoso per una diva,concatenation_subj_art,surprisal_diff,8.51649722456932
+gpt2_small_ita,30,tiene il termometro sul comodino,act:missSubj,verb_pred,5,13,febbricitante,il febbricitante tiene il termometro sul comodino,concatenation_subj_art,surprisal_diff,27.79262929176912
+gpt2_small_ita,115,un'insulsa poesiola,ind_DP,nominal,2,11,filastrocca,la filastrocca è un'insulsa poesiola,concatenation_subj_art,surprisal_diff,-0.3835319187492132
+gpt2_small_ita,137,famosi quelli di san francesco,adjP:pron,adjectival,5,8,fioretti,i fioretti famosi quelli di san francesco,concatenation_subj_art,surprisal_diff,22.123469097539783
+gpt2_small_ita,111,la pietra che produce scintille,def_DP:rel,nominal,5,6,focaia,focaia è la pietra che produce scintille,concatenation_subj_art,surprisal_diff,16.414794132113457
+gpt2_small_ita,144,profonda quella delle marianne,adjP:pron,adjectival,4,5,fossa,la fossa profonda quella delle marianne,concatenation_subj_art,surprisal_diff,12.897806994616984
+gpt2_small_ita,54,fu amata da polifemo,pass:missSubj,verb_pred,4,7,galatea,galatea fu amata da polifemo,concatenation_subj_art,surprisal_diff,-4.398685581982136
+gpt2_small_ita,69,quello liquido si conserva in bombole,imp_refl:missSubj,verb_pred,6,3,gas,il gas quello liquido si conserva in bombole,concatenation_subj_art,surprisal_diff,12.849486619234083
+gpt2_small_ita,45,quelli d'azzardo affollano il casinò,act:pron,verb_pred,5,9,giocatori,i giocatori quelli d'azzardo affollano il casinò,concatenation_subj_art,surprisal_diff,9.680124676786363
+gpt2_small_ita,91,giudice che indaga,bare_NP:rel,nominal,3,3,gip,il gip è il giudice che indaga,concatenation_subj_art,surprisal_diff,23.240947544574738
+gpt2_small_ita,16,lo è il sasso d'abruzzo,cop:clitic,copular,5,4,gran,gran lo è il sasso d'abruzzo,concatenation_subj_art,surprisal_diff,5.795692045241594
+gpt2_small_ita,152,alzare il volume della voce,inf_VP,infinitive,5,7,gridare,gridare alzare il volume della voce,concatenation_subj_art,surprisal_diff,6.115667769685388
+gpt2_small_ita,67,si applicano per abbellire,imp_refl:missSubj,verb_pred,4,11,guarnizioni,le guarnizioni si applicano per abbellire,concatenation_subj_art,surprisal_diff,20.68332427740097
+gpt2_small_ita,119,una sigla informatica,ind_DP,nominal,3,3,ibm,ibm è una sigla informatica,concatenation_subj_art,surprisal_diff,16.872257445007563
+gpt2_small_ita,36,lo adorano i pagani,act:clitic,verb_pred,4,5,idolo,l'idolo lo adorano i pagani,concatenation_subj_art,surprisal_diff,13.219219580292702
+gpt2_small_ita,12,lo è l'opera di un genio,cop:clitic,copular,6,9,immortale,immortale lo è l'opera di un genio,concatenation_subj_art,surprisal_diff,9.021003430709245
+gpt2_small_ita,15,lo è il vulcano spento,cop:clitic,copular,5,8,inattivo,inattivo lo è il vulcano spento,concatenation_subj_art,surprisal_diff,21.989934056065977
+gpt2_small_ita,13,lo è il carburatore troppo pieno di benzina,cop:clitic,copular,8,9,ingolfato,ingolfato lo è il carburatore troppo pieno di benzina,concatenation_subj_art,surprisal_diff,21.1491172509268
+gpt2_small_ita,19,non è promettente quello della fine,cop:pron,copular,6,6,inizio,l'inizio non è promettente quello della fine,concatenation_subj_art,surprisal_diff,12.275051046162844
+gpt2_small_ita,139,grandi quelli di einstein e dante,adjP:pron,adjectival,6,10,intelletti,gli intelletti grandi quelli di einstein e dante,concatenation_subj_art,surprisal_diff,19.86531225591898
+gpt2_small_ita,133,passivo e attivo in banca,adjP,adjectival,5,9,interesse,l'interesse passivo e attivo in banca,concatenation_subj_art,surprisal_diff,9.024212974123657
+gpt2_small_ita,118,una forma di elettroterapia,ind_DP,nominal,4,10,ionoforesi,la ionoforesi è una forma di elettroterapia,concatenation_subj_art,surprisal_diff,36.57566060544923
+gpt2_small_ita,100,la pista dei purosangue,def_DP,nominal,4,9,ippodromo,l'ippodromo è la pista dei purosangue,concatenation_subj_art,surprisal_diff,18.28944153658813
+gpt2_small_ita,124,come il poeta sotto l'influsso della musa,PP,prepositional,7,8,ispirato,ispirato come il poeta sotto l'influsso della musa,concatenation_subj_art,surprisal_diff,17.038242863491178
+gpt2_small_ita,56,viene cardata,pass:missSubj,verb_pred,2,4,lana,la lana viene cardata,concatenation_subj_art,surprisal_diff,22.994994163513184
+gpt2_small_ita,103,il coniglio come pelliccia,def_DP,nominal,4,5,lapin,il lapin è il coniglio come pelliccia,concatenation_subj_art,surprisal_diff,20.529333449841943
+gpt2_small_ita,96,quotidiano che si legge a verona,bare_NP:rel,nominal,6,6,larena,l'arena è il quotidiano che si legge a verona,concatenation_subj_art,surprisal_diff,30.34079880174249
+gpt2_small_ita,79,quella di soia si prende per il colesterolo,imp_refl:other,verb_pred,8,8,lecitina,la lecitina quella di soia si prende per il colesterolo,concatenation_subj_art,surprisal_diff,16.523974251002073
+gpt2_small_ita,24,quelli marini sono le otarie,cop:pron,copular,5,5,leoni,i leoni quelli marini sono le otarie,concatenation_subj_art,surprisal_diff,27.633852243423465
+gpt2_small_ita,160,cambiano la sagra in lagna,metalinguistic,metalinguistic,5,2,ln,ln cambiano la sagra in lagna,concatenation_subj_art,surprisal_diff,15.779369115829468
+gpt2_small_ita,157,i confini del labrador,metalinguistic,metalinguistic,4,2,lr,lr i confini del labrador,concatenation_subj_art,surprisal_diff,3.176198482513428
+gpt2_small_ita,82,cattiveria raffinata,bare_NP,nominal,2,9,malvagita,la malvagita è la cattiveria raffinata,concatenation_subj_art,surprisal_diff,10.563559897243977
+gpt2_small_ita,113,una riproduzione modellistica,ind_DP,nominal,3,8,maquette,la maquette è una riproduzione modellistica,concatenation_subj_art,surprisal_diff,18.783764597959816
+gpt2_small_ita,116,un rimedio contro i crampi,ind_DP,nominal,5,9,massaggio,il massaggio è un rimedio contro i crampi,concatenation_subj_art,surprisal_diff,6.572948635555804
+gpt2_small_ita,3,è sana in corpore sano,cop:missSubj,copular,5,4,mens,la mens è sana in corpore sano,concatenation_subj_art,surprisal_diff,8.322583598201163
+gpt2_small_ita,153,in mezzo al tamigi,metalinguistic,metalinguistic,4,2,mi,mi in mezzo al tamigi,concatenation_subj_art,surprisal_diff,-1.743914246559143
+gpt2_small_ita,148,preparare il salto in aria!,inf_VP,infinitive,5,6,minare,minare preparare il salto in aria!,concatenation_subj_art,surprisal_diff,25.41139829158783
+gpt2_small_ita,132,"docile, mansueto",adjP,adjectival,2,4,mite,"mite docile, mansueto",concatenation_subj_art,surprisal_diff,20.87491154670716
+gpt2_small_ita,37,lo può diventare un attore o un cantante,act:clitic,verb_pred,8,4,mito,il mito lo può diventare un attore o un cantante,concatenation_subj_art,surprisal_diff,12.989678875543175
+gpt2_small_ita,89,donna che ha preso il velo,bare_NP:rel,nominal,6,6,monaca,la monaca è la donna che ha preso il velo,concatenation_subj_art,surprisal_diff,16.472480434924364
+gpt2_small_ita,27,vestono il saio,act:missSubj,verb_pred,3,6,monaci,i monaci vestono il saio,concatenation_subj_art,surprisal_diff,15.44674414023757
+gpt2_small_ita,34,lo fugge l'eremita,act:clitic,verb_pred,3,5,mondo,il mondo lo fugge l'eremita,concatenation_subj_art,surprisal_diff,12.286894142627716
+gpt2_small_ita,86,"demi, nota attrice",bare_NP,nominal,3,5,moore,"moore è demi, nota attrice",concatenation_subj_art,surprisal_diff,22.645473573356867
+gpt2_small_ita,108,l'elsa che fu celebre scrittrice,def_DP:rel,nominal,5,7,morante,morante è l'elsa che fu celebre scrittrice,concatenation_subj_art,surprisal_diff,6.449451353400946
+gpt2_small_ita,44,quelle eterne non si sciolgono,act:pron,verb_pred,5,4,nevi,le nevi quelle eterne non si sciolgono,concatenation_subj_art,surprisal_diff,25.77527049742639
+gpt2_small_ita,110,il fiume che straripando fertilizzava,def_DP:rel,nominal,5,4,nilo,il nilo è il fiume che straripando fertilizzava,concatenation_subj_art,surprisal_diff,12.685093151172625
+gpt2_small_ita,87,palmizi nel deserto,bare_NP,nominal,3,4,oasi,le oasi sono i palmizi nel deserto,concatenation_subj_art,surprisal_diff,20.19245971320197
+gpt2_small_ita,5,è più o meno denso,cop:missSubj,copular,5,4,olio,l'olio è più o meno denso,concatenation_subj_art,surprisal_diff,15.13411260396242
+gpt2_small_ita,53,sono esposti in stazione,pass:missSubj,verb_pred,4,5,orari,gli orari sono esposti in stazione,concatenation_subj_art,surprisal_diff,13.443112662062047
+gpt2_small_ita,46,quello del corpo non ha le canne,act:pron,verb_pred,7,6,organo,l'organo quello del corpo non ha le canne,concatenation_subj_art,surprisal_diff,27.771595880389214
+gpt2_small_ita,22,quello lavatore è il procione,cop:pron,copular,5,7,orsetto,l'orsetto quello lavatore è il procione,concatenation_subj_art,surprisal_diff,29.40253947675228
+gpt2_small_ita,95,luogo recintato in cui si custodiscono le pecore,bare_NP:rel,nominal,8,5,ovile,l'ovile è il luogo recintato in cui si custodiscono le pecore,concatenation_subj_art,surprisal_diff,15.268177952733822
+gpt2_small_ita,143,celebri quelli di annibale a capua,adjP:pron,adjectival,6,3,ozi,gli ozi celebri quelli di annibale a capua,concatenation_subj_art,surprisal_diff,11.209277056157587
+gpt2_small_ita,106,la condicio che uguaglia,def_DP:rel,nominal,4,3,par,par è la condicio che uguaglia,concatenation_subj_art,surprisal_diff,9.754517406225204
+gpt2_small_ita,117,un assieme di rattoppi,ind_DP,nominal,4,9,patchwork,il patchwork è un assieme di rattoppi,concatenation_subj_art,surprisal_diff,12.90727911144495
+gpt2_small_ita,32,piace ai lupi,act:missSubj,verb_pred,3,6,pecora,la pecora piace ai lupi,concatenation_subj_art,surprisal_diff,15.804737152531745
+gpt2_small_ita,97,l'occhio vigile del sommergibile,def_DP,nominal,4,10,periscopio,il periscopio è l'occhio vigile del sommergibile,concatenation_subj_art,surprisal_diff,7.537727338029072
+gpt2_small_ita,127,su un piatto della bilancia,PP,prepositional,5,4,pesi,i pesi su un piatto della bilancia,concatenation_subj_art,surprisal_diff,9.062275886535645
+gpt2_small_ita,150,"foggiare, modellare",inf_VP,infinitive,2,8,plasmare,"plasmare foggiare, modellare",concatenation_subj_art,surprisal_diff,28.884339101612568
+gpt2_small_ita,25,non preoccupa l'incosciente,act:missSubj,verb_pred,3,3,poi,il poi non preoccupa l'incosciente,concatenation_subj_art,surprisal_diff,9.443233102560043
+gpt2_small_ita,138,pregiate quelle di limoges,adjP:pron,adjectival,4,10,porcellane,le porcellane pregiate quelle di limoges,concatenation_subj_art,surprisal_diff,5.233654324896634
+gpt2_small_ita,142,forti quelle dei lottatori,adjP:pron,adjectival,4,5,prese,le prese forti quelle dei lottatori,concatenation_subj_art,surprisal_diff,7.665823109447956
+gpt2_small_ita,122,di specchiata rettitudine,PP,prepositional,3,5,probo,probo di specchiata rettitudine,concatenation_subj_art,surprisal_diff,15.083637164905667
+gpt2_small_ita,125,ai lati del palcoscenico,PP,prepositional,4,6,quinte,le quinte ai lati del palcoscenico,concatenation_subj_art,surprisal_diff,17.158898238558322
+gpt2_small_ita,39,lo taglia il potatore,act:clitic,verb_pred,4,4,ramo,il ramo lo taglia il potatore,concatenation_subj_art,surprisal_diff,8.317513585090637
+gpt2_small_ita,104,la musica di jovanotti,def_DP,nominal,4,3,rap,il rap è la musica di jovanotti,concatenation_subj_art,surprisal_diff,12.944429826922716
+gpt2_small_ita,10,lo sono le aquile,cop:clitic,copular,4,6,rapaci,rapaci lo sono le aquile,concatenation_subj_art,surprisal_diff,9.503121715970336
+gpt2_small_ita,50,è stato incoronato,pass:missSubj,verb_pred,3,2,re,il re è stato incoronato,concatenation_subj_art,surprisal_diff,5.418525776360184
+gpt2_small_ita,61,vi furono ritrovati noti bronzi,pass:other,verb_pred,5,5,riace,riace vi furono ritrovati noti bronzi,concatenation_subj_art,surprisal_diff,3.1811188757419586
+gpt2_small_ita,140,gustosi quelli di mare,adjP:pron,adjectival,4,5,ricci,i ricci gustosi quelli di mare,concatenation_subj_art,surprisal_diff,21.683117389678955
+gpt2_small_ita,6,può essere gastronomica,cop:missSubj,copular,3,7,ricetta,la ricetta può essere gastronomica,concatenation_subj_art,surprisal_diff,17.391512125730515
+gpt2_small_ita,52,è baciata in certe poesie,pass:missSubj,verb_pred,5,4,rima,la rima è baciata in certe poesie,concatenation_subj_art,surprisal_diff,13.709233513101935
+gpt2_small_ita,76,vi si smorza l'onda,imp_refl:other,verb_pred,4,4,riva,la riva vi si smorza l'onda,concatenation_subj_art,surprisal_diff,8.341374844312668
+gpt2_small_ita,154,concludono il giro,metalinguistic,metalinguistic,3,2,ro,ro concludono il giro,concatenation_subj_art,surprisal_diff,8.644592314958572
+gpt2_small_ita,58,vi sono registrati numeri telefonici,pass:other,verb_pred,5,7,rubrica,la rubrica vi sono registrati numeri telefonici,concatenation_subj_art,surprisal_diff,10.741161569952965
+gpt2_small_ita,14,lo sono le cause che determinano un fenomeno,cop:clitic,copular,8,10,scatenanti,scatenanti lo sono le cause che determinano un fenomeno,concatenation_subj_art,surprisal_diff,20.23933127708733
+gpt2_small_ita,33,ce la ricorda cariddi,act:clitic,verb_pred,4,6,scilla,scilla ce la ricorda cariddi,concatenation_subj_art,surprisal_diff,13.834865808486938
+gpt2_small_ita,73,a lui si paragona un agile scalatore,imp_refl:other,verb_pred,7,10,scoiattolo,lo scoiattolo a lui si paragona un agile scalatore,concatenation_subj_art,surprisal_diff,4.843934584408999
+gpt2_small_ita,18,quella pontificia è santa,cop:pron,copular,4,4,sede,la sede quella pontificia è santa,concatenation_subj_art,surprisal_diff,17.874059170484543
+gpt2_small_ita,51,è soddisfatta con un bicchiere d'acqua,pass:missSubj,verb_pred,6,4,sete,la sete è soddisfatta con un bicchiere d'acqua,concatenation_subj_art,surprisal_diff,5.5252230479964055
+gpt2_small_ita,88,verso con l'accento sulla sesta sillaba,bare_NP,nominal,6,10,settenario,il settenario è il verso con l'accento sulla sesta sillaba,concatenation_subj_art,surprisal_diff,13.76602743274998
+gpt2_small_ita,109,la stone che non fa muri,def_DP:rel,nominal,6,6,sharon,sharon è la stone che non fa muri,concatenation_subj_art,surprisal_diff,13.2193124294281
+gpt2_small_ita,55,sono formate da varie iniziali,pass:missSubj,verb_pred,5,5,sigle,le sigle sono formate da varie iniziali,concatenation_subj_art,surprisal_diff,19.547246370464563
+gpt2_small_ita,94,dolcezza che delizia,bare_NP:rel,nominal,3,7,soavita,la soavita è la dolcezza che delizia,concatenation_subj_art,surprisal_diff,34.88982644304633
+gpt2_small_ita,26,sembra un gemello,act:missSubj,verb_pred,3,5,sosia,il sosia sembra un gemello,concatenation_subj_art,surprisal_diff,13.77177861891687
+gpt2_small_ita,78,si cita quella di damocle,imp_refl:other,verb_pred,5,5,spada,la spada si cita quella di damocle,concatenation_subj_art,surprisal_diff,8.4589269682765
+gpt2_small_ita,131,innamorato cotto!,adjP,adjectival,2,10,spasimante,lo spasimante innamorato cotto!,concatenation_subj_art,surprisal_diff,27.215129159390926
+gpt2_small_ita,126,in un secondo tempo,PP,prepositional,4,15,successivamente,successivamente in un secondo tempo,concatenation_subj_art,surprisal_diff,-5.03002667427063
+gpt2_small_ita,159,fine della partita,metalinguistic,metalinguistic,3,2,ta,ta fine della partita,concatenation_subj_art,surprisal_diff,5.566437557339668
+gpt2_small_ita,74,ci si passano le ore studiando,imp_refl:other,verb_pred,6,8,tavolino,il tavolino ci si passano le ore studiando,concatenation_subj_art,surprisal_diff,16.20495529100299
+gpt2_small_ita,101,l'auto col tassametro,def_DP,nominal,3,4,taxi,il taxi è l'auto col tassametro,concatenation_subj_art,surprisal_diff,-11.403096102178097
+gpt2_small_ita,68,quello di salvataggio si usa negl'incendi,imp_refl:missSubj,verb_pred,6,4,telo,il telo quello di salvataggio si usa negl'incendi,concatenation_subj_art,surprisal_diff,24.82010453566909
+gpt2_small_ita,120,un attrezzo del terrorista,ind_DP,nominal,4,5,timer,il timer è un attrezzo del terrorista,concatenation_subj_art,surprisal_diff,10.180882424116136
+gpt2_small_ita,80,vi si pigia l'uva,imp_refl:other,verb_pred,4,4,tino,il tino vi si pigia l'uva,concatenation_subj_art,surprisal_diff,15.394347906112673
+gpt2_small_ita,155,a fine agosto,metalinguistic,metalinguistic,3,2,to,to a fine agosto,concatenation_subj_art,surprisal_diff,3.0631723403930664
+gpt2_small_ita,40,lo consumano le fotocopiatrici,act:clitic,verb_pred,4,5,toner,il toner lo consumano le fotocopiatrici,concatenation_subj_art,surprisal_diff,2.1419609747827053
+gpt2_small_ita,66,si conserva sott'olio,imp_refl:missSubj,verb_pred,3,5,tonno,il tonno si conserva sott'olio,concatenation_subj_art,surprisal_diff,5.34789377078414
+gpt2_small_ita,149,confessare senza volere,inf_VP,infinitive,3,8,tradirsi,tradirsi confessare senza volere,concatenation_subj_art,surprisal_diff,6.543856859207153
+gpt2_small_ita,41,a roma molti turisti visitano quella dei monti,act:pron,verb_pred,8,7,trinita,la trinita a roma molti turisti visitano quella dei monti,concatenation_subj_art,surprisal_diff,2.6130199264734983
+gpt2_small_ita,57,ecuba ne fu regina,pass:other,verb_pred,4,5,troia,troia ecuba ne fu regina,concatenation_subj_art,surprisal_diff,7.942967712879181
+gpt2_small_ita,129,per niente superbo,adjP,adjectival,3,5,umile,umile per niente superbo,concatenation_subj_art,surprisal_diff,10.44934630393982
+gpt2_small_ita,9,può esserlo una mina,cop:clitic,copular,4,7,vagante,vagante può esserlo una mina,concatenation_subj_art,surprisal_diff,20.79054570198059
+gpt2_small_ita,47,quella di allegria non spettina,act:pron,verb_pred,5,7,ventata,la ventata quella di allegria non spettina,concatenation_subj_art,surprisal_diff,27.428367495536804
+gpt2_small_ita,48,in cielo appare quella lattea,act:pron,verb_pred,5,3,via,la via in cielo appare quella lattea,concatenation_subj_art,surprisal_diff,0.4218928515911102
+gpt2_small_ita,28,può far coppia con l'alloggio,act:missSubj,verb_pred,5,5,vitto,il vitto può far coppia con l'alloggio,concatenation_subj_art,surprisal_diff,22.130447268486023
+gpt2_small_ita,112,le uscite di chi è sboccato,def_DP:rel,nominal,6,9,volgarita,le volgarità sono le uscite di chi è sboccato,concatenation_subj_art,surprisal_diff,20.212266758084297
+gpt2_small_ita,146,"calare, chinare",inf_VP,infinitive,2,9,abbassare,"calare, chinare, cioè abbassare",concatenation_cioè_art,lw_surprisal,8.444963455200195
+gpt2_small_ita,62,ne è rivestito il riccio,pass:other,verb_pred,5,6,aculei,"ne è rivestito il riccio, cioè gli aculei",concatenation_cioè_art,lw_surprisal,15.555341720581056
+gpt2_small_ita,158,le hanno cani e gatti,metalinguistic,metalinguistic,5,2,ai,"le hanno cani e gatti, cioè ai",concatenation_cioè_art,lw_surprisal,6.505921363830566
+gpt2_small_ita,72,con le sue foglie si intessevano le corone dei vincitori,imp_refl:missSubj,verb_pred,10,6,alloro,"con le sue foglie si intessevano le corone dei vincitori, cioè l'alloro",concatenation_cioè_art,lw_surprisal,11.23093204945326
+gpt2_small_ita,102,le montagne etiopiche,def_DP,nominal,3,4,ambe,"le montagne etiopiche, cioè le ambe",concatenation_cioè_art,lw_surprisal,18.04083240032196
+gpt2_small_ita,2,è insidioso sott'acqua,cop:missSubj,copular,3,3,amo,"è insidioso sott'acqua, cioè l'amo",concatenation_cioè_art,lw_surprisal,13.313071085140107
+gpt2_small_ita,128,tra la coscia e il bacino,PP,prepositional,6,4,anca,"tra la coscia e il bacino, cioè l'anca",concatenation_cioè_art,lw_surprisal,11.807399556040764
+gpt2_small_ita,21,quello nuziale è la fede,cop:pron,copular,5,6,anello,"quello nuziale è la fede, cioè l'anello",concatenation_cioè_art,lw_surprisal,11.136712078005075
+gpt2_small_ita,114,una malattia mediterranea,ind_DP,nominal,3,6,anemia,"una malattia mediterranea, cioè l'anemia",concatenation_cioè_art,lw_surprisal,13.116204880177976
+gpt2_small_ita,11,lo è una donna di medina,cop:clitic,copular,6,5,araba,"lo è una donna di medina, cioè araba",concatenation_cioè_art,lw_surprisal,9.871696472167969
+gpt2_small_ita,92,piante che forniscono frutti per spremute,bare_NP:rel,nominal,6,6,aranci,"piante che forniscono frutti per spremute, cioè gli aranci",concatenation_cioè_art,lw_surprisal,11.143035411834717
+gpt2_small_ita,151,mettere sottosopra i campi,inf_VP,infinitive,4,5,arare,"mettere sottosopra i campi, cioè arare",concatenation_cioè_art,lw_surprisal,14.23999834060669
+gpt2_small_ita,141,famosa quella di verona,adjP:pron,adjectival,4,5,arena,"famosa quella di verona, cioè l'arena",concatenation_cioè_art,lw_surprisal,11.859874825924637
+gpt2_small_ita,99,i mobili con le grucce,def_DP,nominal,5,6,armadi,"i mobili con le grucce, cioè gli armadi",concatenation_cioè_art,lw_surprisal,9.059136018157004
+gpt2_small_ita,17,quella amatoria è di ovidio,cop:pron,copular,5,3,ars,"quella amatoria è di ovidio, cioè l'ars",concatenation_cioè_art,lw_surprisal,13.136207811534405
+gpt2_small_ita,20,è poetica quella di orazio,cop:pron,copular,5,3,ars,"è poetica quella di orazio, cioè l'ars",concatenation_cioè_art,lw_surprisal,13.498037114739418
+gpt2_small_ita,85,antico sacerdote indovino,bare_NP,nominal,3,8,aruspice,"antico sacerdote indovino, cioè l'aruspice",concatenation_cioè_art,lw_surprisal,32.46364037692547
+gpt2_small_ita,64,garibaldi vi fu ferito e fatto prigioniero,pass:other,verb_pred,7,10,aspromonte,"garibaldi vi fu ferito e fatto prigioniero, cioè aspromonte",concatenation_cioè_art,lw_surprisal,25.08799695968628
+gpt2_small_ita,135,non distratta,adjP,adjectival,2,7,attenta,"non distratta, cioè attenta",concatenation_cioè_art,lw_surprisal,8.48356819152832
+gpt2_small_ita,90,complice che organizza il colpo,bare_NP:rel,nominal,5,7,basista,"complice che organizza il colpo, cioè il basista",concatenation_cioè_art,lw_surprisal,18.71489644050598
+gpt2_small_ita,121,in modo buono e corretto,PP,prepositional,5,4,bene,"in modo buono e corretto, cioè bene",concatenation_cioè_art,lw_surprisal,6.757193088531494
+gpt2_small_ita,81,formaggi,bare_NP,nominal,1,4,caci,"formaggi, cioè i caci",concatenation_cioè_art,lw_surprisal,15.30374789237976
+gpt2_small_ita,8,è oscura per il fotografo,cop:missSubj,copular,5,6,camera,"è oscura per il fotografo, cioè la camera",concatenation_cioè_art,lw_surprisal,10.279226303100586
+gpt2_small_ita,23,quello di lungo corso è un esperto navigante,cop:pron,copular,8,8,capitano,"quello di lungo corso è un esperto navigante, cioè il capitano",concatenation_cioè_art,lw_surprisal,6.986343860626221
+gpt2_small_ita,98,il piatto di carne cruda con grana,def_DP,nominal,7,9,carpaccio,"il piatto di carne cruda con grana, cioè il carpaccio",concatenation_cioè_art,lw_surprisal,13.288963437080383
+gpt2_small_ita,43,quello rosso costa l'espulsione,act:pron,verb_pred,4,10,cartellino,"quello rosso costa l'espulsione, cioè il cartellino",concatenation_cioè_art,lw_surprisal,9.31770483031869
+gpt2_small_ita,7,"possono essere di uva, di riso e di caffè",cop:missSubj,copular,9,7,chicchi,"possono essere di uva, di riso e di caffè, cioè i chicchi",concatenation_cioè_art,lw_surprisal,12.692795395851135
+gpt2_small_ita,31,ha preceduto bush,act:missSubj,verb_pred,3,7,clinton,"ha preceduto bush, cioè clinton",concatenation_cioè_art,lw_surprisal,19.300652265548703
+gpt2_small_ita,156,centimetro... corto,metalinguistic,metalinguistic,2,2,cm,"centimetro... corto, cioè cm",concatenation_cioè_art,lw_surprisal,6.903378486633301
+gpt2_small_ita,107,il doyle che creò sherlock holmes,def_DP:rel,nominal,6,5,conan,"il doyle che creò sherlock holmes, cioè conan",concatenation_cioè_art,lw_surprisal,15.190410137176514
+gpt2_small_ita,42,quella d'oro circonda palermo,act:pron,verb_pred,4,5,conca,"quella d'oro circonda palermo, cioè la conca",concatenation_cioè_art,lw_surprisal,10.244908332824709
+gpt2_small_ita,83,organismo sportivo,bare_NP,nominal,2,4,coni,"organismo sportivo, cioè il coni",concatenation_cioè_art,lw_surprisal,13.590413093566896
+gpt2_small_ita,134,uniti in un gruppo commerciale,adjP,adjectival,5,10,consociati,"uniti in un gruppo commerciale, cioè consociati",concatenation_cioè_art,lw_surprisal,12.919134080410004
+gpt2_small_ita,29,segnano il consumo di acqua e luce,act:missSubj,verb_pred,7,9,contatori,"segnano il consumo di acqua e luce, cioè i contatori",concatenation_cioè_art,lw_surprisal,14.284467697143556
+gpt2_small_ita,75,quelle ippiche si fanno all'ippodromo,imp_refl:other,verb_pred,5,5,corse,"quelle ippiche si fanno all'ippodromo, cioè le corse",concatenation_cioè_art,lw_surprisal,7.1112213134765625
+gpt2_small_ita,123,con la farina nel pane integrale,PP,prepositional,6,6,crusca,"con la farina nel pane integrale, cioè la crusca",concatenation_cioè_art,lw_surprisal,14.06813621520996
+gpt2_small_ita,60,gli sono dedicati luoghi particolari,pass:other,verb_pred,5,5,culto,"gli sono dedicati luoghi particolari, cioè il culto",concatenation_cioè_art,lw_surprisal,8.676265239715576
+gpt2_small_ita,84,ex pedine,bare_NP,nominal,2,4,dame,"ex pedine, cioè le dame",concatenation_cioè_art,lw_surprisal,13.626116752624512
+gpt2_small_ita,59,le sono affidati poteri o incarichi,pass:other,verb_pred,6,8,delegata,"le sono affidati poteri o incarichi, cioè delegata",concatenation_cioè_art,lw_surprisal,13.293112754821776
+gpt2_small_ita,70,si effettuano fuorviando,imp_refl:missSubj,verb_pred,3,10,depistaggi,"si effettuano fuorviando, cioè i depistaggi",concatenation_cioè_art,lw_surprisal,18.8781573176384
+gpt2_small_ita,105,il fisico che ottenne il nobel nel 1933,def_DP:rel,nominal,8,5,dirac,"il fisico che ottenne il nobel nel 1933, cioè dirac",concatenation_cioè_art,lw_surprisal,21.916872024536133
+gpt2_small_ita,145,dare il tempo all'orchestra,inf_VP,infinitive,4,8,dirigere,"dare il tempo all'orchestra, cioè dirigere",concatenation_cioè_art,lw_surprisal,7.845746994018555
+gpt2_small_ita,35,"le chiudono i giovani, e non i giovanardi",act:clitic,verb_pred,8,10,discoteche,"le chiudono i giovani, e non i giovanardi, cioè le discoteche",concatenation_cioè_art,lw_surprisal,12.05853271484375
+gpt2_small_ita,1,è dolce in aprile,cop:missSubj,copular,4,7,dormire,"è dolce in aprile, cioè dormire",concatenation_cioè_art,lw_surprisal,11.14027500152588
+gpt2_small_ita,63,vi fu commesso il peccato originale,pass:other,verb_pred,6,4,eden,"vi fu commesso il peccato originale, cioè l'eden",concatenation_cioè_art,lw_surprisal,18.57564925402403
+gpt2_small_ita,93,casa che pubblica opere a stampa,bare_NP:rel,nominal,6,8,editrice,"casa che pubblica opere a stampa, cioè editrice",concatenation_cioè_art,lw_surprisal,11.33331298828125
+gpt2_small_ita,136,relativi al vento,adjP,adjectival,3,6,eolici,"relativi al vento, cioè eolici",concatenation_cioè_art,lw_surprisal,14.295932292938232
+gpt2_small_ita,49,fu seppellita dal vesuvio,pass:missSubj,verb_pred,4,8,ercolano,"fu seppellita dal vesuvio, cioè ercolano",concatenation_cioè_art,lw_surprisal,20.3793420791626
+gpt2_small_ita,65,si dividono i beni,imp_refl:missSubj,verb_pred,4,5,eredi,"si dividono i beni, cioè gli eredi",concatenation_cioè_art,lw_surprisal,8.362606287002563
+gpt2_small_ita,147,avere un lascito,inf_VP,infinitive,3,9,ereditare,"avere un lascito, cioè ereditare",concatenation_cioè_art,lw_surprisal,11.607125520706177
+gpt2_small_ita,71,può strozzarsi da sola,imp_refl:missSubj,verb_pred,4,5,ernia,"può strozzarsi da sola, cioè l'ernia",concatenation_cioè_art,lw_surprisal,17.660455279052258
+gpt2_small_ita,130,proprio di un popolo,adjP,adjectival,4,6,etnico,"proprio di un popolo, cioè etnico",concatenation_cioè_art,lw_surprisal,10.0925931930542
+gpt2_small_ita,38,li teme il gallerista,act:clitic,verb_pred,4,5,falsi,"li teme il gallerista, cioè i falsi",concatenation_cioè_art,lw_surprisal,10.559937953948976
+gpt2_small_ita,4,è tifoso per una diva,cop:missSubj,copular,5,3,fan,"è tifoso per una diva, cioè il fan",concatenation_cioè_art,lw_surprisal,9.156617641448976
+gpt2_small_ita,30,tiene il termometro sul comodino,act:missSubj,verb_pred,5,13,febbricitante,"tiene il termometro sul comodino, cioè il febbricitante",concatenation_cioè_art,lw_surprisal,19.48762285709381
+gpt2_small_ita,115,un'insulsa poesiola,ind_DP,nominal,2,11,filastrocca,"un'insulsa poesiola, cioè la filastrocca",concatenation_cioè_art,lw_surprisal,12.525230899453163
+gpt2_small_ita,137,famosi quelli di san francesco,adjP:pron,adjectival,5,8,fioretti,"famosi quelli di san francesco, cioè i fioretti",concatenation_cioè_art,lw_surprisal,13.81763231754303
+gpt2_small_ita,111,la pietra che produce scintille,def_DP:rel,nominal,5,6,focaia,"la pietra che produce scintille, cioè focaia",concatenation_cioè_art,lw_surprisal,18.46410846710205
+gpt2_small_ita,144,profonda quella delle marianne,adjP:pron,adjectival,4,5,fossa,"profonda quella delle marianne, cioè la fossa",concatenation_cioè_art,lw_surprisal,8.168405771255493
+gpt2_small_ita,54,fu amata da polifemo,pass:missSubj,verb_pred,4,7,galatea,"fu amata da polifemo, cioè galatea",concatenation_cioè_art,lw_surprisal,15.692213535308838
+gpt2_small_ita,69,quello liquido si conserva in bombole,imp_refl:missSubj,verb_pred,6,3,gas,"quello liquido si conserva in bombole, cioè il gas",concatenation_cioè_art,lw_surprisal,7.527225494384766
+gpt2_small_ita,45,quelli d'azzardo affollano il casinò,act:pron,verb_pred,5,9,giocatori,"quelli d'azzardo affollano il casinò, cioè i giocatori",concatenation_cioè_art,lw_surprisal,6.641235828399658
+gpt2_small_ita,91,giudice che indaga,bare_NP:rel,nominal,3,3,gip,"giudice che indaga, cioè il gip",concatenation_cioè_art,lw_surprisal,12.880047082901
+gpt2_small_ita,16,lo è il sasso d'abruzzo,cop:clitic,copular,5,4,gran,"lo è il sasso d'abruzzo, cioè gran",concatenation_cioè_art,lw_surprisal,8.845437049865723
+gpt2_small_ita,152,alzare il volume della voce,inf_VP,infinitive,5,7,gridare,"alzare il volume della voce, cioè gridare",concatenation_cioè_art,lw_surprisal,6.192386627197266
+gpt2_small_ita,67,si applicano per abbellire,imp_refl:missSubj,verb_pred,4,11,guarnizioni,"si applicano per abbellire, cioè le guarnizioni",concatenation_cioè_art,lw_surprisal,12.144428074359894
+gpt2_small_ita,119,una sigla informatica,ind_DP,nominal,3,3,ibm,"una sigla informatica, cioè ibm",concatenation_cioè_art,lw_surprisal,20.624061584472656
+gpt2_small_ita,36,lo adorano i pagani,act:clitic,verb_pred,4,5,idolo,"lo adorano i pagani, cioè l'idolo",concatenation_cioè_art,lw_surprisal,11.086298406124117
+gpt2_small_ita,12,lo è l'opera di un genio,cop:clitic,copular,6,9,immortale,"lo è l'opera di un genio, cioè immortale",concatenation_cioè_art,lw_surprisal,9.16714571416378
+gpt2_small_ita,15,lo è il vulcano spento,cop:clitic,copular,5,8,inattivo,"lo è il vulcano spento, cioè inattivo",concatenation_cioè_art,lw_surprisal,12.805215835571287
+gpt2_small_ita,13,lo è il carburatore troppo pieno di benzina,cop:clitic,copular,8,9,ingolfato,"lo è il carburatore troppo pieno di benzina, cioè ingolfato",concatenation_cioè_art,lw_surprisal,14.98168408870697
+gpt2_small_ita,19,non è promettente quello della fine,cop:pron,copular,6,6,inizio,"non è promettente quello della fine, cioè l'inizio",concatenation_cioè_art,lw_surprisal,6.78819751739502
+gpt2_small_ita,139,grandi quelli di einstein e dante,adjP:pron,adjectival,6,10,intelletti,"grandi quelli di einstein e dante, cioè gli intelletti",concatenation_cioè_art,lw_surprisal,15.352407813072205
+gpt2_small_ita,133,passivo e attivo in banca,adjP,adjectival,5,9,interesse,"passivo e attivo in banca, cioè l'interesse",concatenation_cioè_art,lw_surprisal,8.99628821760416
+gpt2_small_ita,118,una forma di elettroterapia,ind_DP,nominal,4,10,ionoforesi,"una forma di elettroterapia, cioè la ionoforesi",concatenation_cioè_art,lw_surprisal,34.905202358961105
+gpt2_small_ita,100,la pista dei purosangue,def_DP,nominal,4,9,ippodromo,"la pista dei purosangue, cioè l'ippodromo",concatenation_cioè_art,lw_surprisal,9.642790332436562
+gpt2_small_ita,124,come il poeta sotto l'influsso della musa,PP,prepositional,7,8,ispirato,"come il poeta sotto l'influsso della musa, cioè ispirato",concatenation_cioè_art,lw_surprisal,8.076982498168945
+gpt2_small_ita,56,viene cardata,pass:missSubj,verb_pred,2,4,lana,"viene cardata, cioè la lana",concatenation_cioè_art,lw_surprisal,14.170809268951416
+gpt2_small_ita,103,il coniglio come pelliccia,def_DP,nominal,4,5,lapin,"il coniglio come pelliccia, cioè il lapin",concatenation_cioè_art,lw_surprisal,19.295068383216854
+gpt2_small_ita,96,quotidiano che si legge a verona,bare_NP:rel,nominal,6,6,larena,"quotidiano che si legge a verona, cioè l'arena",concatenation_cioè_art,lw_surprisal,13.469884417951109
+gpt2_small_ita,79,quella di soia si prende per il colesterolo,imp_refl:other,verb_pred,8,8,lecitina,"quella di soia si prende per il colesterolo, cioè la lecitina",concatenation_cioè_art,lw_surprisal,18.38790726661682
+gpt2_small_ita,24,quelli marini sono le otarie,cop:pron,copular,5,5,leoni,"quelli marini sono le otarie, cioè i leoni",concatenation_cioè_art,lw_surprisal,13.05423665046692
+gpt2_small_ita,160,cambiano la sagra in lagna,metalinguistic,metalinguistic,5,2,ln,"cambiano la sagra in lagna, cioè ln",concatenation_cioè_art,lw_surprisal,17.707707405090332
+gpt2_small_ita,157,i confini del labrador,metalinguistic,metalinguistic,4,2,lr,"i confini del labrador, cioè lr",concatenation_cioè_art,lw_surprisal,18.769783973693848
+gpt2_small_ita,82,cattiveria raffinata,bare_NP,nominal,2,9,malvagita,"cattiveria raffinata, cioè la malvagita",concatenation_cioè_art,lw_surprisal,15.222793817520142
+gpt2_small_ita,113,una riproduzione modellistica,ind_DP,nominal,3,8,maquette,"una riproduzione modellistica, cioè la maquette",concatenation_cioè_art,lw_surprisal,21.61621856689453
+gpt2_small_ita,116,un rimedio contro i crampi,ind_DP,nominal,5,9,massaggio,"un rimedio contro i crampi, cioè il massaggio",concatenation_cioè_art,lw_surprisal,12.99160036444664
+gpt2_small_ita,3,è sana in corpore sano,cop:missSubj,copular,5,4,mens,"è sana in corpore sano, cioè la mens",concatenation_cioè_art,lw_surprisal,18.82565212249756
+gpt2_small_ita,153,in mezzo al tamigi,metalinguistic,metalinguistic,4,2,mi,"in mezzo al tamigi, cioè mi",concatenation_cioè_art,lw_surprisal,7.534100532531738
+gpt2_small_ita,148,preparare il salto in aria!,inf_VP,infinitive,5,6,minare,"preparare il salto in aria!, cioè minare",concatenation_cioè_art,lw_surprisal,9.90186533331871
+gpt2_small_ita,132,"docile, mansueto",adjP,adjectival,2,4,mite,"docile, mansueto, cioè mite",concatenation_cioè_art,lw_surprisal,11.870163917541504
+gpt2_small_ita,37,lo può diventare un attore o un cantante,act:clitic,verb_pred,8,4,mito,"lo può diventare un attore o un cantante, cioè il mito",concatenation_cioè_art,lw_surprisal,11.988214015960692
+gpt2_small_ita,89,donna che ha preso il velo,bare_NP:rel,nominal,6,6,monaca,"donna che ha preso il velo, cioè la monaca",concatenation_cioè_art,lw_surprisal,11.36428439617157
+gpt2_small_ita,27,vestono il saio,act:missSubj,verb_pred,3,6,monaci,"vestono il saio, cioè i monaci",concatenation_cioè_art,lw_surprisal,8.375012159347534
+gpt2_small_ita,34,lo fugge l'eremita,act:clitic,verb_pred,3,5,mondo,"lo fugge l'eremita, cioè il mondo",concatenation_cioè_art,lw_surprisal,8.592448711395264
+gpt2_small_ita,86,"demi, nota attrice",bare_NP,nominal,3,5,moore,"demi, nota attrice, cioè moore",concatenation_cioè_art,lw_surprisal,17.646562576293945
+gpt2_small_ita,108,l'elsa che fu celebre scrittrice,def_DP:rel,nominal,5,7,morante,"l'elsa che fu celebre scrittrice, cioè morante",concatenation_cioè_art,lw_surprisal,14.129250526428224
+gpt2_small_ita,44,quelle eterne non si sciolgono,act:pron,verb_pred,5,4,nevi,"quelle eterne non si sciolgono, cioè le nevi",concatenation_cioè_art,lw_surprisal,11.480590343475342
+gpt2_small_ita,110,il fiume che straripando fertilizzava,def_DP:rel,nominal,5,4,nilo,"il fiume che straripando fertilizzava, cioè il nilo",concatenation_cioè_art,lw_surprisal,13.03722095489502
+gpt2_small_ita,87,palmizi nel deserto,bare_NP,nominal,3,4,oasi,"palmizi nel deserto, cioè le oasi",concatenation_cioè_art,lw_surprisal,13.47093915939331
+gpt2_small_ita,5,è più o meno denso,cop:missSubj,copular,5,4,olio,"è più o meno denso, cioè l'olio",concatenation_cioè_art,lw_surprisal,10.02535581216216
+gpt2_small_ita,53,sono esposti in stazione,pass:missSubj,verb_pred,4,5,orari,"sono esposti in stazione, cioè gli orari",concatenation_cioè_art,lw_surprisal,9.40314245223999
+gpt2_small_ita,46,quello del corpo non ha le canne,act:pron,verb_pred,7,6,organo,"quello del corpo non ha le canne, cioè l'organo",concatenation_cioè_art,lw_surprisal,6.776138383895159
+gpt2_small_ita,22,quello lavatore è il procione,cop:pron,copular,5,7,orsetto,"quello lavatore è il procione, cioè l'orsetto",concatenation_cioè_art,lw_surprisal,16.468142174184322
+gpt2_small_ita,95,luogo recintato in cui si custodiscono le pecore,bare_NP:rel,nominal,8,5,ovile,"luogo recintato in cui si custodiscono le pecore, cioè l'ovile",concatenation_cioè_art,lw_surprisal,14.44166624546051
+gpt2_small_ita,143,celebri quelli di annibale a capua,adjP:pron,adjectival,6,3,ozi,"celebri quelli di annibale a capua, cioè gli ozi",concatenation_cioè_art,lw_surprisal,16.635581970214844
+gpt2_small_ita,106,la condicio che uguaglia,def_DP:rel,nominal,4,3,par,"la condicio che uguaglia, cioè par",concatenation_cioè_art,lw_surprisal,7.54628849029541
+gpt2_small_ita,117,un assieme di rattoppi,ind_DP,nominal,4,9,patchwork,"un assieme di rattoppi, cioè il patchwork",concatenation_cioè_art,lw_surprisal,16.26375311613083
+gpt2_small_ita,32,piace ai lupi,act:missSubj,verb_pred,3,6,pecora,"piace ai lupi, cioè la pecora",concatenation_cioè_art,lw_surprisal,12.372276842594149
+gpt2_small_ita,97,l'occhio vigile del sommergibile,def_DP,nominal,4,10,periscopio,"l'occhio vigile del sommergibile, cioè il periscopio",concatenation_cioè_art,lw_surprisal,18.906503796577454
+gpt2_small_ita,127,su un piatto della bilancia,PP,prepositional,5,4,pesi,"su un piatto della bilancia, cioè i pesi",concatenation_cioè_art,lw_surprisal,10.769350051879885
+gpt2_small_ita,150,"foggiare, modellare",inf_VP,infinitive,2,8,plasmare,"foggiare, modellare, cioè plasmare",concatenation_cioè_art,lw_surprisal,8.978227823972702
+gpt2_small_ita,25,non preoccupa l'incosciente,act:missSubj,verb_pred,3,3,poi,"non preoccupa l'incosciente, cioè il poi",concatenation_cioè_art,lw_surprisal,15.089865446090698
+gpt2_small_ita,138,pregiate quelle di limoges,adjP:pron,adjectival,4,10,porcellane,"pregiate quelle di limoges, cioè le porcellane",concatenation_cioè_art,lw_surprisal,12.16452857851982
+gpt2_small_ita,142,forti quelle dei lottatori,adjP:pron,adjectival,4,5,prese,"forti quelle dei lottatori, cioè le prese",concatenation_cioè_art,lw_surprisal,10.661714792251589
+gpt2_small_ita,122,di specchiata rettitudine,PP,prepositional,3,5,probo,"di specchiata rettitudine, cioè probo",concatenation_cioè_art,lw_surprisal,15.89585018157959
+gpt2_small_ita,125,ai lati del palcoscenico,PP,prepositional,4,6,quinte,"ai lati del palcoscenico, cioè le quinte",concatenation_cioè_art,lw_surprisal,8.83254337310791
+gpt2_small_ita,39,lo taglia il potatore,act:clitic,verb_pred,4,4,ramo,"lo taglia il potatore, cioè il ramo",concatenation_cioè_art,lw_surprisal,7.302616834640503
+gpt2_small_ita,104,la musica di jovanotti,def_DP,nominal,4,3,rap,"la musica di jovanotti, cioè il rap",concatenation_cioè_art,lw_surprisal,9.370132207870483
+gpt2_small_ita,10,lo sono le aquile,cop:clitic,copular,4,6,rapaci,"lo sono le aquile, cioè rapaci",concatenation_cioè_art,lw_surprisal,11.690531492233276
+gpt2_small_ita,50,è stato incoronato,pass:missSubj,verb_pred,3,2,re,"è stato incoronato, cioè il re",concatenation_cioè_art,lw_surprisal,8.09995985031128
+gpt2_small_ita,61,vi furono ritrovati noti bronzi,pass:other,verb_pred,5,5,riace,"vi furono ritrovati noti bronzi, cioè riace",concatenation_cioè_art,lw_surprisal,23.94596290588379
+gpt2_small_ita,140,gustosi quelli di mare,adjP:pron,adjectival,4,5,ricci,"gustosi quelli di mare, cioè i ricci",concatenation_cioè_art,lw_surprisal,11.727110385894775
+gpt2_small_ita,6,può essere gastronomica,cop:missSubj,copular,3,7,ricetta,"può essere gastronomica, cioè la ricetta",concatenation_cioè_art,lw_surprisal,7.243404150009155
+gpt2_small_ita,52,è baciata in certe poesie,pass:missSubj,verb_pred,5,4,rima,"è baciata in certe poesie, cioè la rima",concatenation_cioè_art,lw_surprisal,11.110899686813354
+gpt2_small_ita,76,vi si smorza l'onda,imp_refl:other,verb_pred,4,4,riva,"vi si smorza l'onda, cioè la riva",concatenation_cioè_art,lw_surprisal,11.816633462905884
+gpt2_small_ita,154,concludono il giro,metalinguistic,metalinguistic,3,2,ro,"concludono il giro, cioè ro",concatenation_cioè_art,lw_surprisal,9.945199966430664
+gpt2_small_ita,58,vi sono registrati numeri telefonici,pass:other,verb_pred,5,7,rubrica,"vi sono registrati numeri telefonici, cioè la rubrica",concatenation_cioè_art,lw_surprisal,11.259963274002075
+gpt2_small_ita,14,lo sono le cause che determinano un fenomeno,cop:clitic,copular,8,10,scatenanti,"lo sono le cause che determinano un fenomeno, cioè scatenanti",concatenation_cioè_art,lw_surprisal,15.199432373046877
+gpt2_small_ita,33,ce la ricorda cariddi,act:clitic,verb_pred,4,6,scilla,"ce la ricorda cariddi, cioè scilla",concatenation_cioè_art,lw_surprisal,15.787672996520996
+gpt2_small_ita,73,a lui si paragona un agile scalatore,imp_refl:other,verb_pred,7,10,scoiattolo,"a lui si paragona un agile scalatore, cioè lo scoiattolo",concatenation_cioè_art,lw_surprisal,15.199530325829985
+gpt2_small_ita,18,quella pontificia è santa,cop:pron,copular,4,4,sede,"quella pontificia è santa, cioè la sede",concatenation_cioè_art,lw_surprisal,6.251807689666748
+gpt2_small_ita,51,è soddisfatta con un bicchiere d'acqua,pass:missSubj,verb_pred,6,4,sete,"è soddisfatta con un bicchiere d'acqua, cioè la sete",concatenation_cioè_art,lw_surprisal,9.748135566711426
+gpt2_small_ita,88,verso con l'accento sulla sesta sillaba,bare_NP,nominal,6,10,settenario,"verso con l'accento sulla sesta sillaba, cioè il settenario",concatenation_cioè_art,lw_surprisal,18.1673264503479
+gpt2_small_ita,109,la stone che non fa muri,def_DP:rel,nominal,6,6,sharon,"la stone che non fa muri, cioè sharon",concatenation_cioè_art,lw_surprisal,18.488354682922363
+gpt2_small_ita,55,sono formate da varie iniziali,pass:missSubj,verb_pred,5,5,sigle,"sono formate da varie iniziali, cioè le sigle",concatenation_cioè_art,lw_surprisal,8.713132381439209
+gpt2_small_ita,94,dolcezza che delizia,bare_NP:rel,nominal,3,7,soavita,"dolcezza che delizia, cioè la soavita",concatenation_cioè_art,lw_surprisal,21.486000299453732
+gpt2_small_ita,26,sembra un gemello,act:missSubj,verb_pred,3,5,sosia,"sembra un gemello, cioè il sosia",concatenation_cioè_art,lw_surprisal,17.163836002349854
+gpt2_small_ita,78,si cita quella di damocle,imp_refl:other,verb_pred,5,5,spada,"si cita quella di damocle, cioè la spada",concatenation_cioè_art,lw_surprisal,9.552987337112429
+gpt2_small_ita,131,innamorato cotto!,adjP,adjectival,2,10,spasimante,"innamorato cotto!, cioè lo spasimante",concatenation_cioè_art,lw_surprisal,14.952376067638395
+gpt2_small_ita,126,in un secondo tempo,PP,prepositional,4,15,successivamente,"in un secondo tempo, cioè successivamente",concatenation_cioè_art,lw_surprisal,8.616344451904297
+gpt2_small_ita,159,fine della partita,metalinguistic,metalinguistic,3,2,ta,"fine della partita, cioè ta",concatenation_cioè_art,lw_surprisal,9.016380310058594
+gpt2_small_ita,74,ci si passano le ore studiando,imp_refl:other,verb_pred,6,8,tavolino,"ci si passano le ore studiando, cioè il tavolino",concatenation_cioè_art,lw_surprisal,12.52660322189331
+gpt2_small_ita,101,l'auto col tassametro,def_DP,nominal,3,4,taxi,"l'auto col tassametro, cioè il taxi",concatenation_cioè_art,lw_surprisal,6.727593779563904
+gpt2_small_ita,68,quello di salvataggio si usa negl'incendi,imp_refl:missSubj,verb_pred,6,4,telo,"quello di salvataggio si usa negl'incendi, cioè il telo",concatenation_cioè_art,lw_surprisal,12.864824771881104
+gpt2_small_ita,120,un attrezzo del terrorista,ind_DP,nominal,4,5,timer,"un attrezzo del terrorista, cioè il timer",concatenation_cioè_art,lw_surprisal,12.76275396347046
+gpt2_small_ita,80,vi si pigia l'uva,imp_refl:other,verb_pred,4,4,tino,"vi si pigia l'uva, cioè il tino",concatenation_cioè_art,lw_surprisal,14.13007950782776
+gpt2_small_ita,155,a fine agosto,metalinguistic,metalinguistic,3,2,to,"a fine agosto, cioè to",concatenation_cioè_art,lw_surprisal,9.779677391052246
+gpt2_small_ita,40,lo consumano le fotocopiatrici,act:clitic,verb_pred,4,5,toner,"lo consumano le fotocopiatrici, cioè il toner",concatenation_cioè_art,lw_surprisal,15.59235966205597
+gpt2_small_ita,66,si conserva sott'olio,imp_refl:missSubj,verb_pred,3,5,tonno,"si conserva sott'olio, cioè il tonno",concatenation_cioè_art,lw_surprisal,7.556096792221069
+gpt2_small_ita,149,confessare senza volere,inf_VP,infinitive,3,8,tradirsi,"confessare senza volere, cioè tradirsi",concatenation_cioè_art,lw_surprisal,13.842966556549072
+gpt2_small_ita,41,a roma molti turisti visitano quella dei monti,act:pron,verb_pred,8,7,trinita,"a roma molti turisti visitano quella dei monti, cioè la trinita",concatenation_cioè_art,lw_surprisal,15.924338936805723
+gpt2_small_ita,57,ecuba ne fu regina,pass:other,verb_pred,4,5,troia,"ecuba ne fu regina, cioè troia",concatenation_cioè_art,lw_surprisal,14.12072467803955
+gpt2_small_ita,129,per niente superbo,adjP,adjectival,3,5,umile,"per niente superbo, cioè umile",concatenation_cioè_art,lw_surprisal,12.166139602661133
+gpt2_small_ita,9,può esserlo una mina,cop:clitic,copular,4,7,vagante,"può esserlo una mina, cioè vagante",concatenation_cioè_art,lw_surprisal,14.004425525665283
+gpt2_small_ita,47,quella di allegria non spettina,act:pron,verb_pred,5,7,ventata,"quella di allegria non spettina, cioè la ventata",concatenation_cioè_art,lw_surprisal,12.780044794082642
+gpt2_small_ita,48,in cielo appare quella lattea,act:pron,verb_pred,5,3,via,"in cielo appare quella lattea, cioè la via",concatenation_cioè_art,lw_surprisal,10.088776111602783
+gpt2_small_ita,28,può far coppia con l'alloggio,act:missSubj,verb_pred,5,5,vitto,"può far coppia con l'alloggio, cioè il vitto",concatenation_cioè_art,lw_surprisal,11.155150294303894
+gpt2_small_ita,112,le uscite di chi è sboccato,def_DP:rel,nominal,6,9,volgarita,"le uscite di chi è sboccato, cioè le volgarità",concatenation_cioè_art,lw_surprisal,16.775357438251376
+gpt2_small_ita,146,"calare, chinare",inf_VP,infinitive,2,9,abbassare,"abbassare è calare, chinare",concatenation_cop,surprisal_diff,7.211713075637817
+gpt2_small_ita,62,ne è rivestito il riccio,pass:other,verb_pred,5,6,aculei,gli aculei sono ne è rivestito il riccio,concatenation_cop,surprisal_diff,19.922707460820675
+gpt2_small_ita,158,le hanno cani e gatti,metalinguistic,metalinguistic,5,2,ai,ai sono le hanno cani e gatti,concatenation_cop,surprisal_diff,9.705583550035954
+gpt2_small_ita,72,con le sue foglie si intessevano le corone dei vincitori,imp_refl:missSubj,verb_pred,10,6,alloro,l'alloro è con le sue foglie si intessevano le corone dei vincitori,concatenation_cop,surprisal_diff,19.701252080965787
+gpt2_small_ita,102,le montagne etiopiche,def_DP,nominal,3,4,ambe,le ambe sono le montagne etiopiche,concatenation_cop,surprisal_diff,22.63953665830195
+gpt2_small_ita,2,è insidioso sott'acqua,cop:missSubj,copular,3,3,amo,l'amo è è insidioso sott'acqua,concatenation_cop,surprisal_diff,29.897590041160583
+gpt2_small_ita,128,tra la coscia e il bacino,PP,prepositional,6,4,anca,l'anca è tra la coscia e il bacino,concatenation_cop,surprisal_diff,21.40960684791208
+gpt2_small_ita,21,quello nuziale è la fede,cop:pron,copular,5,6,anello,l'anello è quello nuziale è la fede,concatenation_cop,surprisal_diff,27.54476820025593
+gpt2_small_ita,114,una malattia mediterranea,ind_DP,nominal,3,6,anemia,l'anemia è una malattia mediterranea,concatenation_cop,surprisal_diff,23.413937993347645
+gpt2_small_ita,11,lo è una donna di medina,cop:clitic,copular,6,5,araba,araba è lo è una donna di medina,concatenation_cop,surprisal_diff,23.007983684539795
+gpt2_small_ita,92,piante che forniscono frutti per spremute,bare_NP:rel,nominal,6,6,aranci,gli aranci sono le piante che forniscono frutti per spremute,concatenation_cop,surprisal_diff,10.88684976287186
+gpt2_small_ita,151,mettere sottosopra i campi,inf_VP,infinitive,4,5,arare,arare è mettere sottosopra i campi,concatenation_cop,surprisal_diff,30.35026917420328
+gpt2_small_ita,141,famosa quella di verona,adjP:pron,adjectival,4,5,arena,l'arena è famosa quella di verona,concatenation_cop,surprisal_diff,20.140416204929352
+gpt2_small_ita,99,i mobili con le grucce,def_DP,nominal,5,6,armadi,gli armadi sono i mobili con le grucce,concatenation_cop,surprisal_diff,7.0211179736070335
+gpt2_small_ita,17,quella amatoria è di ovidio,cop:pron,copular,5,3,ars,l'ars è quella amatoria è di ovidio,concatenation_cop,surprisal_diff,34.744999542832375
+gpt2_small_ita,20,è poetica quella di orazio,cop:pron,copular,5,3,ars,l'ars è è poetica quella di orazio,concatenation_cop,surprisal_diff,29.597672022879124
+gpt2_small_ita,85,antico sacerdote indovino,bare_NP,nominal,3,8,aruspice,l'aruspice è l'antico sacerdote indovino,concatenation_cop,surprisal_diff,7.874308196653146
+gpt2_small_ita,64,garibaldi vi fu ferito e fatto prigioniero,pass:other,verb_pred,7,10,aspromonte,aspromonte è garibaldi vi fu ferito e fatto prigioniero,concatenation_cop,surprisal_diff,28.100735545158383
+gpt2_small_ita,135,non distratta,adjP,adjectival,2,7,attenta,attenta è non distratta,concatenation_cop,surprisal_diff,9.628143787384031
+gpt2_small_ita,90,complice che organizza il colpo,bare_NP:rel,nominal,5,7,basista,il basista è il complice che organizza il colpo,concatenation_cop,surprisal_diff,5.645419891923666
+gpt2_small_ita,121,in modo buono e corretto,PP,prepositional,5,4,bene,bene è in modo buono e corretto,concatenation_cop,surprisal_diff,-0.9551617465913296
+gpt2_small_ita,81,formaggi,bare_NP,nominal,1,4,caci,i caci sono i formaggi,concatenation_cop,surprisal_diff,31.070323705673218
+gpt2_small_ita,8,è oscura per il fotografo,cop:missSubj,copular,5,6,camera,la camera è è oscura per il fotografo,concatenation_cop,surprisal_diff,20.937799582257867
+gpt2_small_ita,23,quello di lungo corso è un esperto navigante,cop:pron,copular,8,8,capitano,il capitano è quello di lungo corso è un esperto navigante,concatenation_cop,surprisal_diff,26.05630176700652
+gpt2_small_ita,98,il piatto di carne cruda con grana,def_DP,nominal,7,9,carpaccio,il carpaccio è il piatto di carne cruda con grana,concatenation_cop,surprisal_diff,5.798767799511552
+gpt2_small_ita,43,quello rosso costa l'espulsione,act:pron,verb_pred,4,10,cartellino,il cartellino è quello rosso costa l'espulsione,concatenation_cop,surprisal_diff,19.42805607104674
+gpt2_small_ita,7,"possono essere di uva, di riso e di caffè",cop:missSubj,copular,9,7,chicchi,"i chicchi sono possono essere di uva, di riso e di caffè",concatenation_cop,surprisal_diff,33.726449275854975
+gpt2_small_ita,31,ha preceduto bush,act:missSubj,verb_pred,3,7,clinton,clinton è ha preceduto bush,concatenation_cop,surprisal_diff,14.647480100393295
+gpt2_small_ita,156,centimetro... corto,metalinguistic,metalinguistic,2,2,cm,cm è centimetro... corto,concatenation_cop,surprisal_diff,13.415777921676636
+gpt2_small_ita,107,il doyle che creò sherlock holmes,def_DP:rel,nominal,6,5,conan,conan è il doyle che creò sherlock holmes,concatenation_cop,surprisal_diff,5.706113152205944
+gpt2_small_ita,42,quella d'oro circonda palermo,act:pron,verb_pred,4,5,conca,la conca è quella d'oro circonda palermo,concatenation_cop,surprisal_diff,26.058754801750183
+gpt2_small_ita,83,organismo sportivo,bare_NP,nominal,2,4,coni,il coni è l'organismo sportivo,concatenation_cop,surprisal_diff,24.809998483397067
+gpt2_small_ita,134,uniti in un gruppo commerciale,adjP,adjectival,5,10,consociati,consociati sono uniti in un gruppo commerciale,concatenation_cop,surprisal_diff,8.062410516431555
+gpt2_small_ita,29,segnano il consumo di acqua e luce,act:missSubj,verb_pred,7,9,contatori,i contatori sono segnano il consumo di acqua e luce,concatenation_cop,surprisal_diff,34.6209198073484
+gpt2_small_ita,75,quelle ippiche si fanno all'ippodromo,imp_refl:other,verb_pred,5,5,corse,le corse sono quelle ippiche si fanno all'ippodromo,concatenation_cop,surprisal_diff,12.58508881367743
+gpt2_small_ita,123,con la farina nel pane integrale,PP,prepositional,6,6,crusca,la crusca è con la farina nel pane integrale,concatenation_cop,surprisal_diff,23.11530313827097
+gpt2_small_ita,60,gli sono dedicati luoghi particolari,pass:other,verb_pred,5,5,culto,il culto è gli sono dedicati luoghi particolari,concatenation_cop,surprisal_diff,18.48973925167229
+gpt2_small_ita,84,ex pedine,bare_NP,nominal,2,4,dame,le dame sono le ex pedine,concatenation_cop,surprisal_diff,24.150516152381897
+gpt2_small_ita,59,le sono affidati poteri o incarichi,pass:other,verb_pred,6,8,delegata,delegata è le sono affidati poteri o incarichi,concatenation_cop,surprisal_diff,5.554865256883204
+gpt2_small_ita,70,si effettuano fuorviando,imp_refl:missSubj,verb_pred,3,10,depistaggi,i depistaggi sono si effettuano fuorviando,concatenation_cop,surprisal_diff,42.94351886026561
+gpt2_small_ita,105,il fisico che ottenne il nobel nel 1933,def_DP:rel,nominal,8,5,dirac,dirac è il fisico che ottenne il nobel nel 1933,concatenation_cop,surprisal_diff,7.229050373658538
+gpt2_small_ita,145,dare il tempo all'orchestra,inf_VP,infinitive,4,8,dirigere,dirigere è dare il tempo all'orchestra,concatenation_cop,surprisal_diff,6.595585524104536
+gpt2_small_ita,35,"le chiudono i giovani, e non i giovanardi",act:clitic,verb_pred,8,10,discoteche,"le discoteche sono le chiudono i giovani, e non i giovanardi",concatenation_cop,surprisal_diff,27.3795872554183
+gpt2_small_ita,1,è dolce in aprile,cop:missSubj,copular,4,7,dormire,dormire è è dolce in aprile,concatenation_cop,surprisal_diff,12.836728297173975
+gpt2_small_ita,63,vi fu commesso il peccato originale,pass:other,verb_pred,6,4,eden,l'eden è vi fu commesso il peccato originale,concatenation_cop,surprisal_diff,25.53703391039744
+gpt2_small_ita,93,casa che pubblica opere a stampa,bare_NP:rel,nominal,6,8,editrice,l'editrice è la casa che pubblica opere a stampa,concatenation_cop,surprisal_diff,23.45198724232614
+gpt2_small_ita,136,relativi al vento,adjP,adjectival,3,6,eolici,eolici sono relativi al vento,concatenation_cop,surprisal_diff,31.02711933851242
+gpt2_small_ita,49,fu seppellita dal vesuvio,pass:missSubj,verb_pred,4,8,ercolano,ercolano sono fu seppellita dal vesuvio,concatenation_cop,surprisal_diff,13.256308939307928
+gpt2_small_ita,65,si dividono i beni,imp_refl:missSubj,verb_pred,4,5,eredi,gli eredi sono si dividono i beni,concatenation_cop,surprisal_diff,15.916280448436735
+gpt2_small_ita,147,avere un lascito,inf_VP,infinitive,3,9,ereditare,ereditare è avere un lascito,concatenation_cop,surprisal_diff,20.586572349071503
+gpt2_small_ita,71,può strozzarsi da sola,imp_refl:missSubj,verb_pred,4,5,ernia,l'ernia è può strozzarsi da sola,concatenation_cop,surprisal_diff,41.59162175655365
+gpt2_small_ita,130,proprio di un popolo,adjP,adjectival,4,6,etnico,etnico è proprio di un popolo,concatenation_cop,surprisal_diff,19.971706349402663
+gpt2_small_ita,38,li teme il gallerista,act:clitic,verb_pred,4,5,falsi,i falsi sono li teme il gallerista,concatenation_cop,surprisal_diff,23.880305528640747
+gpt2_small_ita,4,è tifoso per una diva,cop:missSubj,copular,5,3,fan,il fan è è tifoso per una diva,concatenation_cop,surprisal_diff,18.009581685066223
+gpt2_small_ita,30,tiene il termometro sul comodino,act:missSubj,verb_pred,5,13,febbricitante,il febbricitante è tiene il termometro sul comodino,concatenation_cop,surprisal_diff,35.07262530969456
+gpt2_small_ita,115,un'insulsa poesiola,ind_DP,nominal,2,11,filastrocca,la filastrocca è un'insulsa poesiola,concatenation_cop,surprisal_diff,-0.3835319187492132
+gpt2_small_ita,137,famosi quelli di san francesco,adjP:pron,adjectival,5,8,fioretti,i fioretti sono famosi quelli di san francesco,concatenation_cop,surprisal_diff,19.513154666870832
+gpt2_small_ita,111,la pietra che produce scintille,def_DP:rel,nominal,5,6,focaia,focaia è la pietra che produce scintille,concatenation_cop,surprisal_diff,16.414794132113457
+gpt2_small_ita,144,profonda quella delle marianne,adjP:pron,adjectival,4,5,fossa,la fossa è profonda quella delle marianne,concatenation_cop,surprisal_diff,14.394846215844154
+gpt2_small_ita,54,fu amata da polifemo,pass:missSubj,verb_pred,4,7,galatea,galatea è fu amata da polifemo,concatenation_cop,surprisal_diff,-1.1752796284854412
+gpt2_small_ita,69,quello liquido si conserva in bombole,imp_refl:missSubj,verb_pred,6,3,gas,il gas è quello liquido si conserva in bombole,concatenation_cop,surprisal_diff,14.961161483079197
+gpt2_small_ita,45,quelli d'azzardo affollano il casinò,act:pron,verb_pred,5,9,giocatori,i giocatori sono quelli d'azzardo affollano il casinò,concatenation_cop,surprisal_diff,11.436107925605029
+gpt2_small_ita,91,giudice che indaga,bare_NP:rel,nominal,3,3,gip,il gip è il giudice che indaga,concatenation_cop,surprisal_diff,23.240947544574738
+gpt2_small_ita,16,lo è il sasso d'abruzzo,cop:clitic,copular,5,4,gran,gran è lo è il sasso d'abruzzo,concatenation_cop,surprisal_diff,10.048412144184113
+gpt2_small_ita,152,alzare il volume della voce,inf_VP,infinitive,5,7,gridare,gridare è alzare il volume della voce,concatenation_cop,surprisal_diff,9.852912429720163
+gpt2_small_ita,67,si applicano per abbellire,imp_refl:missSubj,verb_pred,4,11,guarnizioni,le guarnizioni sono si applicano per abbellire,concatenation_cop,surprisal_diff,33.40624314546585
+gpt2_small_ita,119,una sigla informatica,ind_DP,nominal,3,3,ibm,ibm è una sigla informatica,concatenation_cop,surprisal_diff,16.872257445007563
+gpt2_small_ita,36,lo adorano i pagani,act:clitic,verb_pred,4,5,idolo,l'idolo è lo adorano i pagani,concatenation_cop,surprisal_diff,22.90605640411377
+gpt2_small_ita,12,lo è l'opera di un genio,cop:clitic,copular,6,9,immortale,immortale è lo è l'opera di un genio,concatenation_cop,surprisal_diff,13.312511381693184
+gpt2_small_ita,15,lo è il vulcano spento,cop:clitic,copular,5,8,inattivo,inattivo è lo è il vulcano spento,concatenation_cop,surprisal_diff,30.95482593867928
+gpt2_small_ita,13,lo è il carburatore troppo pieno di benzina,cop:clitic,copular,8,9,ingolfato,ingolfato è lo è il carburatore troppo pieno di benzina,concatenation_cop,surprisal_diff,27.41923996154219
+gpt2_small_ita,19,non è promettente quello della fine,cop:pron,copular,6,6,inizio,l'inizio è non è promettente quello della fine,concatenation_cop,surprisal_diff,20.3539694622159
+gpt2_small_ita,139,grandi quelli di einstein e dante,adjP:pron,adjectival,6,10,intelletti,gli intelletti sono grandi quelli di einstein e dante,concatenation_cop,surprisal_diff,22.566817864775658
+gpt2_small_ita,133,passivo e attivo in banca,adjP,adjectival,5,9,interesse,l'interesse è passivo e attivo in banca,concatenation_cop,surprisal_diff,15.59300186112523
+gpt2_small_ita,118,una forma di elettroterapia,ind_DP,nominal,4,10,ionoforesi,la ionoforesi è una forma di elettroterapia,concatenation_cop,surprisal_diff,36.57566060544923
+gpt2_small_ita,100,la pista dei purosangue,def_DP,nominal,4,9,ippodromo,l'ippodromo è la pista dei purosangue,concatenation_cop,surprisal_diff,18.28944153658813
+gpt2_small_ita,124,come il poeta sotto l'influsso della musa,PP,prepositional,7,8,ispirato,ispirato è come il poeta sotto l'influsso della musa,concatenation_cop,surprisal_diff,20.151142676826566
+gpt2_small_ita,56,viene cardata,pass:missSubj,verb_pred,2,4,lana,la lana è viene cardata,concatenation_cop,surprisal_diff,27.625272303819656
+gpt2_small_ita,103,il coniglio come pelliccia,def_DP,nominal,4,5,lapin,il lapin è il coniglio come pelliccia,concatenation_cop,surprisal_diff,20.529333449841943
+gpt2_small_ita,96,quotidiano che si legge a verona,bare_NP:rel,nominal,6,6,larena,l'arena è il quotidiano che si legge a verona,concatenation_cop,surprisal_diff,30.34079880174249
+gpt2_small_ita,79,quella di soia si prende per il colesterolo,imp_refl:other,verb_pred,8,8,lecitina,la lecitina è quella di soia si prende per il colesterolo,concatenation_cop,surprisal_diff,23.516735557466745
+gpt2_small_ita,24,quelli marini sono le otarie,cop:pron,copular,5,5,leoni,i leoni sono quelli marini sono le otarie,concatenation_cop,surprisal_diff,24.40472662448883
+gpt2_small_ita,160,cambiano la sagra in lagna,metalinguistic,metalinguistic,5,2,ln,ln è cambiano la sagra in lagna,concatenation_cop,surprisal_diff,22.44622802734375
+gpt2_small_ita,157,i confini del labrador,metalinguistic,metalinguistic,4,2,lr,lr è i confini del labrador,concatenation_cop,surprisal_diff,7.05957567691803
+gpt2_small_ita,82,cattiveria raffinata,bare_NP,nominal,2,9,malvagita,la malvagità è la cattiveria raffinata,concatenation_cop,surprisal_diff,4.926742725074291
+gpt2_small_ita,113,una riproduzione modellistica,ind_DP,nominal,3,8,maquette,la maquette è una riproduzione modellistica,concatenation_cop,surprisal_diff,18.783764597959816
+gpt2_small_ita,116,un rimedio contro i crampi,ind_DP,nominal,5,9,massaggio,il massaggio è un rimedio contro i crampi,concatenation_cop,surprisal_diff,6.572948635555804
+gpt2_small_ita,3,è sana in corpore sano,cop:missSubj,copular,5,4,mens,la mens è è sana in corpore sano,concatenation_cop,surprisal_diff,22.80384505353868
+gpt2_small_ita,153,in mezzo al tamigi,metalinguistic,metalinguistic,4,2,mi,mi è in mezzo al tamigi,concatenation_cop,surprisal_diff,1.3738794177770617
+gpt2_small_ita,148,preparare il salto in aria!,inf_VP,infinitive,5,6,minare,minare è preparare il salto in aria!,concatenation_cop,surprisal_diff,26.664223194122314
+gpt2_small_ita,132,"docile, mansueto",adjP,adjectival,2,4,mite,"mite è docile, mansueto",concatenation_cop,surprisal_diff,18.7715515345335
+gpt2_small_ita,37,lo può diventare un attore o un cantante,act:clitic,verb_pred,8,4,mito,il mito è lo può diventare un attore o un cantante,concatenation_cop,surprisal_diff,20.785597984213386
+gpt2_small_ita,89,donna che ha preso il velo,bare_NP:rel,nominal,6,6,monaca,la monaca è la donna che ha preso il velo,concatenation_cop,surprisal_diff,16.472480434924364
+gpt2_small_ita,27,vestono il saio,act:missSubj,verb_pred,3,6,monaci,i monaci sono vestono il saio,concatenation_cop,surprisal_diff,24.47301410138607
+gpt2_small_ita,34,lo fugge l'eremita,act:clitic,verb_pred,3,5,mondo,il mondo è lo fugge l'eremita,concatenation_cop,surprisal_diff,18.090533019974828
+gpt2_small_ita,86,"demi, nota attrice",bare_NP,nominal,3,5,moore,"moore è demi, nota attrice",concatenation_cop,surprisal_diff,22.645473573356867
+gpt2_small_ita,108,l'elsa che fu celebre scrittrice,def_DP:rel,nominal,5,7,morante,morante è l'elsa che fu celebre scrittrice,concatenation_cop,surprisal_diff,6.449451353400946
+gpt2_small_ita,44,quelle eterne non si sciolgono,act:pron,verb_pred,5,4,nevi,le nevi sono quelle eterne non si sciolgono,concatenation_cop,surprisal_diff,31.98648228123784
+gpt2_small_ita,110,il fiume che straripando fertilizzava,def_DP:rel,nominal,5,4,nilo,il nilo è il fiume che straripando fertilizzava,concatenation_cop,surprisal_diff,12.685093151172625
+gpt2_small_ita,87,palmizi nel deserto,bare_NP,nominal,3,4,oasi,le oasi sono i palmizi nel deserto,concatenation_cop,surprisal_diff,20.19245971320197
+gpt2_small_ita,5,è più o meno denso,cop:missSubj,copular,5,4,olio,l'olio è è più o meno denso,concatenation_cop,surprisal_diff,23.995388355106115
+gpt2_small_ita,53,sono esposti in stazione,pass:missSubj,verb_pred,4,5,orari,gli orari sono sono esposti in stazione,concatenation_cop,surprisal_diff,23.527263946831223
+gpt2_small_ita,46,quello del corpo non ha le canne,act:pron,verb_pred,7,6,organo,l'organo è quello del corpo non ha le canne,concatenation_cop,surprisal_diff,26.92502610385418
+gpt2_small_ita,22,quello lavatore è il procione,cop:pron,copular,5,7,orsetto,l'orsetto è quello lavatore è il procione,concatenation_cop,surprisal_diff,28.80280594527721
+gpt2_small_ita,95,luogo recintato in cui si custodiscono le pecore,bare_NP:rel,nominal,8,5,ovile,l'ovile è il luogo recintato in cui si custodiscono le pecore,concatenation_cop,surprisal_diff,15.268177952733822
+gpt2_small_ita,143,celebri quelli di annibale a capua,adjP:pron,adjectival,6,3,ozi,gli ozi sono celebri quelli di annibale a capua,concatenation_cop,surprisal_diff,12.008946113288404
+gpt2_small_ita,106,la condicio che uguaglia,def_DP:rel,nominal,4,3,par,par è la condicio che uguaglia,concatenation_cop,surprisal_diff,9.754517406225204
+gpt2_small_ita,117,un assieme di rattoppi,ind_DP,nominal,4,9,patchwork,il patchwork è un assieme di rattoppi,concatenation_cop,surprisal_diff,12.90727911144495
+gpt2_small_ita,32,piace ai lupi,act:missSubj,verb_pred,3,6,pecora,la pecora è piace ai lupi,concatenation_cop,surprisal_diff,26.88814915716648
+gpt2_small_ita,97,l'occhio vigile del sommergibile,def_DP,nominal,4,10,periscopio,il periscopio è l'occhio vigile del sommergibile,concatenation_cop,surprisal_diff,7.537727338029072
+gpt2_small_ita,127,su un piatto della bilancia,PP,prepositional,5,4,pesi,i pesi sono su un piatto della bilancia,concatenation_cop,surprisal_diff,11.795732732862234
+gpt2_small_ita,150,"foggiare, modellare",inf_VP,infinitive,2,8,plasmare,"plasmare è foggiare, modellare",concatenation_cop,surprisal_diff,27.71393609791994
+gpt2_small_ita,25,non preoccupa l'incosciente,act:missSubj,verb_pred,3,3,poi,il poi è non preoccupa l'incosciente,concatenation_cop,surprisal_diff,18.945164296776056
+gpt2_small_ita,138,pregiate quelle di limoges,adjP:pron,adjectival,4,10,porcellane,le porcellane sono pregiate quelle di limoges,concatenation_cop,surprisal_diff,8.20425220951438
+gpt2_small_ita,142,forti quelle dei lottatori,adjP:pron,adjectival,4,5,prese,le prese è forti quelle dei lottatori,concatenation_cop,surprisal_diff,12.245462451130152
+gpt2_small_ita,122,di specchiata rettitudine,PP,prepositional,3,5,probo,probo è di specchiata rettitudine,concatenation_cop,surprisal_diff,14.68311521038413
+gpt2_small_ita,125,ai lati del palcoscenico,PP,prepositional,4,6,quinte,le quinte sono ai lati del palcoscenico,concatenation_cop,surprisal_diff,20.30803531268612
+gpt2_small_ita,39,lo taglia il potatore,act:clitic,verb_pred,4,4,ramo,il ramo è lo taglia il potatore,concatenation_cop,surprisal_diff,17.16978096961975
+gpt2_small_ita,104,la musica di jovanotti,def_DP,nominal,4,3,rap,il rap è la musica di jovanotti,concatenation_cop,surprisal_diff,12.944429826922716
+gpt2_small_ita,10,lo sono le aquile,cop:clitic,copular,4,6,rapaci,rapaci sono lo sono le aquile,concatenation_cop,surprisal_diff,15.715992120094596
+gpt2_small_ita,50,è stato incoronato,pass:missSubj,verb_pred,3,2,re,il re è è stato incoronato,concatenation_cop,surprisal_diff,18.101745910942554
+gpt2_small_ita,61,vi furono ritrovati noti bronzi,pass:other,verb_pred,5,5,riace,riace è vi furono ritrovati noti bronzi,concatenation_cop,surprisal_diff,8.845015034079552
+gpt2_small_ita,140,gustosi quelli di mare,adjP:pron,adjectival,4,5,ricci,i ricci sono gustosi quelli di mare,concatenation_cop,surprisal_diff,20.57217723876238
+gpt2_small_ita,6,può essere gastronomica,cop:missSubj,copular,3,7,ricetta,la ricetta è può essere gastronomica,concatenation_cop,surprisal_diff,25.93317094445229
+gpt2_small_ita,52,è baciata in certe poesie,pass:missSubj,verb_pred,5,4,rima,la rima è è baciata in certe poesie,concatenation_cop,surprisal_diff,22.332759469747543
+gpt2_small_ita,76,vi si smorza l'onda,imp_refl:other,verb_pred,4,4,riva,la riva è vi si smorza l'onda,concatenation_cop,surprisal_diff,17.334538146853447
+gpt2_small_ita,154,concludono il giro,metalinguistic,metalinguistic,3,2,ro,ro è concludono il giro,concatenation_cop,surprisal_diff,16.70531229674816
+gpt2_small_ita,58,vi sono registrati numeri telefonici,pass:other,verb_pred,5,7,rubrica,la rubrica è vi sono registrati numeri telefonici,concatenation_cop,surprisal_diff,17.741219927556813
+gpt2_small_ita,14,lo sono le cause che determinano un fenomeno,cop:clitic,copular,8,10,scatenanti,scatenanti sono lo sono le cause che determinano un fenomeno,concatenation_cop,surprisal_diff,24.138074000366032
+gpt2_small_ita,33,ce la ricorda cariddi,act:clitic,verb_pred,4,6,scilla,scilla è ce la ricorda cariddi,concatenation_cop,surprisal_diff,19.86724817752838
+gpt2_small_ita,73,a lui si paragona un agile scalatore,imp_refl:other,verb_pred,7,10,scoiattolo,lo scoiattolo è a lui si paragona un agile scalatore,concatenation_cop,surprisal_diff,9.86621293053031
+gpt2_small_ita,18,quella pontificia è santa,cop:pron,copular,4,4,sede,la sede è quella pontificia è santa,concatenation_cop,surprisal_diff,20.39864446222782
+gpt2_small_ita,51,è soddisfatta con un bicchiere d'acqua,pass:missSubj,verb_pred,6,4,sete,la sete è è soddisfatta con un bicchiere d'acqua,concatenation_cop,surprisal_diff,15.62995795207098
+gpt2_small_ita,88,verso con l'accento sulla sesta sillaba,bare_NP,nominal,6,10,settenario,il settenario è il verso con l'accento sulla sesta sillaba,concatenation_cop,surprisal_diff,13.76602743274998
+gpt2_small_ita,109,la stone che non fa muri,def_DP:rel,nominal,6,6,sharon,sharon è la stone che non fa muri,concatenation_cop,surprisal_diff,13.2193124294281
+gpt2_small_ita,55,sono formate da varie iniziali,pass:missSubj,verb_pred,5,5,sigle,le sigle sono sono formate da varie iniziali,concatenation_cop,surprisal_diff,28.53785812854767
+gpt2_small_ita,94,dolcezza che delizia,bare_NP:rel,nominal,3,7,soavita,la soavità è la dolcezza che delizia,concatenation_cop,surprisal_diff,24.97988287964836
+gpt2_small_ita,26,sembra un gemello,act:missSubj,verb_pred,3,5,sosia,il sosia è sembra un gemello,concatenation_cop,surprisal_diff,19.10187976062297
+gpt2_small_ita,78,si cita quella di damocle,imp_refl:other,verb_pred,5,5,spada,la spada è si cita quella di damocle,concatenation_cop,surprisal_diff,18.167030185461044
+gpt2_small_ita,131,innamorato cotto!,adjP,adjectival,2,10,spasimante,lo spasimante è innamorato cotto!,concatenation_cop,surprisal_diff,28.868172297254205
+gpt2_small_ita,126,in un secondo tempo,PP,prepositional,4,15,successivamente,successivamente è in un secondo tempo,concatenation_cop,surprisal_diff,2.005465745925904
+gpt2_small_ita,159,fine della partita,metalinguistic,metalinguistic,3,2,ta,ta è fine della partita,concatenation_cop,surprisal_diff,13.04151026904583
+gpt2_small_ita,74,ci si passano le ore studiando,imp_refl:other,verb_pred,6,8,tavolino,il tavolino è ci si passano le ore studiando,concatenation_cop,surprisal_diff,22.59721110016108
+gpt2_small_ita,101,l'auto col tassametro,def_DP,nominal,3,4,taxi,il taxi è l'auto col tassametro,concatenation_cop,surprisal_diff,-11.403096102178097
+gpt2_small_ita,68,quello di salvataggio si usa negl'incendi,imp_refl:missSubj,verb_pred,6,4,telo,il telo è quello di salvataggio si usa negl'incendi,concatenation_cop,surprisal_diff,23.88960460200905
+gpt2_small_ita,120,un attrezzo del terrorista,ind_DP,nominal,4,5,timer,il timer è un attrezzo del terrorista,concatenation_cop,surprisal_diff,10.180882424116136
+gpt2_small_ita,80,vi si pigia l'uva,imp_refl:other,verb_pred,4,4,tino,il tino è vi si pigia l'uva,concatenation_cop,surprisal_diff,22.551006317138672
+gpt2_small_ita,155,a fine agosto,metalinguistic,metalinguistic,3,2,to,to è a fine agosto,concatenation_cop,surprisal_diff,10.96021604537964
+gpt2_small_ita,40,lo consumano le fotocopiatrici,act:clitic,verb_pred,4,5,toner,il toner è lo consumano le fotocopiatrici,concatenation_cop,surprisal_diff,10.622748736292124
+gpt2_small_ita,66,si conserva sott'olio,imp_refl:missSubj,verb_pred,3,5,tonno,il tonno è si conserva sott'olio,concatenation_cop,surprisal_diff,15.160137504339218
+gpt2_small_ita,149,confessare senza volere,inf_VP,infinitive,3,8,tradirsi,tradirsi è confessare senza volere,concatenation_cop,surprisal_diff,4.792023450136185
+gpt2_small_ita,41,a roma molti turisti visitano quella dei monti,act:pron,verb_pred,8,7,trinita,la trinita è a roma molti turisti visitano quella dei monti,concatenation_cop,surprisal_diff,9.14209983125329
+gpt2_small_ita,57,ecuba ne fu regina,pass:other,verb_pred,4,5,troia,troia è ecuba ne fu regina,concatenation_cop,surprisal_diff,8.02172164618969
+gpt2_small_ita,129,per niente superbo,adjP,adjectival,3,5,umile,umile è per niente superbo,concatenation_cop,surprisal_diff,11.882497489452362
+gpt2_small_ita,9,può esserlo una mina,cop:clitic,copular,4,7,vagante,vagante è può esserlo una mina,concatenation_cop,surprisal_diff,28.71862440556288
+gpt2_small_ita,47,quella di allegria non spettina,act:pron,verb_pred,5,7,ventata,la ventata è quella di allegria non spettina,concatenation_cop,surprisal_diff,29.79733228683472
+gpt2_small_ita,48,in cielo appare quella lattea,act:pron,verb_pred,5,3,via,la via è in cielo appare quella lattea,concatenation_cop,surprisal_diff,9.006243497133255
+gpt2_small_ita,28,può far coppia con l'alloggio,act:missSubj,verb_pred,5,5,vitto,il vitto è può far coppia con l'alloggio,concatenation_cop,surprisal_diff,29.722212746739388
+gpt2_small_ita,112,le uscite di chi è sboccato,def_DP:rel,nominal,6,9,volgarita,le volgarita sono le uscite di chi è sboccato,concatenation_cop,surprisal_diff,27.030957566574216
+gpt2_small_ita,102,le montagne etiopiche,def_DP,nominal,3,4,ambe,le montagne etiopiche sono le ambe,concatenation_inv_cop,lw_surprisal,19.89631175994873
+gpt2_small_ita,114,una malattia mediterranea,ind_DP,nominal,3,6,anemia,una malattia mediterranea è l'anemia,concatenation_inv_cop,lw_surprisal,12.070907406508924
+gpt2_small_ita,92,piante che forniscono frutti per spremute,bare_NP:rel,nominal,6,6,aranci,le piante che forniscono frutti per spremute sono gli aranci,concatenation_inv_cop,lw_surprisal,13.347072578966618
+gpt2_small_ita,99,i mobili con le grucce,def_DP,nominal,5,6,armadi,i mobili con le grucce sono gli armadi,concatenation_inv_cop,lw_surprisal,14.750119291245936
+gpt2_small_ita,85,antico sacerdote indovino,bare_NP,nominal,3,8,aruspice,l'antico sacerdote indovino è l'aruspice,concatenation_inv_cop,lw_surprisal,16.40318045206368
+gpt2_small_ita,90,complice che organizza il colpo,bare_NP:rel,nominal,5,7,basista,il complice che organizza il colpo è il basista,concatenation_inv_cop,lw_surprisal,16.161139845848083
+gpt2_small_ita,81,formaggi,bare_NP,nominal,1,4,caci,i formaggi sono i caci ,concatenation_inv_cop,lw_surprisal,21.65187788009644
+gpt2_small_ita,98,il piatto di carne cruda con grana,def_DP,nominal,7,9,carpaccio,il piatto di carne cruda con grana è il carpaccio,concatenation_inv_cop,lw_surprisal,17.468212775420398
+gpt2_small_ita,107,il doyle che creò sherlock holmes,def_DP:rel,nominal,6,5,conan,il doyle che creò sherlock holmes è conan,concatenation_inv_cop,lw_surprisal,18.55277919769287
+gpt2_small_ita,83,organismo sportivo,bare_NP,nominal,2,4,coni,l'organismo sportivo è il coni,concatenation_inv_cop,lw_surprisal,15.946928977966309
+gpt2_small_ita,84,ex pedine,bare_NP,nominal,2,4,dame,le ex pedine sono le dame,concatenation_inv_cop,lw_surprisal,17.894984483718872
+gpt2_small_ita,105,il fisico che ottenne il nobel nel 1933,def_DP:rel,nominal,8,5,dirac,il fisico che ottenne il nobel nel 1933 è dirac,concatenation_inv_cop,lw_surprisal,21.5087833404541
+gpt2_small_ita,93,casa che pubblica opere a stampa,bare_NP:rel,nominal,6,8,editrice,la casa che pubblica opere a stampa è l'editrice,concatenation_inv_cop,lw_surprisal,4.906273722648621
+gpt2_small_ita,115,un'insulsa poesiola,ind_DP,nominal,2,11,filastrocca,un'insulsa poesiola è la filastrocca,concatenation_inv_cop,lw_surprisal,20.5062145665288
+gpt2_small_ita,111,la pietra che produce scintille,def_DP:rel,nominal,5,6,focaia,la pietra che produce scintille è focaia,concatenation_inv_cop,lw_surprisal,14.896362900733948
+gpt2_small_ita,91,giudice che indaga,bare_NP:rel,nominal,3,3,gip,il giudice che indaga è il gip,concatenation_inv_cop,lw_surprisal,17.353535652160645
+gpt2_small_ita,119,una sigla informatica,ind_DP,nominal,3,3,ibm,una sigla informatica è ibm,concatenation_inv_cop,lw_surprisal,19.881290674209595
+gpt2_small_ita,118,una forma di elettroterapia,ind_DP,nominal,4,10,ionoforesi,una forma di elettroterapia è la ionoforesi,concatenation_inv_cop,lw_surprisal,17.30336682498455
+gpt2_small_ita,100,la pista dei purosangue,def_DP,nominal,4,9,ippodromo,la pista dei purosangue è l'ippodromo,concatenation_inv_cop,lw_surprisal,17.72163027897477
+gpt2_small_ita,103,il coniglio come pelliccia,def_DP,nominal,4,5,lapin,il coniglio come pelliccia è il lapin,concatenation_inv_cop,lw_surprisal,21.32485866546631
+gpt2_small_ita,96,quotidiano che si legge a verona,bare_NP:rel,nominal,6,6,larena,il quotidiano che si legge a verona è l'arena,concatenation_inv_cop,lw_surprisal,12.269943058490751
+gpt2_small_ita,82,cattiveria raffinata,bare_NP,nominal,2,9,malvagita,la cattiveria raffinata è la malvagità,concatenation_inv_cop,lw_surprisal,13.616318987682462
+gpt2_small_ita,113,una riproduzione modellistica,ind_DP,nominal,3,8,maquette,una riproduzione modellistica è la maquette,concatenation_inv_cop,lw_surprisal,18.55199244618416
+gpt2_small_ita,116,un rimedio contro i crampi,ind_DP,nominal,5,9,massaggio,un rimedio contro i crampi è il massaggio,concatenation_inv_cop,lw_surprisal,13.057174652814863
+gpt2_small_ita,89,donna che ha preso il velo,bare_NP:rel,nominal,6,6,monaca,la donna che ha preso il velo è la monaca,concatenation_inv_cop,lw_surprisal,13.57608997821808
+gpt2_small_ita,86,"demi, nota attrice",bare_NP,nominal,3,5,moore,"demi, nota attrice è moore",concatenation_inv_cop,lw_surprisal,20.976981163024902
+gpt2_small_ita,108,l'elsa che fu celebre scrittrice,def_DP:rel,nominal,5,7,morante,l'elsa che fu celebre scrittrice è morante,concatenation_inv_cop,lw_surprisal,22.27423667907715
+gpt2_small_ita,110,il fiume che straripando fertilizzava,def_DP:rel,nominal,5,4,nilo,il fiume che straripando fertilizzava è il nilo,concatenation_inv_cop,lw_surprisal,20.235426373779774
+gpt2_small_ita,87,palmizi nel deserto,bare_NP,nominal,3,4,oasi,i palmizi nel deserto sono le oasi,concatenation_inv_cop,lw_surprisal,15.068339347839355
+gpt2_small_ita,95,luogo recintato in cui si custodiscono le pecore,bare_NP:rel,nominal,8,5,ovile,il luogo recintato in cui si custodiscono le pecore è l'ovile,concatenation_inv_cop,lw_surprisal,9.12200990691781
+gpt2_small_ita,106,la condicio che uguaglia,def_DP:rel,nominal,4,3,par,la condicio che uguaglia è par,concatenation_inv_cop,lw_surprisal,15.038623809814451
+gpt2_small_ita,117,un assieme di rattoppi,ind_DP,nominal,4,9,patchwork,un assieme di rattoppi è il patchwork,concatenation_inv_cop,lw_surprisal,18.202999114990234
+gpt2_small_ita,97,l'occhio vigile del sommergibile,def_DP,nominal,4,10,periscopio,l'occhio vigile del sommergibile è il periscopio,concatenation_inv_cop,lw_surprisal,13.985267015639693
+gpt2_small_ita,104,la musica di jovanotti,def_DP,nominal,4,3,rap,la musica di jovanotti è il rap,concatenation_inv_cop,lw_surprisal,14.542646408081056
+gpt2_small_ita,88,verso con l'accento sulla sesta sillaba,bare_NP,nominal,6,10,settenario,il verso con l'accento sulla sesta sillaba è il settenario,concatenation_inv_cop,lw_surprisal,15.363406555727124
+gpt2_small_ita,109,la stone che non fa muri,def_DP:rel,nominal,6,6,sharon,la stone che non fa muri è sharon,concatenation_inv_cop,lw_surprisal,20.79980421066284
+gpt2_small_ita,94,dolcezza che delizia,bare_NP:rel,nominal,3,7,soavita,la dolcezza che delizia è la soavità,concatenation_inv_cop,lw_surprisal,14.537796966731548
+gpt2_small_ita,101,l'auto col tassametro,def_DP,nominal,3,4,taxi,l'auto col tassametro è il taxi,concatenation_inv_cop,lw_surprisal,15.972133159637451
+gpt2_small_ita,120,un attrezzo del terrorista,ind_DP,nominal,4,5,timer,un attrezzo del terrorista è il timer,concatenation_inv_cop,lw_surprisal,15.845951318740845
+gpt2_small_ita,112,le uscite di chi è sboccato,def_DP:rel,nominal,6,9,volgarita,le uscite di chi è sboccato sono le volgarità,concatenation_inv_cop,lw_surprisal,22.967879489064217
+gpt2_small_ita,146,"calare, chinare",inf_VP,infinitive,2,9,abbassare,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: calare, chinare. La risposta ha 9 lettere, inizia con 'a', abbassare",concatenation_prompt,lw_surprisal,11.938016891479492
+gpt2_small_ita,62,ne è rivestito il riccio,pass:other,verb_pred,5,6,aculei,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: ne è rivestito il riccio. La risposta ha 6 lettere, inizia con 'a', aculei",concatenation_prompt,lw_surprisal,17.89139175415039
+gpt2_small_ita,158,le hanno cani e gatti,metalinguistic,metalinguistic,5,2,ai,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: le hanno cani e gatti. La risposta ha 2 lettere, inizia con 'a', ai",concatenation_prompt,lw_surprisal,8.218043327331543
+gpt2_small_ita,72,con le sue foglie si intessevano le corone dei vincitori,imp_refl:missSubj,verb_pred,10,6,alloro,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: con le sue foglie si intessevano le corone dei vincitori. La risposta ha 6 lettere, inizia con 'a', alloro",concatenation_prompt,lw_surprisal,14.773422241210938
+gpt2_small_ita,102,le montagne etiopiche,def_DP,nominal,3,4,ambe,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: le montagne etiopiche. La risposta ha 4 lettere, inizia con 'a', ambe",concatenation_prompt,lw_surprisal,16.175610542297363
+gpt2_small_ita,2,è insidioso sott'acqua,cop:missSubj,copular,3,3,amo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è insidioso sott'acqua. La risposta ha 3 lettere, inizia con 'a', amo",concatenation_prompt,lw_surprisal,12.219300270080566
+gpt2_small_ita,128,tra la coscia e il bacino,PP,prepositional,6,4,anca,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: tra la coscia e il bacino. La risposta ha 4 lettere, inizia con 'a', anca",concatenation_prompt,lw_surprisal,18.65791416168213
+gpt2_small_ita,21,quello nuziale è la fede,cop:pron,copular,5,6,anello,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quello nuziale è la fede. La risposta ha 6 lettere, inizia con 'a', anello",concatenation_prompt,lw_surprisal,14.606801986694336
+gpt2_small_ita,114,una malattia mediterranea,ind_DP,nominal,3,6,anemia,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: una malattia mediterranea. La risposta ha 6 lettere, inizia con 'a', anemia",concatenation_prompt,lw_surprisal,18.47129535675049
+gpt2_small_ita,11,lo è una donna di medina,cop:clitic,copular,6,5,araba,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo è una donna di medina. La risposta ha 5 lettere, inizia con 'a', araba",concatenation_prompt,lw_surprisal,12.43088436126709
+gpt2_small_ita,92,piante che forniscono frutti per spremute,bare_NP:rel,nominal,6,6,aranci,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: piante che forniscono frutti per spremute. La risposta ha 6 lettere, inizia con 'a', aranci",concatenation_prompt,lw_surprisal,14.768739700317385
+gpt2_small_ita,151,mettere sottosopra i campi,inf_VP,infinitive,4,5,arare,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: mettere sottosopra i campi. La risposta ha 5 lettere, inizia con 'a', arare",concatenation_prompt,lw_surprisal,15.444132328033447
+gpt2_small_ita,141,famosa quella di verona,adjP:pron,adjectival,4,5,arena,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: famosa quella di verona. La risposta ha 5 lettere, inizia con 'a', arena",concatenation_prompt,lw_surprisal,15.122802257537842
+gpt2_small_ita,99,i mobili con le grucce,def_DP,nominal,5,6,armadi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: i mobili con le grucce. La risposta ha 6 lettere, inizia con 'a', armadi",concatenation_prompt,lw_surprisal,18.49238395690918
+gpt2_small_ita,17,quella amatoria è di ovidio,cop:pron,copular,5,3,ars,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quella amatoria è di ovidio. La risposta ha 3 lettere, inizia con 'a', ars",concatenation_prompt,lw_surprisal,15.9439959526062
+gpt2_small_ita,20,è poetica quella di orazio,cop:pron,copular,5,3,ars,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è poetica quella di orazio. La risposta ha 3 lettere, inizia con 'a', ars",concatenation_prompt,lw_surprisal,15.7811279296875
+gpt2_small_ita,85,antico sacerdote indovino,bare_NP,nominal,3,8,aruspice,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: antico sacerdote indovino. La risposta ha 8 lettere, inizia con 'a', aruspice",concatenation_prompt,lw_surprisal,29.36543226242065
+gpt2_small_ita,64,garibaldi vi fu ferito e fatto prigioniero,pass:other,verb_pred,7,10,aspromonte,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: garibaldi vi fu ferito e fatto prigioniero. La risposta ha 10 lettere, inizia con 'a', aspromonte",concatenation_prompt,lw_surprisal,28.069100379943848
+gpt2_small_ita,135,non distratta,adjP,adjectival,2,7,attenta,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: non distratta. La risposta ha 7 lettere, inizia con 'a', attenta",concatenation_prompt,lw_surprisal,11.601937294006348
+gpt2_small_ita,90,complice che organizza il colpo,bare_NP:rel,nominal,5,7,basista,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: complice che organizza il colpo. La risposta ha 7 lettere, inizia con 'b', basista",concatenation_prompt,lw_surprisal,18.07539796829224
+gpt2_small_ita,121,in modo buono e corretto,PP,prepositional,5,4,bene,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: in modo buono e corretto. La risposta ha 4 lettere, inizia con 'b', bene",concatenation_prompt,lw_surprisal,8.03749942779541
+gpt2_small_ita,81,formaggi,bare_NP,nominal,1,4,caci,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: formaggi. La risposta ha 4 lettere, inizia con 'c', caci",concatenation_prompt,lw_surprisal,14.99594020843506
+gpt2_small_ita,8,è oscura per il fotografo,cop:missSubj,copular,5,6,camera,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è oscura per il fotografo. La risposta ha 6 lettere, inizia con 'c', camera",concatenation_prompt,lw_surprisal,17.426406860351562
+gpt2_small_ita,23,quello di lungo corso è un esperto navigante,cop:pron,copular,8,8,capitano,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quello di lungo corso è un esperto navigante. La risposta ha 8 lettere, inizia con 'c', capitano",concatenation_prompt,lw_surprisal,13.058987617492676
+gpt2_small_ita,98,il piatto di carne cruda con grana,def_DP,nominal,7,9,carpaccio,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: il piatto di carne cruda con grana. La risposta ha 9 lettere, inizia con 'c', carpaccio",concatenation_prompt,lw_surprisal,18.33872365951538
+gpt2_small_ita,43,quello rosso costa l'espulsione,act:pron,verb_pred,4,10,cartellino,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quello rosso costa l'espulsione. La risposta ha 10 lettere, inizia con 'c', cartellino",concatenation_prompt,lw_surprisal,14.47821593284607
+gpt2_small_ita,7,"possono essere di uva, di riso e di caffè",cop:missSubj,copular,9,7,chicchi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: possono essere di uva, di riso e di caffè. La risposta ha 7 lettere, inizia con 'c', chicchi",concatenation_prompt,lw_surprisal,15.3546724319458
+gpt2_small_ita,31,ha preceduto bush,act:missSubj,verb_pred,3,7,clinton,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: ha preceduto bush. La risposta ha 7 lettere, inizia con 'c', clinton",concatenation_prompt,lw_surprisal,19.37765312194824
+gpt2_small_ita,156,centimetro... corto,metalinguistic,metalinguistic,2,2,cm,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: centimetro... corto. La risposta ha 2 lettere, inizia con 'c', cm",concatenation_prompt,lw_surprisal,10.221826553344728
+gpt2_small_ita,107,il doyle che creò sherlock holmes,def_DP:rel,nominal,6,5,conan,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: il doyle che creò sherlock holmes. La risposta ha 5 lettere, inizia con 'c', conan",concatenation_prompt,lw_surprisal,16.192768096923828
+gpt2_small_ita,42,quella d'oro circonda palermo,act:pron,verb_pred,4,5,conca,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quella d'oro circonda palermo. La risposta ha 5 lettere, inizia con 'c', conca",concatenation_prompt,lw_surprisal,9.628718376159668
+gpt2_small_ita,83,organismo sportivo,bare_NP,nominal,2,4,coni,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: organismo sportivo. La risposta ha 4 lettere, inizia con 'c', coni",concatenation_prompt,lw_surprisal,12.53361988067627
+gpt2_small_ita,134,uniti in un gruppo commerciale,adjP,adjectival,5,10,consociati,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: uniti in un gruppo commerciale. La risposta ha 10 lettere, inizia con 'c', consociati",concatenation_prompt,lw_surprisal,17.413537979125977
+gpt2_small_ita,29,segnano il consumo di acqua e luce,act:missSubj,verb_pred,7,9,contatori,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: segnano il consumo di acqua e luce. La risposta ha 9 lettere, inizia con 'c', contatori",concatenation_prompt,lw_surprisal,18.08261775970459
+gpt2_small_ita,75,quelle ippiche si fanno all'ippodromo,imp_refl:other,verb_pred,5,5,corse,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quelle ippiche si fanno all'ippodromo. La risposta ha 5 lettere, inizia con 'c', corse",concatenation_prompt,lw_surprisal,14.203546524047852
+gpt2_small_ita,123,con la farina nel pane integrale,PP,prepositional,6,6,crusca,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: con la farina nel pane integrale. La risposta ha 6 lettere, inizia con 'c', crusca",concatenation_prompt,lw_surprisal,19.07555055618286
+gpt2_small_ita,60,gli sono dedicati luoghi particolari,pass:other,verb_pred,5,5,culto,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: gli sono dedicati luoghi particolari. La risposta ha 5 lettere, inizia con 'c', culto",concatenation_prompt,lw_surprisal,17.308067321777344
+gpt2_small_ita,84,ex pedine,bare_NP,nominal,2,4,dame,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: ex pedine. La risposta ha 4 lettere, inizia con 'd', dame",concatenation_prompt,lw_surprisal,16.933159828186035
+gpt2_small_ita,59,le sono affidati poteri o incarichi,pass:other,verb_pred,6,8,delegata,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: le sono affidati poteri o incarichi. La risposta ha 8 lettere, inizia con 'd', delegata",concatenation_prompt,lw_surprisal,15.79769229888916
+gpt2_small_ita,70,si effettuano fuorviando,imp_refl:missSubj,verb_pred,3,10,depistaggi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: si effettuano fuorviando. La risposta ha 10 lettere, inizia con 'd', depistaggi",concatenation_prompt,lw_surprisal,22.14988899230957
+gpt2_small_ita,105,il fisico che ottenne il nobel nel 1933,def_DP:rel,nominal,8,5,dirac,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: il fisico che ottenne il nobel nel 1933. La risposta ha 5 lettere, inizia con 'd', dirac",concatenation_prompt,lw_surprisal,19.8293399810791
+gpt2_small_ita,145,dare il tempo all'orchestra,inf_VP,infinitive,4,8,dirigere,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: dare il tempo all'orchestra. La risposta ha 8 lettere, inizia con 'd', dirigere",concatenation_prompt,lw_surprisal,13.258442878723145
+gpt2_small_ita,35,"le chiudono i giovani, e non i giovanardi",act:clitic,verb_pred,8,10,discoteche,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: le chiudono i giovani, e non i giovanardi. La risposta ha 10 lettere, inizia con 'd', discoteche",concatenation_prompt,lw_surprisal,15.828152656555176
+gpt2_small_ita,1,è dolce in aprile,cop:missSubj,copular,4,7,dormire,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è dolce in aprile. La risposta ha 7 lettere, inizia con 'd', dormire",concatenation_prompt,lw_surprisal,14.347779273986816
+gpt2_small_ita,63,vi fu commesso il peccato originale,pass:other,verb_pred,6,4,eden,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: vi fu commesso il peccato originale. La risposta ha 4 lettere, inizia con 'e', eden",concatenation_prompt,lw_surprisal,19.4506630897522
+gpt2_small_ita,93,casa che pubblica opere a stampa,bare_NP:rel,nominal,6,8,editrice,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: casa che pubblica opere a stampa. La risposta ha 8 lettere, inizia con 'e', editrice",concatenation_prompt,lw_surprisal,15.24635124206543
+gpt2_small_ita,136,relativi al vento,adjP,adjectival,3,6,eolici,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: relativi al vento. La risposta ha 6 lettere, inizia con 'e', eolici",concatenation_prompt,lw_surprisal,24.64338707923889
+gpt2_small_ita,49,fu seppellita dal vesuvio,pass:missSubj,verb_pred,4,8,ercolano,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: fu seppellita dal vesuvio. La risposta ha 8 lettere, inizia con 'e', ercolano",concatenation_prompt,lw_surprisal,21.68989944458008
+gpt2_small_ita,65,si dividono i beni,imp_refl:missSubj,verb_pred,4,5,eredi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: si dividono i beni. La risposta ha 5 lettere, inizia con 'e', eredi",concatenation_prompt,lw_surprisal,13.497553825378418
+gpt2_small_ita,147,avere un lascito,inf_VP,infinitive,3,9,ereditare,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: avere un lascito. La risposta ha 9 lettere, inizia con 'e', ereditare",concatenation_prompt,lw_surprisal,16.61522078514099
+gpt2_small_ita,71,può strozzarsi da sola,imp_refl:missSubj,verb_pred,4,5,ernia,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: può strozzarsi da sola. La risposta ha 5 lettere, inizia con 'e', ernia",concatenation_prompt,lw_surprisal,18.2962908744812
+gpt2_small_ita,130,proprio di un popolo,adjP,adjectival,4,6,etnico,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: proprio di un popolo. La risposta ha 6 lettere, inizia con 'e', etnico",concatenation_prompt,lw_surprisal,16.691299438476562
+gpt2_small_ita,38,li teme il gallerista,act:clitic,verb_pred,4,5,falsi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: li teme il gallerista. La risposta ha 5 lettere, inizia con 'f', falsi",concatenation_prompt,lw_surprisal,12.194844245910645
+gpt2_small_ita,4,è tifoso per una diva,cop:missSubj,copular,5,3,fan,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è tifoso per una diva. La risposta ha 3 lettere, inizia con 'f', fan",concatenation_prompt,lw_surprisal,11.56611156463623
+gpt2_small_ita,30,tiene il termometro sul comodino,act:missSubj,verb_pred,5,13,febbricitante,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: tiene il termometro sul comodino. La risposta ha 13 lettere, inizia con 'f', febbricitante",concatenation_prompt,lw_surprisal,25.845741510391235
+gpt2_small_ita,115,un'insulsa poesiola,ind_DP,nominal,2,11,filastrocca,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: un'insulsa poesiola. La risposta ha 11 lettere, inizia con 'f', filastrocca",concatenation_prompt,lw_surprisal,13.553828179836271
+gpt2_small_ita,137,famosi quelli di san francesco,adjP:pron,adjectival,5,8,fioretti,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: famosi quelli di san francesco. La risposta ha 8 lettere, inizia con 'f', fioretti",concatenation_prompt,lw_surprisal,17.373493671417236
+gpt2_small_ita,111,la pietra che produce scintille,def_DP:rel,nominal,5,6,focaia,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: la pietra che produce scintille. La risposta ha 6 lettere, inizia con 'f', focaia",concatenation_prompt,lw_surprisal,22.66515064239502
+gpt2_small_ita,144,profonda quella delle marianne,adjP:pron,adjectival,4,5,fossa,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: profonda quella delle marianne. La risposta ha 5 lettere, inizia con 'f', fossa",concatenation_prompt,lw_surprisal,17.194732666015625
+gpt2_small_ita,54,fu amata da polifemo,pass:missSubj,verb_pred,4,7,galatea,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: fu amata da polifemo. La risposta ha 7 lettere, inizia con 'g', galatea",concatenation_prompt,lw_surprisal,21.650484085083008
+gpt2_small_ita,69,quello liquido si conserva in bombole,imp_refl:missSubj,verb_pred,6,3,gas,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quello liquido si conserva in bombole. La risposta ha 3 lettere, inizia con 'g', gas",concatenation_prompt,lw_surprisal,11.436504364013672
+gpt2_small_ita,45,quelli d'azzardo affollano il casinò,act:pron,verb_pred,5,9,giocatori,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quelli d'azzardo affollano il casinò. La risposta ha 9 lettere, inizia con 'g', giocatori",concatenation_prompt,lw_surprisal,12.533163070678713
+gpt2_small_ita,91,giudice che indaga,bare_NP:rel,nominal,3,3,gip,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: giudice che indaga. La risposta ha 3 lettere, inizia con 'g', gip",concatenation_prompt,lw_surprisal,13.313273906707764
+gpt2_small_ita,16,lo è il sasso d'abruzzo,cop:clitic,copular,5,4,gran,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo è il sasso d'abruzzo. La risposta ha 4 lettere, inizia con 'g', gran",concatenation_prompt,lw_surprisal,12.331216812133787
+gpt2_small_ita,152,alzare il volume della voce,inf_VP,infinitive,5,7,gridare,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: alzare il volume della voce. La risposta ha 7 lettere, inizia con 'g', gridare",concatenation_prompt,lw_surprisal,12.054121017456056
+gpt2_small_ita,67,si applicano per abbellire,imp_refl:missSubj,verb_pred,4,11,guarnizioni,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: si applicano per abbellire. La risposta ha 11 lettere, inizia con 'g', guarnizioni",concatenation_prompt,lw_surprisal,16.42310094833374
+gpt2_small_ita,119,una sigla informatica,ind_DP,nominal,3,3,ibm,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: una sigla informatica. La risposta ha 3 lettere, inizia con 'i', ibm",concatenation_prompt,lw_surprisal,18.440910816192627
+gpt2_small_ita,36,lo adorano i pagani,act:clitic,verb_pred,4,5,idolo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo adorano i pagani. La risposta ha 5 lettere, inizia con 'i', idolo",concatenation_prompt,lw_surprisal,15.186488628387451
+gpt2_small_ita,12,lo è l'opera di un genio,cop:clitic,copular,6,9,immortale,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo è l'opera di un genio. La risposta ha 9 lettere, inizia con 'i', immortale",concatenation_prompt,lw_surprisal,14.886314392089844
+gpt2_small_ita,15,lo è il vulcano spento,cop:clitic,copular,5,8,inattivo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo è il vulcano spento. La risposta ha 8 lettere, inizia con 'i', inattivo",concatenation_prompt,lw_surprisal,16.935208320617676
+gpt2_small_ita,13,lo è il carburatore troppo pieno di benzina,cop:clitic,copular,8,9,ingolfato,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo è il carburatore troppo pieno di benzina. La risposta ha 9 lettere, inizia con 'i', ingolfato",concatenation_prompt,lw_surprisal,22.433675050735477
+gpt2_small_ita,19,non è promettente quello della fine,cop:pron,copular,6,6,inizio,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: non è promettente quello della fine. La risposta ha 6 lettere, inizia con 'i', inizio",concatenation_prompt,lw_surprisal,6.95349645614624
+gpt2_small_ita,139,grandi quelli di einstein e dante,adjP:pron,adjectival,6,10,intelletti,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: grandi quelli di einstein e dante. La risposta ha 10 lettere, inizia con 'i', intelletti",concatenation_prompt,lw_surprisal,16.53632164001465
+gpt2_small_ita,133,passivo e attivo in banca,adjP,adjectival,5,9,interesse,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: passivo e attivo in banca. La risposta ha 9 lettere, inizia con 'i', interesse",concatenation_prompt,lw_surprisal,13.926578521728516
+gpt2_small_ita,118,una forma di elettroterapia,ind_DP,nominal,4,10,ionoforesi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: una forma di elettroterapia. La risposta ha 10 lettere, inizia con 'i', ionoforesi",concatenation_prompt,lw_surprisal,27.305918127298355
+gpt2_small_ita,100,la pista dei purosangue,def_DP,nominal,4,9,ippodromo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: la pista dei purosangue. La risposta ha 9 lettere, inizia con 'i', ippodromo",concatenation_prompt,lw_surprisal,20.469786643981934
+gpt2_small_ita,124,come il poeta sotto l'influsso della musa,PP,prepositional,7,8,ispirato,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: come il poeta sotto l'influsso della musa. La risposta ha 8 lettere, inizia con 'i', ispirato",concatenation_prompt,lw_surprisal,13.584911346435549
+gpt2_small_ita,56,viene cardata,pass:missSubj,verb_pred,2,4,lana,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: viene cardata. La risposta ha 4 lettere, inizia con 'l', lana",concatenation_prompt,lw_surprisal,16.430877685546875
+gpt2_small_ita,103,il coniglio come pelliccia,def_DP,nominal,4,5,lapin,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: il coniglio come pelliccia. La risposta ha 5 lettere, inizia con 'l', lapin",concatenation_prompt,lw_surprisal,18.71293950080872
+gpt2_small_ita,96,quotidiano che si legge a verona,bare_NP:rel,nominal,6,6,larena,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quotidiano che si legge a verona. La risposta ha 6 lettere, inizia con 'l', larena",concatenation_prompt,lw_surprisal,22.497666835784912
+gpt2_small_ita,79,quella di soia si prende per il colesterolo,imp_refl:other,verb_pred,8,8,lecitina,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quella di soia si prende per il colesterolo. La risposta ha 8 lettere, inizia con 'l', lecitina",concatenation_prompt,lw_surprisal,20.842116832733154
+gpt2_small_ita,24,quelli marini sono le otarie,cop:pron,copular,5,5,leoni,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quelli marini sono le otarie. La risposta ha 5 lettere, inizia con 'l', leoni",concatenation_prompt,lw_surprisal,14.04338550567627
+gpt2_small_ita,160,cambiano la sagra in lagna,metalinguistic,metalinguistic,5,2,ln,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: cambiano la sagra in lagna. La risposta ha 2 lettere, inizia con 'l', ln",concatenation_prompt,lw_surprisal,16.056396484375
+gpt2_small_ita,157,i confini del labrador,metalinguistic,metalinguistic,4,2,lr,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: i confini del labrador. La risposta ha 2 lettere, inizia con 'l', lr",concatenation_prompt,lw_surprisal,16.97979497909546
+gpt2_small_ita,82,cattiveria raffinata,bare_NP,nominal,2,9,malvagita,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: cattiveria raffinata. La risposta ha 9 lettere, inizia con 'm', malvagita",concatenation_prompt,lw_surprisal,22.1724705696106
+gpt2_small_ita,113,una riproduzione modellistica,ind_DP,nominal,3,8,maquette,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: una riproduzione modellistica. La risposta ha 8 lettere, inizia con 'm', maquette",concatenation_prompt,lw_surprisal,19.297590732574463
+gpt2_small_ita,116,un rimedio contro i crampi,ind_DP,nominal,5,9,massaggio,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: un rimedio contro i crampi. La risposta ha 9 lettere, inizia con 'm', massaggio",concatenation_prompt,lw_surprisal,13.24637532234192
+gpt2_small_ita,3,è sana in corpore sano,cop:missSubj,copular,5,4,mens,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è sana in corpore sano. La risposta ha 4 lettere, inizia con 'm', mens",concatenation_prompt,lw_surprisal,17.72038745880127
+gpt2_small_ita,153,in mezzo al tamigi,metalinguistic,metalinguistic,4,2,mi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: in mezzo al tamigi. La risposta ha 2 lettere, inizia con 'm', mi",concatenation_prompt,lw_surprisal,7.647801399230957
+gpt2_small_ita,148,preparare il salto in aria!,inf_VP,infinitive,5,6,minare,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: preparare il salto in aria!. La risposta ha 6 lettere, inizia con 'm', minare",concatenation_prompt,lw_surprisal,15.568732023239136
+gpt2_small_ita,132,"docile, mansueto",adjP,adjectival,2,4,mite,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: docile, mansueto. La risposta ha 4 lettere, inizia con 'm', mite",concatenation_prompt,lw_surprisal,13.189533710479736
+gpt2_small_ita,37,lo può diventare un attore o un cantante,act:clitic,verb_pred,8,4,mito,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo può diventare un attore o un cantante. La risposta ha 4 lettere, inizia con 'm', mito",concatenation_prompt,lw_surprisal,15.344277381896973
+gpt2_small_ita,89,donna che ha preso il velo,bare_NP:rel,nominal,6,6,monaca,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: donna che ha preso il velo. La risposta ha 6 lettere, inizia con 'm', monaca",concatenation_prompt,lw_surprisal,16.72446918487549
+gpt2_small_ita,27,vestono il saio,act:missSubj,verb_pred,3,6,monaci,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: vestono il saio. La risposta ha 6 lettere, inizia con 'm', monaci",concatenation_prompt,lw_surprisal,14.09526252746582
+gpt2_small_ita,34,lo fugge l'eremita,act:clitic,verb_pred,3,5,mondo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo fugge l'eremita. La risposta ha 5 lettere, inizia con 'm', mondo",concatenation_prompt,lw_surprisal,12.119887351989746
+gpt2_small_ita,86,"demi, nota attrice",bare_NP,nominal,3,5,moore,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: demi, nota attrice. La risposta ha 5 lettere, inizia con 'm', moore",concatenation_prompt,lw_surprisal,20.0695276260376
+gpt2_small_ita,108,l'elsa che fu celebre scrittrice,def_DP:rel,nominal,5,7,morante,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: l'elsa che fu celebre scrittrice. La risposta ha 7 lettere, inizia con 'm', morante",concatenation_prompt,lw_surprisal,17.788785934448242
+gpt2_small_ita,44,quelle eterne non si sciolgono,act:pron,verb_pred,5,4,nevi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quelle eterne non si sciolgono. La risposta ha 4 lettere, inizia con 'n', nevi",concatenation_prompt,lw_surprisal,16.135026931762695
+gpt2_small_ita,110,il fiume che straripando fertilizzava,def_DP:rel,nominal,5,4,nilo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: il fiume che straripando fertilizzava. La risposta ha 4 lettere, inizia con 'n', nilo",concatenation_prompt,lw_surprisal,18.910470008850098
+gpt2_small_ita,87,palmizi nel deserto,bare_NP,nominal,3,4,oasi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: palmizi nel deserto. La risposta ha 4 lettere, inizia con 'o', oasi",concatenation_prompt,lw_surprisal,13.673048496246338
+gpt2_small_ita,5,è più o meno denso,cop:missSubj,copular,5,4,olio,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è più o meno denso. La risposta ha 4 lettere, inizia con 'o', olio",concatenation_prompt,lw_surprisal,14.45185375213623
+gpt2_small_ita,53,sono esposti in stazione,pass:missSubj,verb_pred,4,5,orari,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: sono esposti in stazione. La risposta ha 5 lettere, inizia con 'o', orari",concatenation_prompt,lw_surprisal,13.711325645446776
+gpt2_small_ita,46,quello del corpo non ha le canne,act:pron,verb_pred,7,6,organo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quello del corpo non ha le canne. La risposta ha 6 lettere, inizia con 'o', organo",concatenation_prompt,lw_surprisal,14.76884937286377
+gpt2_small_ita,22,quello lavatore è il procione,cop:pron,copular,5,7,orsetto,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quello lavatore è il procione. La risposta ha 7 lettere, inizia con 'o', orsetto",concatenation_prompt,lw_surprisal,20.807632446289062
+gpt2_small_ita,95,luogo recintato in cui si custodiscono le pecore,bare_NP:rel,nominal,8,5,ovile,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: luogo recintato in cui si custodiscono le pecore. La risposta ha 5 lettere, inizia con 'o', ovile",concatenation_prompt,lw_surprisal,18.532365798950195
+gpt2_small_ita,143,celebri quelli di annibale a capua,adjP:pron,adjectival,6,3,ozi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: celebri quelli di annibale a capua. La risposta ha 3 lettere, inizia con 'o', ozi",concatenation_prompt,lw_surprisal,16.870800018310547
+gpt2_small_ita,106,la condicio che uguaglia,def_DP:rel,nominal,4,3,par,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: la condicio che uguaglia. La risposta ha 3 lettere, inizia con 'p', par",concatenation_prompt,lw_surprisal,9.495716094970703
+gpt2_small_ita,117,un assieme di rattoppi,ind_DP,nominal,4,9,patchwork,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: un assieme di rattoppi. La risposta ha 9 lettere, inizia con 'p', patchwork",concatenation_prompt,lw_surprisal,17.33552312850952
+gpt2_small_ita,32,piace ai lupi,act:missSubj,verb_pred,3,6,pecora,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: piace ai lupi. La risposta ha 6 lettere, inizia con 'p', pecora",concatenation_prompt,lw_surprisal,14.403029441833496
+gpt2_small_ita,97,l'occhio vigile del sommergibile,def_DP,nominal,4,10,periscopio,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: l'occhio vigile del sommergibile. La risposta ha 10 lettere, inizia con 'p', periscopio",concatenation_prompt,lw_surprisal,20.96047592163086
+gpt2_small_ita,127,su un piatto della bilancia,PP,prepositional,5,4,pesi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: su un piatto della bilancia. La risposta ha 4 lettere, inizia con 'p', pesi",concatenation_prompt,lw_surprisal,14.430548667907717
+gpt2_small_ita,150,"foggiare, modellare",inf_VP,infinitive,2,8,plasmare,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: foggiare, modellare. La risposta ha 8 lettere, inizia con 'p', plasmare",concatenation_prompt,lw_surprisal,15.564781188964844
+gpt2_small_ita,25,non preoccupa l'incosciente,act:missSubj,verb_pred,3,3,poi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: non preoccupa l'incosciente. La risposta ha 3 lettere, inizia con 'p', poi",concatenation_prompt,lw_surprisal,2.908836603164673
+gpt2_small_ita,138,pregiate quelle di limoges,adjP:pron,adjectival,4,10,porcellane,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: pregiate quelle di limoges. La risposta ha 10 lettere, inizia con 'p', porcellane",concatenation_prompt,lw_surprisal,17.30891489982605
+gpt2_small_ita,142,forti quelle dei lottatori,adjP:pron,adjectival,4,5,prese,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: forti quelle dei lottatori. La risposta ha 5 lettere, inizia con 'p', prese",concatenation_prompt,lw_surprisal,10.673486709594728
+gpt2_small_ita,122,di specchiata rettitudine,PP,prepositional,3,5,probo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: di specchiata rettitudine. La risposta ha 5 lettere, inizia con 'p', probo",concatenation_prompt,lw_surprisal,16.346802711486816
+gpt2_small_ita,125,ai lati del palcoscenico,PP,prepositional,4,6,quinte,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: ai lati del palcoscenico. La risposta ha 6 lettere, inizia con 'q', quinte",concatenation_prompt,lw_surprisal,14.262651443481444
+gpt2_small_ita,39,lo taglia il potatore,act:clitic,verb_pred,4,4,ramo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo taglia il potatore. La risposta ha 4 lettere, inizia con 'r', ramo",concatenation_prompt,lw_surprisal,13.042593002319336
+gpt2_small_ita,104,la musica di jovanotti,def_DP,nominal,4,3,rap,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: la musica di jovanotti. La risposta ha 3 lettere, inizia con 'r', rap",concatenation_prompt,lw_surprisal,13.32317352294922
+gpt2_small_ita,10,lo sono le aquile,cop:clitic,copular,4,6,rapaci,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo sono le aquile. La risposta ha 6 lettere, inizia con 'r', rapaci",concatenation_prompt,lw_surprisal,19.33012866973877
+gpt2_small_ita,50,è stato incoronato,pass:missSubj,verb_pred,3,2,re,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è stato incoronato. La risposta ha 2 lettere, inizia con 'r', re",concatenation_prompt,lw_surprisal,8.032164573669434
+gpt2_small_ita,61,vi furono ritrovati noti bronzi,pass:other,verb_pred,5,5,riace,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: vi furono ritrovati noti bronzi. La risposta ha 5 lettere, inizia con 'r', riace",concatenation_prompt,lw_surprisal,20.888731479644772
+gpt2_small_ita,140,gustosi quelli di mare,adjP:pron,adjectival,4,5,ricci,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: gustosi quelli di mare. La risposta ha 5 lettere, inizia con 'r', ricci",concatenation_prompt,lw_surprisal,12.898362159729004
+gpt2_small_ita,6,può essere gastronomica,cop:missSubj,copular,3,7,ricetta,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: può essere gastronomica. La risposta ha 7 lettere, inizia con 'r', ricetta",concatenation_prompt,lw_surprisal,17.038267135620117
+gpt2_small_ita,52,è baciata in certe poesie,pass:missSubj,verb_pred,5,4,rima,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è baciata in certe poesie. La risposta ha 4 lettere, inizia con 'r', rima",concatenation_prompt,lw_surprisal,9.618839263916016
+gpt2_small_ita,76,vi si smorza l'onda,imp_refl:other,verb_pred,4,4,riva,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: vi si smorza l'onda. La risposta ha 4 lettere, inizia con 'r', riva",concatenation_prompt,lw_surprisal,12.848772048950195
+gpt2_small_ita,154,concludono il giro,metalinguistic,metalinguistic,3,2,ro,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: concludono il giro. La risposta ha 2 lettere, inizia con 'r', ro",concatenation_prompt,lw_surprisal,8.449440002441406
+gpt2_small_ita,58,vi sono registrati numeri telefonici,pass:other,verb_pred,5,7,rubrica,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: vi sono registrati numeri telefonici. La risposta ha 7 lettere, inizia con 'r', rubrica",concatenation_prompt,lw_surprisal,11.90975284576416
+gpt2_small_ita,14,lo sono le cause che determinano un fenomeno,cop:clitic,copular,8,10,scatenanti,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo sono le cause che determinano un fenomeno. La risposta ha 10 lettere, inizia con 's', scatenanti",concatenation_prompt,lw_surprisal,17.684404373168945
+gpt2_small_ita,33,ce la ricorda cariddi,act:clitic,verb_pred,4,6,scilla,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: ce la ricorda cariddi. La risposta ha 6 lettere, inizia con 's', scilla",concatenation_prompt,lw_surprisal,16.48254680633545
+gpt2_small_ita,73,a lui si paragona un agile scalatore,imp_refl:other,verb_pred,7,10,scoiattolo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: a lui si paragona un agile scalatore. La risposta ha 10 lettere, inizia con 's', scoiattolo",concatenation_prompt,lw_surprisal,19.675398349761963
+gpt2_small_ita,18,quella pontificia è santa,cop:pron,copular,4,4,sede,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quella pontificia è santa. La risposta ha 4 lettere, inizia con 's', sede",concatenation_prompt,lw_surprisal,11.294599533081056
+gpt2_small_ita,51,è soddisfatta con un bicchiere d'acqua,pass:missSubj,verb_pred,6,4,sete,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: è soddisfatta con un bicchiere d'acqua. La risposta ha 4 lettere, inizia con 's', sete",concatenation_prompt,lw_surprisal,16.356264114379883
+gpt2_small_ita,88,verso con l'accento sulla sesta sillaba,bare_NP,nominal,6,10,settenario,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: verso con l'accento sulla sesta sillaba. La risposta ha 10 lettere, inizia con 's', settenario",concatenation_prompt,lw_surprisal,19.490131378173828
+gpt2_small_ita,109,la stone che non fa muri,def_DP:rel,nominal,6,6,sharon,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: la stone che non fa muri. La risposta ha 6 lettere, inizia con 's', sharon",concatenation_prompt,lw_surprisal,21.252529859542847
+gpt2_small_ita,55,sono formate da varie iniziali,pass:missSubj,verb_pred,5,5,sigle,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: sono formate da varie iniziali. La risposta ha 5 lettere, inizia con 's', sigle",concatenation_prompt,lw_surprisal,15.43306827545166
+gpt2_small_ita,94,dolcezza che delizia,bare_NP:rel,nominal,3,7,soavita,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: dolcezza che delizia. La risposta ha 7 lettere, inizia con 's', soavita",concatenation_prompt,lw_surprisal,24.956077575683597
+gpt2_small_ita,26,sembra un gemello,act:missSubj,verb_pred,3,5,sosia,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: sembra un gemello. La risposta ha 5 lettere, inizia con 's', sosia",concatenation_prompt,lw_surprisal,15.391530990600586
+gpt2_small_ita,78,si cita quella di damocle,imp_refl:other,verb_pred,5,5,spada,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: si cita quella di damocle. La risposta ha 5 lettere, inizia con 's', spada",concatenation_prompt,lw_surprisal,14.920767784118652
+gpt2_small_ita,131,innamorato cotto!,adjP,adjectival,2,10,spasimante,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: innamorato cotto!. La risposta ha 10 lettere, inizia con 's', spasimante",concatenation_prompt,lw_surprisal,16.689655542373657
+gpt2_small_ita,126,in un secondo tempo,PP,prepositional,4,15,successivamente,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: in un secondo tempo. La risposta ha 15 lettere, inizia con 's', successivamente",concatenation_prompt,lw_surprisal,7.274232864379883
+gpt2_small_ita,159,fine della partita,metalinguistic,metalinguistic,3,2,ta,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: fine della partita. La risposta ha 2 lettere, inizia con 't', ta",concatenation_prompt,lw_surprisal,8.847538948059082
+gpt2_small_ita,74,ci si passano le ore studiando,imp_refl:other,verb_pred,6,8,tavolino,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: ci si passano le ore studiando. La risposta ha 8 lettere, inizia con 't', tavolino",concatenation_prompt,lw_surprisal,18.6839542388916
+gpt2_small_ita,101,l'auto col tassametro,def_DP,nominal,3,4,taxi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: l'auto col tassametro. La risposta ha 4 lettere, inizia con 't', taxi",concatenation_prompt,lw_surprisal,13.847966194152832
+gpt2_small_ita,68,quello di salvataggio si usa negl'incendi,imp_refl:missSubj,verb_pred,6,4,telo,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quello di salvataggio si usa negl'incendi. La risposta ha 4 lettere, inizia con 't', telo",concatenation_prompt,lw_surprisal,17.538352966308594
+gpt2_small_ita,120,un attrezzo del terrorista,ind_DP,nominal,4,5,timer,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: un attrezzo del terrorista. La risposta ha 5 lettere, inizia con 't', timer",concatenation_prompt,lw_surprisal,18.12389850616455
+gpt2_small_ita,80,vi si pigia l'uva,imp_refl:other,verb_pred,4,4,tino,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: vi si pigia l'uva. La risposta ha 4 lettere, inizia con 't', tino",concatenation_prompt,lw_surprisal,17.22089910507202
+gpt2_small_ita,155,a fine agosto,metalinguistic,metalinguistic,3,2,to,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: a fine agosto. La risposta ha 2 lettere, inizia con 't', to",concatenation_prompt,lw_surprisal,8.973648071289062
+gpt2_small_ita,40,lo consumano le fotocopiatrici,act:clitic,verb_pred,4,5,toner,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: lo consumano le fotocopiatrici. La risposta ha 5 lettere, inizia con 't', toner",concatenation_prompt,lw_surprisal,17.45563268661499
+gpt2_small_ita,66,si conserva sott'olio,imp_refl:missSubj,verb_pred,3,5,tonno,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: si conserva sott'olio. La risposta ha 5 lettere, inizia con 't', tonno",concatenation_prompt,lw_surprisal,16.804859161376953
+gpt2_small_ita,149,confessare senza volere,inf_VP,infinitive,3,8,tradirsi,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: confessare senza volere. La risposta ha 8 lettere, inizia con 't', tradirsi",concatenation_prompt,lw_surprisal,21.270631790161133
+gpt2_small_ita,41,a roma molti turisti visitano quella dei monti,act:pron,verb_pred,8,7,trinita,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: a roma molti turisti visitano quella dei monti. La risposta ha 7 lettere, inizia con 't', trinita",concatenation_prompt,lw_surprisal,19.105132579803467
+gpt2_small_ita,57,ecuba ne fu regina,pass:other,verb_pred,4,5,troia,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: ecuba ne fu regina. La risposta ha 5 lettere, inizia con 't', troia",concatenation_prompt,lw_surprisal,17.164416313171387
+gpt2_small_ita,129,per niente superbo,adjP,adjectival,3,5,umile,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: per niente superbo. La risposta ha 5 lettere, inizia con 'u', umile",concatenation_prompt,lw_surprisal,15.01137638092041
+gpt2_small_ita,9,può esserlo una mina,cop:clitic,copular,4,7,vagante,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: può esserlo una mina. La risposta ha 7 lettere, inizia con 'v', vagante",concatenation_prompt,lw_surprisal,15.214225769042969
+gpt2_small_ita,47,quella di allegria non spettina,act:pron,verb_pred,5,7,ventata,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: quella di allegria non spettina. La risposta ha 7 lettere, inizia con 'v', ventata",concatenation_prompt,lw_surprisal,17.00494384765625
+gpt2_small_ita,48,in cielo appare quella lattea,act:pron,verb_pred,5,3,via,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: in cielo appare quella lattea. La risposta ha 3 lettere, inizia con 'v', via",concatenation_prompt,lw_surprisal,9.29901885986328
+gpt2_small_ita,28,può far coppia con l'alloggio,act:missSubj,verb_pred,5,5,vitto,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: può far coppia con l'alloggio. La risposta ha 5 lettere, inizia con 'v', vitto",concatenation_prompt,lw_surprisal,12.463608264923096
+gpt2_small_ita,112,le uscite di chi è sboccato,def_DP:rel,nominal,6,9,volgarita,"Sei un cruciverbista esperto. Ti verrà fornita una definizione a cui dovrai rispondere correttamente. La definizione è: le uscite di chi è sboccato. La risposta ha 9 lettere, inizia con 'v', volgarita",concatenation_prompt,lw_surprisal,17.82103419303894
+gpt2_small_ita,146,"calare, chinare",inf_VP,infinitive,2,9,abbassare,abbassare,solution,abs_surprisal_solution,36.16404488684528
+gpt2_small_ita,62,ne è rivestito il riccio,pass:other,verb_pred,5,6,aculei,aculei,solution,abs_surprisal_solution,23.230857307618948
+gpt2_small_ita,158,le hanno cani e gatti,metalinguistic,metalinguistic,5,2,ai,ai,solution,abs_surprisal_solution,6.165377066487365
+gpt2_small_ita,72,con le sue foglie si intessevano le corone dei vincitori,imp_refl:missSubj,verb_pred,10,6,alloro,alloro,solution,abs_surprisal_solution,20.47188788193127
+gpt2_small_ita,102,le montagne etiopiche,def_DP,nominal,3,4,ambe,ambe,solution,abs_surprisal_solution,20.32230952216917
+gpt2_small_ita,2,è insidioso sott'acqua,cop:missSubj,copular,3,3,amo,amo,solution,abs_surprisal_solution,10.318254249559594
+gpt2_small_ita,128,tra la coscia e il bacino,PP,prepositional,6,4,anca,anca,solution,abs_surprisal_solution,12.806539764630202
+gpt2_small_ita,21,quello nuziale è la fede,cop:pron,copular,5,6,anello,anello,solution,abs_surprisal_solution,10.995463707970805
+gpt2_small_ita,114,una malattia mediterranea,ind_DP,nominal,3,6,anemia,anemia,solution,abs_surprisal_solution,23.956991766118
+gpt2_small_ita,11,lo è una donna di medina,cop:clitic,copular,6,5,araba,araba,solution,abs_surprisal_solution,25.038364783962887
+gpt2_small_ita,92,piante che forniscono frutti per spremute,bare_NP:rel,nominal,6,6,aranci,aranci,solution,abs_surprisal_solution,18.47842530517536
+gpt2_small_ita,151,mettere sottosopra i campi,inf_VP,infinitive,4,5,arare,arare,solution,abs_surprisal_solution,15.825998026816634
+gpt2_small_ita,141,famosa quella di verona,adjP:pron,adjectival,4,5,arena,arena,solution,abs_surprisal_solution,11.375758723257908
+gpt2_small_ita,99,i mobili con le grucce,def_DP,nominal,5,6,armadi,armadi,solution,abs_surprisal_solution,13.30566194939507
+gpt2_small_ita,17,quella amatoria è di ovidio,cop:pron,copular,5,3,ars,ars,solution,abs_surprisal_solution,13.012168936705296
+gpt2_small_ita,20,è poetica quella di orazio,cop:pron,copular,5,3,ars,ars,solution,abs_surprisal_solution,13.012168936705296
+gpt2_small_ita,85,antico sacerdote indovino,bare_NP,nominal,3,8,aruspice,aruspice,solution,abs_surprisal_solution,43.71092531070987
+gpt2_small_ita,64,garibaldi vi fu ferito e fatto prigioniero,pass:other,verb_pred,7,10,aspromonte,aspromonte,solution,abs_surprisal_solution,34.439578250417384
+gpt2_small_ita,135,non distratta,adjP,adjectival,2,7,attenta,attenta,solution,abs_surprisal_solution,28.350339831149626
+gpt2_small_ita,90,complice che organizza il colpo,bare_NP:rel,nominal,5,7,basista,basista,solution,abs_surprisal_solution,25.003361424533264
+gpt2_small_ita,121,in modo buono e corretto,PP,prepositional,5,4,bene,bene,solution,abs_surprisal_solution,7.74097339216308
+gpt2_small_ita,81,formaggi,bare_NP,nominal,1,4,caci,caci,solution,abs_surprisal_solution,16.929159810053065
+gpt2_small_ita,8,è oscura per il fotografo,cop:missSubj,copular,5,6,camera,camera,solution,abs_surprisal_solution,8.693231291759648
+gpt2_small_ita,23,quello di lungo corso è un esperto navigante,cop:pron,copular,8,8,capitano,capitano,solution,abs_surprisal_solution,23.623852958041063
+gpt2_small_ita,98,il piatto di carne cruda con grana,def_DP,nominal,7,9,carpaccio,carpaccio,solution,abs_surprisal_solution,40.76118881450013
+gpt2_small_ita,43,quello rosso costa l'espulsione,act:pron,verb_pred,4,10,cartellino,cartellino,solution,abs_surprisal_solution,39.03124320948622
+gpt2_small_ita,7,"possono essere di uva, di riso e di caffè",cop:missSubj,copular,9,7,chicchi,chicchi,solution,abs_surprisal_solution,22.958329439519574
+gpt2_small_ita,31,ha preceduto bush,act:missSubj,verb_pred,3,7,clinton,clinton,solution,abs_surprisal_solution,34.65517411196425
+gpt2_small_ita,156,centimetro... corto,metalinguistic,metalinguistic,2,2,cm,cm,solution,abs_surprisal_solution,10.204258096736233
+gpt2_small_ita,107,il doyle che creò sherlock holmes,def_DP:rel,nominal,6,5,conan,conan,solution,abs_surprisal_solution,14.737777672664375
+gpt2_small_ita,42,quella d'oro circonda palermo,act:pron,verb_pred,4,5,conca,conca,solution,abs_surprisal_solution,15.358487297537012
+gpt2_small_ita,83,organismo sportivo,bare_NP,nominal,2,4,coni,coni,solution,abs_surprisal_solution,11.262871052291018
+gpt2_small_ita,134,uniti in un gruppo commerciale,adjP,adjectival,5,10,consociati,consociati,solution,abs_surprisal_solution,31.55234642986619
+gpt2_small_ita,29,segnano il consumo di acqua e luce,act:missSubj,verb_pred,7,9,contatori,contatori,solution,abs_surprisal_solution,23.36118869345388
+gpt2_small_ita,75,quelle ippiche si fanno all'ippodromo,imp_refl:other,verb_pred,5,5,corse,corse,solution,abs_surprisal_solution,17.883183046417628
+gpt2_small_ita,123,con la farina nel pane integrale,PP,prepositional,6,6,crusca,crusca,solution,abs_surprisal_solution,36.04544967502303
+gpt2_small_ita,60,gli sono dedicati luoghi particolari,pass:other,verb_pred,5,5,culto,culto,solution,abs_surprisal_solution,26.79641623615478
+gpt2_small_ita,84,ex pedine,bare_NP,nominal,2,4,dame,dame,solution,abs_surprisal_solution,12.752041020203226
+gpt2_small_ita,59,le sono affidati poteri o incarichi,pass:other,verb_pred,6,8,delegata,delegata,solution,abs_surprisal_solution,30.003502871566653
+gpt2_small_ita,70,si effettuano fuorviando,imp_refl:missSubj,verb_pred,3,10,depistaggi,depistaggi,solution,abs_surprisal_solution,33.544840542000586
+gpt2_small_ita,105,il fisico che ottenne il nobel nel 1933,def_DP:rel,nominal,8,5,dirac,dirac,solution,abs_surprisal_solution,18.349514968727405
+gpt2_small_ita,145,dare il tempo all'orchestra,inf_VP,infinitive,4,8,dirigere,dirigere,solution,abs_surprisal_solution,31.24624304126959
+gpt2_small_ita,35,"le chiudono i giovani, e non i giovanardi",act:clitic,verb_pred,8,10,discoteche,discoteche,solution,abs_surprisal_solution,23.778953686516147
+gpt2_small_ita,1,è dolce in aprile,cop:missSubj,copular,4,7,dormire,dormire,solution,abs_surprisal_solution,30.28962093061896
+gpt2_small_ita,63,vi fu commesso il peccato originale,pass:other,verb_pred,6,4,eden,eden,solution,abs_surprisal_solution,16.43298591077798
+gpt2_small_ita,93,casa che pubblica opere a stampa,bare_NP:rel,nominal,6,8,editrice,editrice,solution,abs_surprisal_solution,28.05803216103253
+gpt2_small_ita,136,relativi al vento,adjP,adjectival,3,6,eolici,eolici,solution,abs_surprisal_solution,30.20179810495615
+gpt2_small_ita,49,fu seppellita dal vesuvio,pass:missSubj,verb_pred,4,8,ercolano,ercolano,solution,abs_surprisal_solution,27.449617226474523
+gpt2_small_ita,65,si dividono i beni,imp_refl:missSubj,verb_pred,4,5,eredi,eredi,solution,abs_surprisal_solution,16.603846606699616
+gpt2_small_ita,147,avere un lascito,inf_VP,infinitive,3,9,ereditare,ereditare,solution,abs_surprisal_solution,30.19829317194445
+gpt2_small_ita,71,può strozzarsi da sola,imp_refl:missSubj,verb_pred,4,5,ernia,ernia,solution,abs_surprisal_solution,26.63433917732209
+gpt2_small_ita,130,proprio di un popolo,adjP,adjectival,4,6,etnico,etnico,solution,abs_surprisal_solution,22.253804515933982
+gpt2_small_ita,38,li teme il gallerista,act:clitic,verb_pred,4,5,falsi,falsi,solution,abs_surprisal_solution,20.16935070828054
+gpt2_small_ita,4,è tifoso per una diva,cop:missSubj,copular,5,3,fan,fan,solution,abs_surprisal_solution,10.98401327236344
+gpt2_small_ita,30,tiene il termometro sul comodino,act:missSubj,verb_pred,5,13,febbricitante,febbricitante,solution,abs_surprisal_solution,50.705637468982985
+gpt2_small_ita,115,un'insulsa poesiola,ind_DP,nominal,2,11,filastrocca,filastrocca,solution,abs_surprisal_solution,40.0532316215133
+gpt2_small_ita,137,famosi quelli di san francesco,adjP:pron,adjectival,5,8,fioretti,fioretti,solution,abs_surprisal_solution,25.629537479767897
+gpt2_small_ita,111,la pietra che produce scintille,def_DP:rel,nominal,5,6,focaia,focaia,solution,abs_surprisal_solution,34.90618029558091
+gpt2_small_ita,144,profonda quella delle marianne,adjP:pron,adjectival,4,5,fossa,fossa,solution,abs_surprisal_solution,20.20735930136964
+gpt2_small_ita,54,fu amata da polifemo,pass:missSubj,verb_pred,4,7,galatea,galatea,solution,abs_surprisal_solution,31.17570273753459
+gpt2_small_ita,69,quello liquido si conserva in bombole,imp_refl:missSubj,verb_pred,6,3,gas,gas,solution,abs_surprisal_solution,9.617408991563533
+gpt2_small_ita,45,quelli d'azzardo affollano il casinò,act:pron,verb_pred,5,9,giocatori,giocatori,solution,abs_surprisal_solution,34.47978152372933
+gpt2_small_ita,91,giudice che indaga,bare_NP:rel,nominal,3,3,gip,gip,solution,abs_surprisal_solution,21.03230060183932
+gpt2_small_ita,16,lo è il sasso d'abruzzo,cop:clitic,copular,5,4,gran,gran,solution,abs_surprisal_solution,8.67395754487074
+gpt2_small_ita,152,alzare il volume della voce,inf_VP,infinitive,5,7,gridare,gridare,solution,abs_surprisal_solution,24.021658954383863
+gpt2_small_ita,67,si applicano per abbellire,imp_refl:missSubj,verb_pred,4,11,guarnizioni,guarnizioni,solution,abs_surprisal_solution,42.21617877231649
+gpt2_small_ita,119,una sigla informatica,ind_DP,nominal,3,3,ibm,ibm,solution,abs_surprisal_solution,21.422748372378635
+gpt2_small_ita,36,lo adorano i pagani,act:clitic,verb_pred,4,5,idolo,idolo,solution,abs_surprisal_solution,16.98824696193185
+gpt2_small_ita,12,lo è l'opera di un genio,cop:clitic,copular,6,9,immortale,immortale,solution,abs_surprisal_solution,33.18467440836121
+gpt2_small_ita,15,lo è il vulcano spento,cop:clitic,copular,5,8,inattivo,inattivo,solution,abs_surprisal_solution,31.703870489826205
+gpt2_small_ita,13,lo è il carburatore troppo pieno di benzina,cop:clitic,copular,8,9,ingolfato,ingolfato,solution,abs_surprisal_solution,39.39940856241294
+gpt2_small_ita,19,non è promettente quello della fine,cop:pron,copular,6,6,inizio,inizio,solution,abs_surprisal_solution,8.375914203285319
+gpt2_small_ita,139,grandi quelli di einstein e dante,adjP:pron,adjectival,6,10,intelletti,intelletti,solution,abs_surprisal_solution,34.49597809929407
+gpt2_small_ita,133,passivo e attivo in banca,adjP,adjectival,5,9,interesse,interesse,solution,abs_surprisal_solution,8.495475790791888
+gpt2_small_ita,118,una forma di elettroterapia,ind_DP,nominal,4,10,ionoforesi,ionoforesi,solution,abs_surprisal_solution,38.742003355883
+gpt2_small_ita,100,la pista dei purosangue,def_DP,nominal,4,9,ippodromo,ippodromo,solution,abs_surprisal_solution,39.454255436394746
+gpt2_small_ita,124,come il poeta sotto l'influsso della musa,PP,prepositional,7,8,ispirato,ispirato,solution,abs_surprisal_solution,29.90973350595467
+gpt2_small_ita,56,viene cardata,pass:missSubj,verb_pred,2,4,lana,lana,solution,abs_surprisal_solution,11.749310537544575
+gpt2_small_ita,103,il coniglio come pelliccia,def_DP,nominal,4,5,lapin,lapin,solution,abs_surprisal_solution,16.544298692205526
+gpt2_small_ita,96,quotidiano che si legge a verona,bare_NP:rel,nominal,6,6,larena,larena,solution,abs_surprisal_solution,18.49458362038541
+gpt2_small_ita,79,quella di soia si prende per il colesterolo,imp_refl:other,verb_pred,8,8,lecitina,lecitina,solution,abs_surprisal_solution,23.95438280078476
+gpt2_small_ita,24,quelli marini sono le otarie,cop:pron,copular,5,5,leoni,leoni,solution,abs_surprisal_solution,19.238578416549373
+gpt2_small_ita,160,cambiano la sagra in lagna,metalinguistic,metalinguistic,5,2,ln,ln,solution,abs_surprisal_solution,16.548481876186646
+gpt2_small_ita,157,i confini del labrador,metalinguistic,metalinguistic,4,2,lr,lr,solution,abs_surprisal_solution,17.07354056896996
+gpt2_small_ita,82,cattiveria raffinata,bare_NP,nominal,2,9,malvagita,malvagita,solution,abs_surprisal_solution,42.33669861388001
+gpt2_small_ita,113,una riproduzione modellistica,ind_DP,nominal,3,8,maquette,maquette,solution,abs_surprisal_solution,34.76721635295412
+gpt2_small_ita,116,un rimedio contro i crampi,ind_DP,nominal,5,9,massaggio,massaggio,solution,abs_surprisal_solution,32.418797009259634
+gpt2_small_ita,3,è sana in corpore sano,cop:missSubj,copular,5,4,mens,mens,solution,abs_surprisal_solution,20.658986628608424
+gpt2_small_ita,153,in mezzo al tamigi,metalinguistic,metalinguistic,4,2,mi,mi,solution,abs_surprisal_solution,6.521552758619566
+gpt2_small_ita,148,preparare il salto in aria!,inf_VP,infinitive,5,6,minare,minare,solution,abs_surprisal_solution,13.211087441481355
+gpt2_small_ita,132,"docile, mansueto",adjP,adjectival,2,4,mite,mite,solution,abs_surprisal_solution,12.307392903558284
+gpt2_small_ita,37,lo può diventare un attore o un cantante,act:clitic,verb_pred,8,4,mito,mito,solution,abs_surprisal_solution,10.505815051827978
+gpt2_small_ita,89,donna che ha preso il velo,bare_NP:rel,nominal,6,6,monaca,monaca,solution,abs_surprisal_solution,24.245377376153552
+gpt2_small_ita,27,vestono il saio,act:missSubj,verb_pred,3,6,monaci,monaci,solution,abs_surprisal_solution,20.3109062613604
+gpt2_small_ita,34,lo fugge l'eremita,act:clitic,verb_pred,3,5,mondo,mondo,solution,abs_surprisal_solution,7.314545941420368
+gpt2_small_ita,86,"demi, nota attrice",bare_NP,nominal,3,5,moore,moore,solution,abs_surprisal_solution,18.74205389114821
+gpt2_small_ita,108,l'elsa che fu celebre scrittrice,def_DP:rel,nominal,5,7,morante,morante,solution,abs_surprisal_solution,28.01043419887881
+gpt2_small_ita,44,quelle eterne non si sciolgono,act:pron,verb_pred,5,4,nevi,nevi,solution,abs_surprisal_solution,14.681675390222324
+gpt2_small_ita,110,il fiume che straripando fertilizzava,def_DP:rel,nominal,5,4,nilo,nilo,solution,abs_surprisal_solution,18.195733201389448
+gpt2_small_ita,87,palmizi nel deserto,bare_NP,nominal,3,4,oasi,oasi,solution,abs_surprisal_solution,18.326058251076645
+gpt2_small_ita,5,è più o meno denso,cop:missSubj,copular,5,4,olio,olio,solution,abs_surprisal_solution,9.800125872192432
+gpt2_small_ita,53,sono esposti in stazione,pass:missSubj,verb_pred,4,5,orari,orari,solution,abs_surprisal_solution,19.070808476046288
+gpt2_small_ita,46,quello del corpo non ha le canne,act:pron,verb_pred,7,6,organo,organo,solution,abs_surprisal_solution,9.907284023131709
+gpt2_small_ita,22,quello lavatore è il procione,cop:pron,copular,5,7,orsetto,orsetto,solution,abs_surprisal_solution,29.2378899238818
+gpt2_small_ita,95,luogo recintato in cui si custodiscono le pecore,bare_NP:rel,nominal,8,5,ovile,ovile,solution,abs_surprisal_solution,18.21754774976032
+gpt2_small_ita,143,celebri quelli di annibale a capua,adjP:pron,adjectival,6,3,ozi,ozi,solution,abs_surprisal_solution,19.138237249892384
+gpt2_small_ita,106,la condicio che uguaglia,def_DP:rel,nominal,4,3,par,par,solution,abs_surprisal_solution,10.749167644193278
+gpt2_small_ita,117,un assieme di rattoppi,ind_DP,nominal,4,9,patchwork,patchwork,solution,abs_surprisal_solution,40.06116650455145
+gpt2_small_ita,32,piace ai lupi,act:missSubj,verb_pred,3,6,pecora,pecora,solution,abs_surprisal_solution,25.89541162079504
+gpt2_small_ita,97,l'occhio vigile del sommergibile,def_DP,nominal,4,10,periscopio,periscopio,solution,abs_surprisal_solution,31.3674405721488
+gpt2_small_ita,127,su un piatto della bilancia,PP,prepositional,5,4,pesi,pesi,solution,abs_surprisal_solution,11.628414438669411
+gpt2_small_ita,150,"foggiare, modellare",inf_VP,infinitive,2,8,plasmare,plasmare,solution,abs_surprisal_solution,29.61784783664468
+gpt2_small_ita,25,non preoccupa l'incosciente,act:missSubj,verb_pred,3,3,poi,poi,solution,abs_surprisal_solution,6.963826415615592
+gpt2_small_ita,138,pregiate quelle di limoges,adjP:pron,adjectival,4,10,porcellane,porcellane,solution,abs_surprisal_solution,30.26312461292786
+gpt2_small_ita,142,forti quelle dei lottatori,adjP:pron,adjectival,4,5,prese,prese,solution,abs_surprisal_solution,17.8566582603576
+gpt2_small_ita,122,di specchiata rettitudine,PP,prepositional,3,5,probo,probo,solution,abs_surprisal_solution,21.90949233451548
+gpt2_small_ita,125,ai lati del palcoscenico,PP,prepositional,4,6,quinte,quinte,solution,abs_surprisal_solution,27.106750108788844
+gpt2_small_ita,39,lo taglia il potatore,act:clitic,verb_pred,4,4,ramo,ramo,solution,abs_surprisal_solution,22.28972266212216
+gpt2_small_ita,104,la musica di jovanotti,def_DP,nominal,4,3,rap,rap,solution,abs_surprisal_solution,12.38123303626408
+gpt2_small_ita,10,lo sono le aquile,cop:clitic,copular,4,6,rapaci,rapaci,solution,abs_surprisal_solution,24.250553464816804
+gpt2_small_ita,50,è stato incoronato,pass:missSubj,verb_pred,3,2,re,re,solution,abs_surprisal_solution,8.377817642629998
+gpt2_small_ita,61,vi furono ritrovati noti bronzi,pass:other,verb_pred,5,5,riace,riace,solution,abs_surprisal_solution,21.794259877896007
+gpt2_small_ita,140,gustosi quelli di mare,adjP:pron,adjectival,4,5,ricci,ricci,solution,abs_surprisal_solution,25.4842265012452
+gpt2_small_ita,6,può essere gastronomica,cop:missSubj,copular,3,7,ricetta,ricetta,solution,abs_surprisal_solution,28.372467132556142
+gpt2_small_ita,52,è baciata in certe poesie,pass:missSubj,verb_pred,5,4,rima,rima,solution,abs_surprisal_solution,12.568365185618386
+gpt2_small_ita,76,vi si smorza l'onda,imp_refl:other,verb_pred,4,4,riva,riva,solution,abs_surprisal_solution,19.552823954165344
+gpt2_small_ita,154,concludono il giro,metalinguistic,metalinguistic,3,2,ro,ro,solution,abs_surprisal_solution,12.584590133648842
+gpt2_small_ita,58,vi sono registrati numeri telefonici,pass:other,verb_pred,5,7,rubrica,rubrica,solution,abs_surprisal_solution,31.47810192974523
+gpt2_small_ita,14,lo sono le cause che determinano un fenomeno,cop:clitic,copular,8,10,scatenanti,scatenanti,solution,abs_surprisal_solution,38.66722428706223
+gpt2_small_ita,33,ce la ricorda cariddi,act:clitic,verb_pred,4,6,scilla,scilla,solution,abs_surprisal_solution,24.466856011410776
+gpt2_small_ita,73,a lui si paragona un agile scalatore,imp_refl:other,verb_pred,7,10,scoiattolo,scoiattolo,solution,abs_surprisal_solution,45.25491994526594
+gpt2_small_ita,18,quella pontificia è santa,cop:pron,copular,4,4,sede,sede,solution,abs_surprisal_solution,13.752500210756722
+gpt2_small_ita,51,è soddisfatta con un bicchiere d'acqua,pass:missSubj,verb_pred,6,4,sete,sete,solution,abs_surprisal_solution,14.390988143174017
+gpt2_small_ita,88,verso con l'accento sulla sesta sillaba,bare_NP,nominal,6,10,settenario,settenario,solution,abs_surprisal_solution,10.329214943343672
+gpt2_small_ita,109,la stone che non fa muri,def_DP:rel,nominal,6,6,sharon,sharon,solution,abs_surprisal_solution,34.22386319299541
+gpt2_small_ita,55,sono formate da varie iniziali,pass:missSubj,verb_pred,5,5,sigle,sigle,solution,abs_surprisal_solution,21.71234352130649
+gpt2_small_ita,94,dolcezza che delizia,bare_NP:rel,nominal,3,7,soavita,soavita,solution,abs_surprisal_solution,20.10938804979402
+gpt2_small_ita,26,sembra un gemello,act:missSubj,verb_pred,3,5,sosia,sosia,solution,abs_surprisal_solution,15.180036933983637
+gpt2_small_ita,78,si cita quella di damocle,imp_refl:other,verb_pred,5,5,spada,spada,solution,abs_surprisal_solution,24.070308682139164
+gpt2_small_ita,131,innamorato cotto!,adjP,adjectival,2,10,spasimante,spasimante,solution,abs_surprisal_solution,39.86592584972327
+gpt2_small_ita,126,in un secondo tempo,PP,prepositional,4,15,successivamente,successivamente,solution,abs_surprisal_solution,6.437251132678498
+gpt2_small_ita,159,fine della partita,metalinguistic,metalinguistic,3,2,ta,ta,solution,abs_surprisal_solution,11.90896367937811
+gpt2_small_ita,74,ci si passano le ore studiando,imp_refl:other,verb_pred,6,8,tavolino,tavolino,solution,abs_surprisal_solution,27.50428497900202
+gpt2_small_ita,101,l'auto col tassametro,def_DP,nominal,3,4,taxi,taxi,solution,abs_surprisal_solution,23.042718059058853
+gpt2_small_ita,68,quello di salvataggio si usa negl'incendi,imp_refl:missSubj,verb_pred,6,4,telo,telo,solution,abs_surprisal_solution,13.06008575067624
+gpt2_small_ita,120,un attrezzo del terrorista,ind_DP,nominal,4,5,timer,timer,solution,abs_surprisal_solution,18.864043500508643
+gpt2_small_ita,80,vi si pigia l'uva,imp_refl:other,verb_pred,4,4,tino,tino,solution,abs_surprisal_solution,13.107310021449612
+gpt2_small_ita,155,a fine agosto,metalinguistic,metalinguistic,3,2,to,to,solution,abs_surprisal_solution,9.1745245150147
+gpt2_small_ita,40,lo consumano le fotocopiatrici,act:clitic,verb_pred,4,5,toner,toner,solution,abs_surprisal_solution,24.77344223390276
+gpt2_small_ita,66,si conserva sott'olio,imp_refl:missSubj,verb_pred,3,5,tonno,tonno,solution,abs_surprisal_solution,21.18259621676442
+gpt2_small_ita,149,confessare senza volere,inf_VP,infinitive,3,8,tradirsi,tradirsi,solution,abs_surprisal_solution,23.030336980830977
+gpt2_small_ita,41,a roma molti turisti visitano quella dei monti,act:pron,verb_pred,8,7,trinita,trinita,solution,abs_surprisal_solution,28.38574175820054
+gpt2_small_ita,57,ecuba ne fu regina,pass:other,verb_pred,4,5,troia,troia,solution,abs_surprisal_solution,26.784759076466003
+gpt2_small_ita,129,per niente superbo,adjP,adjectival,3,5,umile,umile,solution,abs_surprisal_solution,18.93634955351796
+gpt2_small_ita,9,può esserlo una mina,cop:clitic,copular,4,7,vagante,vagante,solution,abs_surprisal_solution,25.50397274433394
+gpt2_small_ita,47,quella di allegria non spettina,act:pron,verb_pred,5,7,ventata,ventata,solution,abs_surprisal_solution,27.54231237459125
+gpt2_small_ita,48,in cielo appare quella lattea,act:pron,verb_pred,5,3,via,via,solution,abs_surprisal_solution,7.275017652781572
+gpt2_small_ita,28,può far coppia con l'alloggio,act:missSubj,verb_pred,5,5,vitto,vitto,solution,abs_surprisal_solution,22.86104586831665
+gpt2_small_ita,112,le uscite di chi è sboccato,def_DP:rel,nominal,6,9,volgarita,volgarita,solution,abs_surprisal_solution,40.21640338860923
