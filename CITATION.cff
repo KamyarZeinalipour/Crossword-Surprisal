@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Surprisal and Crossword Clues Difficulty: Evaluating Linguistic Processing between LLMs and Humans"
+repository-code: "https://github.com/KamyarZeinalipour/Crossword-Surprisal"
+license: Apache-2.0
+authors:
+  - family-names: "Iaquinta"
+    given-names: "Tommaso"
+  - family-names: "Zanollo"
+    given-names: "Asya"
+  - family-names: "Fusco"
+    given-names: "Achille"
+  - family-names: "Zeinalipour"
+    given-names: "Kamyar"
+  - family-names: "Chesi"
+    given-names: "Cristiano"
+preferred-citation:
+  type: conference-paper
+  title: "Surprisal and Crossword Clues Difficulty: Evaluating Linguistic Processing between LLMs and Humans"
+  authors:
+    - family-names: "Iaquinta"
+      given-names: "Tommaso"
+    - family-names: "Zanollo"
+      given-names: "Asya"
+    - family-names: "Fusco"
+      given-names: "Achille"
+    - family-names: "Zeinalipour"
+      given-names: "Kamyar"
+    - family-names: "Chesi"
+      given-names: "Cristiano"
+  collection-title: "Proceedings of the Eleventh Italian Conference on Computational Linguistics (CLiC-it 2025), Cagliari, Italy, CEUR Workshop Proceedings"
+  conference:
+    name: "CLiC-it 2025"
+    city: "Cagliari"
+    country: IT
+  month: 9
+  year: 2025
+  start: 512
+  end: 525
+  url: "https://aclanthology.org/2025.clicit-1.50/"
