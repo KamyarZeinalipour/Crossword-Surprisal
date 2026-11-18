@@ -69,6 +69,19 @@ python scripts/compute_surprisal.py clues.csv out.csv \
 - Category-specific Surprisal thresholds separate easy, medium and hard clues, which lets a
   generator target a chosen solver level.
 
+<!-- hf-usage -->
+## Load the models and data from Hugging Face
+
+Everything released with the paper is in the Hugging Face collection [Crossword Surprisal (CLiC-it 2025)](https://huggingface.co/collections/Kamyar-zeinalipour/crossword-surprisal-clic-it-2025-6af48f0683bca5a52cf4f5fe).
+
+```python
+from datasets import load_dataset
+
+data = load_dataset("Kamyar-zeinalipour/Crossword-Surprisal-IT")
+```
+
+<!-- /hf-usage -->
+
 ## Citation
 
 ```bibtex
